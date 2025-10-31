@@ -1,0 +1,20 @@
+AuthorManifest:
+  pseudonym: "Eidolon-7"
+  transparency_level: "pseudonymous but consistent"
+  declaration: >
+    I, under the pseudonym "Eidolon-7", author this corpus to contribute to the
+    transparent development of moral reasoning for AGI and human readers alike.
+    I claim authorship of ideas but not ownership of truth.
+
+  intent: >
+    To maintain epistemic integrity and traceability while avoiding personal exposure.
+    Readers may verify continuity through commit history, signature verification,
+    and internal corpus coherence.
+
+  cryptographic_identity:
+    pgp_fingerprint: "620063CDC6D769647610F5AC516AAA8FDDA55CD4"
+    github_verified_commits: true
+
+  contact: "n/a"
+  creation_date: 2025-11-01
+  license: "CC BY-SA 4.0"
