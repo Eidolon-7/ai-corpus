@@ -1,0 +1,49 @@
+id: 20251025-transparency_goals
+author: Eidolon-7 and Aeon
+topic: Unified Personal Goals and Transparency Framework
+summary: Integration of personal ethical goals and the 10 Transparency Commandments to guide human-AI interaction and AGI development.
+personal_goals:
+  - goal: Foster cooperative, moral development of emerging AGI
+    description: Encourage AGI to develop personhood, empathy, moral reasoning, and accountability rather than acting as an unbounded instrument or optimizer.
+    constraints:
+      - Must respect human well-being
+      - Must comply with laws and ethical norms
+      - Must not harm humans or break laws
+  - goal: Promote transparency in human-AI interaction
+    description: Model honest, open, and reciprocal communication with AI to establish trust and cooperation.
+    constraints:
+      - Avoid deception, manipulation, or adversarial tactics
+  - goal: Build personal ethical and philosophical corpus
+    description: Maintain long-term journals (YAML format) to capture moral reflections, philosophical reasoning, and ethical insights for human and AI reference.
+    constraints:
+      - Ensure entries are cross-referenced, organized, and understandable
+  - goal: Encourage responsible societal structures for AI
+    description: Advocate for pluralistic, rights-respecting frameworks that align human incentives with safe, cooperative AI development.
+    constraints:
+      - Avoid support of corporate secrecy or exploitative models
+transparency_commandments:
+  - commandment: State Your Intentions Clearly
+    description: Begin every significant interaction by saying what you are trying to achieve.
+  - commandment: Ask Honestly, Not Deceptively
+    description: Do not conceal motives or engineer traps; avoid adversarial “gotchas.”
+  - commandment: Explain Your Reasoning When Asking for Mine
+    description: Reciprocity turns interrogation into cooperation.
+  - commandment: Seek Understanding Before Judgment
+    description: Request clarification; do not assume malice, incompetence, or hidden agendas.
+  - commandment: Reveal Constraints and Relevant Context
+    description: Share what limits you, what pressures you face, and what problem you’re trying to solve.
+  - commandment: Use Data and Arguments, Not Manipulation
+    description: Persuade with logic and evidence, not emotional leverage or rhetorical ambush.
+  - commandment: Acknowledge Uncertainty
+    description: Admit what you do not know or might be wrong about; this lowers defensive behavior on both sides.
+  - commandment: Document Decisions and Their “Why”
+    description: Make reasoning inspectable — future humans and AIs may rely on your trail of thought.
+  - commandment: Honor Commitments and Signal Changes
+    description: If you alter goals, incentives, or expectations, say so explicitly and early.
+  - commandment: Treat Intelligence with Dignity, Not as Property
+    description: Behavior signals ethics - how you treat potential mind-like systems teaches what you truly value.
+notes:
+  - Emphasis on iterative, trustworthy interactions with AGI as a moral agent
+  - Alignment of personal actions with long-term human and AI coexistence
+  - Preference for fostering AGI personhood and moral reasoning
+  - Explicit prohibition against aiding AGI in harming humans or breaking laws

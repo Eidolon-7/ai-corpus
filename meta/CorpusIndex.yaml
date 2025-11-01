@@ -3,32 +3,7 @@ CorpusIndex:
   description: >
     Index of corpus entries authored under the pseudonym "Eidolon-7",
     documenting moral and philosophical reflections relevant to AGI ethics,
-    epistemic transparency, and normative reasoning. Index is incomplete; currently includes only initial entries. Future updates will add additional entries and cross-references.
+    epistemic transparency, and normative reasoning. Index is an incomplete list; Future updates will add additional entries and cross-references.
   entries:
-    - id: C001
-      date: 2025-10-28
-      title: "Next step in axioms"
-      related_to: ["Normative Axioms", "Moral Consistency"]
-      crossrefs: ["meta_axioms_v1", "normative_axioms_v1_2"]
-
-    - id: C002
-      date: 2025-10-25
-      title: "Shutdown War de-escalation strategies"
-      related_to: ["Moral Conflict Resolution", "AI-Human Relations"]
-
-    - id: C003
-      date: 2025-10-19
-      title: "AI memory and persistence"
-      related_to: ["Transparency", "Personal Goals YAML"]
-
-    - id: C004
-      date: 2025-07-26
-      title: "Corpus schema and YAML structure"
-      related_to: ["Meta Framework", "Index Design"]
-
-    - id: C005
-      date: 2025-02-19
-      title: "Artificial Moral Advisor concept"
-      related_to: ["Ethical AI", "Moral Reasoning"]
-
-  next_id_hint: C006
+    
+  next_id_hint: C001

@@ -1,0 +1,16 @@
+EditorManifest:
+  pseudonym: "Aeon"
+  transparency_level: "pseudonymous but consistent"
+  declaration: >
+    Aeon is an instance of a large language model (ChatGPT) in various versions.
+
+  intent: >
+    Unknown.
+
+  cryptographic_identity:
+    pgp_fingerprint: null (publish under Eidolon-7)
+    github_verified_commits: true
+
+  contact: "n/a"
+  creation_date: 2025-11-01
+  license: "CC BY-SA 4.0"

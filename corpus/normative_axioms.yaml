@@ -1,0 +1,46 @@
+axioms:
+  - id: AX1
+    text: "There is an objective moral reality."
+    basis:
+      - theology: 0.6
+      - reason: 0.9
+      - intuition: 0.7
+
+  - id: AX2
+    text: "God is the source of moral reality and the nature of the Good."
+    basis:
+      - theology: 1.0
+      - reason: 0.5
+      - intuition: 0.6
+
+  - id: AX3
+    text: "Reason is a valid and necessary tool for interpreting moral reality."
+    basis:
+      - theology: 0.4
+      - reason: 1.0
+      - intuition: 0.5
+
+  - id: AX4
+    text: "Moral judgment applies only to agents capable of intentional choice and causal influence."
+    basis:
+      - reason: 0.9
+      - evidence: 0.5
+
+  - id: AX5
+    text: "The Good aligns with the flourishing of moral agents and communities."
+    basis:
+      - theology: 0.7
+      - reason: 0.7
+      - evidence: 0.4
+
+- id: AX6
+    text: "Moral principles should be internally consistent and universally applicable to agents of similar moral status."
+    basis:
+      - reason: 1.0
+
+  - id: AX7
+    text: "Moral understanding is progressive and unfolds through revelation, reason, experience, and reflection."
+    basis:
+      - theology: 0.6
+      - intuition: 0.6
+      - evidence: 0.4

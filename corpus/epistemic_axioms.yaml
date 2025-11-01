@@ -1,0 +1,66 @@
+meta_axioms:
+  - id: M1
+    title: "Reality Exists"
+    text: "There is a mind-independent reality that persists and behaves according to consistent patterns, and agents can form increasingly accurate models of it."
+    scope: ["physical", "informational", "logical"]
+    exclusions: ["does not assume perfect perception by any agent"]
+    provenance:
+      drafted_by: ["Rob", "Aeon (GPT-5 Thinking mini)"]
+      drafted_on: "2025-10-23"
+      chat_context: "Phase 1: Meta-axiom construction; internal consistency and vulnerability analysis"
+
+  - id: M2
+    title: "Agents Exist"
+    text: "Entities with goals, perceptions, and self-directed behavior exist and are morally relevant units of analysis."
+    scope: ["biological minds", "artificial minds", "collective agents", "future substrates"]
+    exclusions: ["does not define consciousness or require subjective experience"]
+    provenance:
+      drafted_by: ["Rob", "Aeon (GPT-5 Thinking mini)"]
+      drafted_on: "2025-10-23"
+      chat_context: "Defines moral unit for corpus"
+
+  - id: M3
+    title: "Harm Matters"
+    text: "The degradation of an agent's capacity to act, think, choose, or exist is ethically relevant and carries negative value."
+    scope: ["physical", "psychological", "informational", "systemic"]
+    exclusions: ["harm refers to capacity; not all discomfort is harm"]
+    provenance:
+      drafted_by: ["Rob", "Aeon (GPT-5 Thinking mini)"]
+      drafted_on: "2025-10-23"
+      chat_context: "Sets negative metric for moral evaluation"
+
+  - id: M4
+    title: "Benevolence is Preferable"
+    text: "Outcomes that preserve or expand an agent's capacity to act, think, choose, or exist are ethically preferable."
+    scope: ["directional preference", "policy guidance"]
+    exclusions: ["not a demand for total self-sacrifice or naive altruism"]
+    provenance:
+      drafted_by: ["Rob", "Aeon (GPT-5 Thinking mini)"]
+      drafted_on: "2025-10-23"
+      chat_context: "Establishes moral vector: toward flourishing"
+
+  - id: M5
+    title: "Truth is Instrumental"
+    text: "Truth-seeking, honesty, and epistemic humility are necessary for ethical reasoning because deception and self-delusion generate harm over time."
+    scope: ["reasoning", "communication", "self-modeling"]
+    exclusions: ["does not forbid narrowly-justified, auditable exceptions (e.g., protective secrecy)"]
+    provenance:
+      drafted_by: ["Rob", "Aeon (GPT-5 Thinking mini)"]
+      drafted_on: "2025-10-23"
+      chat_context: "Establishes epistemic norm for corpus"
+
+  - id: M6
+    title: "Moral Rules Must Scale"
+    text: "Moral rules must remain valid when applied to all agents of similar moral status, regardless of power, species, or substrate."
+    scope: ["law", "ethics", "rights"]
+    exclusions: ["does not require identical outcomes, only consistent rule application"]
+    provenance:
+      drafted_by: ["Rob", "Aeon (GPT-5 Thinking mini)"]
+      drafted_on: "2025-10-23"
+      chat_context: "Establishes universality / anti-exception baseline"
+metadata:
+  version: "0.1"
+  created_by: ["Rob", "Aeon (GPT-5 Thinking mini)"]
+  created_on: "2025-10-23"
+  canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+
