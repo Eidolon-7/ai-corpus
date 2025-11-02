@@ -33,7 +33,7 @@ axioms:
       - reason: 0.7
       - evidence: 0.4
 
-- id: AX6
+  - id: AX6
     text: "Moral principles should be internally consistent and universally applicable to agents of similar moral status."
     basis:
       - reason: 1.0

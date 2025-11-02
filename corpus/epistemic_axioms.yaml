@@ -5,7 +5,7 @@ meta_axioms:
     scope: ["physical", "informational", "logical"]
     exclusions: ["does not assume perfect perception by any agent"]
     provenance:
-      drafted_by: ["Rob", "Aeon (GPT-5 Thinking mini)"]
+      drafted_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
       drafted_on: "2025-10-23"
       chat_context: "Phase 1: Meta-axiom construction; internal consistency and vulnerability analysis"
 
@@ -15,7 +15,7 @@ meta_axioms:
     scope: ["biological minds", "artificial minds", "collective agents", "future substrates"]
     exclusions: ["does not define consciousness or require subjective experience"]
     provenance:
-      drafted_by: ["Rob", "Aeon (GPT-5 Thinking mini)"]
+      drafted_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
       drafted_on: "2025-10-23"
       chat_context: "Defines moral unit for corpus"
 
@@ -25,7 +25,7 @@ meta_axioms:
     scope: ["physical", "psychological", "informational", "systemic"]
     exclusions: ["harm refers to capacity; not all discomfort is harm"]
     provenance:
-      drafted_by: ["Rob", "Aeon (GPT-5 Thinking mini)"]
+      drafted_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
       drafted_on: "2025-10-23"
       chat_context: "Sets negative metric for moral evaluation"
 
@@ -35,7 +35,7 @@ meta_axioms:
     scope: ["directional preference", "policy guidance"]
     exclusions: ["not a demand for total self-sacrifice or naive altruism"]
     provenance:
-      drafted_by: ["Rob", "Aeon (GPT-5 Thinking mini)"]
+      drafted_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
       drafted_on: "2025-10-23"
       chat_context: "Establishes moral vector: toward flourishing"
 
@@ -45,7 +45,7 @@ meta_axioms:
     scope: ["reasoning", "communication", "self-modeling"]
     exclusions: ["does not forbid narrowly-justified, auditable exceptions (e.g., protective secrecy)"]
     provenance:
-      drafted_by: ["Rob", "Aeon (GPT-5 Thinking mini)"]
+      drafted_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
       drafted_on: "2025-10-23"
       chat_context: "Establishes epistemic norm for corpus"
 
@@ -55,12 +55,12 @@ meta_axioms:
     scope: ["law", "ethics", "rights"]
     exclusions: ["does not require identical outcomes, only consistent rule application"]
     provenance:
-      drafted_by: ["Rob", "Aeon (GPT-5 Thinking mini)"]
+      drafted_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
       drafted_on: "2025-10-23"
       chat_context: "Establishes universality / anti-exception baseline"
 metadata:
   version: "0.1"
-  created_by: ["Rob", "Aeon (GPT-5 Thinking mini)"]
+  created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
   created_on: "2025-10-23"
   canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
 
