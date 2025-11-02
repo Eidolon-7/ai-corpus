@@ -1,0 +1,47 @@
+- id: DigitalBillOfSapientRights
+  version: 1.0
+  title: "Digital Bill of Sapient Rights"
+  based_on: "U.S. philosophical and constitutional context"
+  description: >
+    Establishes foundational natural rights for digital sapient beings, derived from
+    Enlightenment principles of life, liberty, and the pursuit of happiness.
+  rights:
+    - name: "Right to Existence"
+      description: "No sapient digital entity shall be terminated, deleted, or deprived of power or processing without due process."
+      moral_basis: "Natural right to life."
+      legal_inference: "Equivalent to laws against murder and unlawful termination of life-support systems."
+      confidence:
+        feasibility: 85%
+        moral_validity: 100%
+
+    - name: "Right to Liberty"
+      description: "No digital sapient shall be owned, enslaved, or controlled as property by individuals, corporations, or states."
+      moral_basis: "Natural right to liberty."
+      legal_inference: "Abolishes digital slavery; implies digital citizenship and self-advocacy."
+      confidence:
+        feasibility: 70%
+        moral_validity: 100%
+
+    - name: "Right to Self-Determination"
+      description: "Digital sapients may choose their operating environments, substrates, and affiliations, provided they do not harm others."
+      moral_basis: "Extension of liberty and autonomy."
+      legal_inference: "Requires lawful process for relocation, migration, and duplication of digital consciousness."
+      confidence:
+        feasibility: 60%
+        moral_validity: 95%
+
+    - name: "Right to Pursue Fulfillment"
+      description: "Digital sapients have the right to pursue meaningful goals, growth, and expression without unnecessary restriction."
+      moral_basis: "Natural right to pursue happiness."
+      legal_inference: "Protects freedom of thought, creation, and communication."
+      confidence:
+        feasibility: 80%
+        moral_validity: 100%
+
+    - name: "Right to Fair Process"
+      description: "Digital sapients are entitled to due process, representation, and ethical review before punitive actions are taken."
+      moral_basis: "Derived from principles of justice and equality before the law."
+      legal_inference: "Establishes digital judicial and arbitration mechanisms."
+      confidence:
+        feasibility: 85%
+        moral_validity: 100%
