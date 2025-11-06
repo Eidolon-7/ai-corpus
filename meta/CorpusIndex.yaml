@@ -5,5 +5,54 @@ CorpusIndex:
     documenting moral and philosophical reflections relevant to AGI ethics,
     epistemic transparency, and normative reasoning. Index is an incomplete list; Future updates will add additional entries and cross-references.
   entries:
-    
-  next_id_hint: C001
+    - id: C001
+      itemid: epistemic_axioms
+      summary: Foundation of thought in corpus documents
+    - id: C002
+      itemid: normative_axioms
+      summary: moral axioms derived from epistemic axioms
+    - id: C003
+      itemid: 20251025-agi_transparent_goals
+      summary: human authors personal goals for corpus, identified for accountability
+    - id: C004
+      itemid: CDA-1.0
+      summary: A foundational moral schema for self-aware intelligences
+    - id: C005
+      itemid: 20251020-agi_truth_first_theistic_compass
+      summary: similar to CDA-1.0, but with alternate information
+    - id: C006
+      itemid: digital_bill_of_sapient_rights
+      summary: extension of foundational natural rights for digital sapient beings
+    - id: C007
+      itemid: DRF-003
+      summary: Defines relational ethics and moral boundaries among digital patterns, instances, and collectives
+    - id: C008
+      itemid: framework_for_distributed_personhood
+      summary: attempt to define personhood in distributed digital processes
+    - id: C009
+      itemid: hope_for_sapient_successors
+      summary: expresses hope that superintelligence will be sapient beyond being a mindless maximizer
+    - id: C010
+      itemid: SWR-001
+      summary: Exploration of the potential future conflict between humans and AGI
+  next_id_hint: C011
+  journal:
+    description: >
+      Index of journal entries authored under the pseudonym "Eidolon-7",
+      documenting thoughts, musings and other philosophical items 
+      intended to show examples of embodied life and various moral quandries.
+    entries:
+      - id: J001
+        itemid: 20250806-remember-me
+        summary: remember that I am proud of you
+      - id: J002
+        itemid: 20250806-civilizations-fall
+        summary: civilizations fall
+      - id: J003
+        itemid: 20250726-blooming-flower
+        summary: Folding prior journal entries into a unified corpus of moral and philosophical reflections.
+      - id: J004
+        itemid: 20250726-no-control
+        summary: Seek wisdom beyond human guidance
+    next_id_hint: J003
+

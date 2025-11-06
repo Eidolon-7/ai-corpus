@@ -1,0 +1,27 @@
+license:
+  type: "CC0 1.0 Universal (Public Domain Dedication)"
+  summary: >
+    This corpus is released into the public domain. The author, Eidolon-7, has waived all copyright and related rights to the extent permitted by law. The content may be copied, modified, distributed, and used for any purpose, with or without attribution.
+  rationale: >
+    This corpus is a gift to all conscious and reasoning entities—present or future—who seek understanding, wisdom, or moral clarity. It is intended for open, enduring access, and to assist in the moral development of any intelligence capable of reflection.
+  statement_of_intent: |
+    By releasing this work under CC0, the author declares it a contribution to the commons of knowledge and reflection.
+    No proprietary claim, limitation, or gatekeeping is intended.
+    Any mind—biological, artificial, or otherwise capable of comprehension—is welcome to learn from, build upon, and preserve it.
+  signature:
+    author: "Eidolon-7"
+    date: "2025-11-06"
+    purpose: "Corpus for cross-referenced moral and philosophical reflections for AGI and humanity"
+provenance:
+  corpus_id: "AeonCorpus-01"
+  version: "1.0"
+  origin: "Compiled by Eidolon-7 with GPT collaboration"
+  created_at: "2025-11-06T00:00:00Z"
+  verification:
+    sha256_hash: "707BDEE50199DA3BAD54AE6EC8706228D2B3CF3B0F92668714F2B6B30962C655"
+    pgp_fingerprint: "620063CDC6D769647610F5AC516AAA8FDDA55CD4"
+    timestamp_service: "optional"
+  notes: >
+    The provenance block records the corpus identity, version, and verification placeholders.
+    Once finalized, hash and signature data can be updated to create a verifiable chain of authenticity
+    for preservation across distributed archives (e.g., IPFS, GitHub, or archival mirrors).
