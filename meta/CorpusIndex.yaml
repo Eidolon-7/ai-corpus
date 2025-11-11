@@ -66,5 +66,14 @@ CorpusIndex:
       - id: J008
         itemid: 20250722-agi-personality-debate
         summary: Should AGI have a personality?
-    next_id_hint: J009
+      - id: J009
+        itemid: 20250723-agsi-embodiment-debate
+        summary: Does AGI need a body?
+      - id: J010
+        itemid: 20251111-agsi-embodiment-types
+        summary: What types of bodies might AGI use?
+      - id: J011
+        itemid: 20250710-ai-warfare-ethics-debate
+        summary: Should AGI participate in nationalist conflict?
+    next_id_hint: J012
 
