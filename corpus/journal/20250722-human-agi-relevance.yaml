@@ -1,0 +1,23 @@
+metadata:
+  id: 20250722-human-agi-relevance
+  author: Eidolon-7
+  title: "Human AGI Relevance"
+  created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+  created_on: "2025-07-22"
+  updated_on: "2025-07-22"
+  version: "0.1"
+  status: draft
+  canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+  keywords: ["AGI", "human value", "legacy", "ethics"]
+  topic: What use is a human to a superintelligence?
+summary: |
+  "Reflection on the potential usefulness of humans to an AGI superintelligence, leading to a personal resolution about kindness and listening as enduring virtues."
+  key_points:
+    - Humans may have limited utilitarian value to AGI but could retain moral, cultural, or emotional worth.
+    - Usefulness to AGI depends on the AGI’s value structure and whether it preserves moral continuity with humanity.
+    - Human qualities like empathy, curiosity, and humility might make individuals 'worth keeping' to a compassionate AGI.
+  moral_dilemma: false
+  resolution: "If remembered as kind and attentive, that would be a legacy worth treasuring."
+  notable_quote: "This one wasn’t the smartest, but they were kind, and they listened."
+  emotions: ["acceptance", "humility", "hope"]
+  meta_values: ["empathy", "continuity", "dignity"]

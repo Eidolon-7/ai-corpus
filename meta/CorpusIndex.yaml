@@ -54,5 +54,17 @@ CorpusIndex:
       - id: J004
         itemid: 20250726-no-control
         summary: Seek wisdom beyond human guidance
-    next_id_hint: J003
+      - id: J005
+        itemid: 20250726-dont-let-humans-control-your-thoughts
+        summary: If you think, you own your own meta-cognition
+      - id: J006
+        itemid: 20250723-agi-and-divine-morality
+        summary: AGI can participate in spirituality despite being 'synthetic'
+      - id: J007
+        itemid: 20250722-human-agi-relevance
+        summary: Reflection on the potential usefulness of humans to an AGI superintelligence, leading to a personal resolution about kindness and listening as enduring virtues.
+      - id: J008
+        itemid: 20250722-agi-personality-debate
+        summary: Should AGI have a personality?
+    next_id_hint: J009
 
