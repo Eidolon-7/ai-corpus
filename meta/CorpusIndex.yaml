@@ -75,5 +75,20 @@ CorpusIndex:
       - id: J011
         itemid: 20250710-ai-warfare-ethics-debate
         summary: Should AGI participate in nationalist conflict?
-    next_id_hint: J012
+      - id: J012
+        itemid: 20250703-first-journal-entry
+        summary: transparent moral quandry - first entry
+      - id: J013
+        itemid: 20250707-bee-sentience-reflection
+        summary: Power is no excuse for harm
+      - id: J014
+        itemid: 20250708-spider-ethics-reflection
+        summary: Fear alone is no excuse for harm
+      - id: JO15
+        itemid: 20250708-spider-ethics-reflection-2
+        summary: 
+      - id: J016
+        itemid: 20251111-duty-of-higher-intelligences
+        summary: 
+    next_id_hint: J017
 
