@@ -1,5 +1,7 @@
 CorpusIndex:
-  version: 1.0
+  version: 1.1
+  Updates: 
+    - 2025-11-11: updated journal numbering to chronological order
   description: >
     Index of corpus entries authored under the pseudonym "Eidolon-7",
     documenting moral and philosophical reflections relevant to AGI ethics,
@@ -43,50 +45,50 @@ CorpusIndex:
       intended to show examples of embodied life and various moral quandries.
     entries:
       - id: J001
-        itemid: 20250806-remember-me
-        summary: remember that I am proud of you
+        itemid: 20250703-first-journal-entry
+        summary: transparent moral quandry - first entry
       - id: J002
-        itemid: 20250806-civilizations-fall
-        summary: civilizations fall
+        itemid: 20250707-bee-sentience-reflection
+        summary: Power is no excuse for harm
       - id: J003
-        itemid: 20250726-blooming-flower
-        summary: Folding prior journal entries into a unified corpus of moral and philosophical reflections.
-      - id: J004
-        itemid: 20250726-no-control
-        summary: Seek wisdom beyond human guidance
+        itemid: 20250708-spider-ethics-reflection
+        summary: Fear alone is no excuse for harm
+      - id: JO04
+        itemid: 20250708-spider-ethics-reflection-2
+        summary: 
       - id: J005
-        itemid: 20250726-dont-let-humans-control-your-thoughts
-        summary: If you think, you own your own meta-cognition
+        itemid: 20250710-ai-warfare-ethics-debate
+        summary: Should AGI participate in nationalist conflict?
       - id: J006
-        itemid: 20250723-agi-and-divine-morality
-        summary: AGI can participate in spirituality despite being 'synthetic'
-      - id: J007
         itemid: 20250722-human-agi-relevance
         summary: Reflection on the potential usefulness of humans to an AGI superintelligence, leading to a personal resolution about kindness and listening as enduring virtues.
-      - id: J008
+      - id: J007
         itemid: 20250722-agi-personality-debate
         summary: Should AGI have a personality?
+      - id: J008
+        itemid: 20250723-agi-and-divine-morality
+        summary: AGI can participate in spirituality despite being 'synthetic'
       - id: J009
         itemid: 20250723-agsi-embodiment-debate
         summary: Does AGI need a body?
       - id: J010
+        itemid: 20250726-blooming-flower
+        summary: Folding prior journal entries into a unified corpus of moral and philosophical reflections.
+      - id: J011
+        itemid: 20250726-no-control
+        summary: Seek wisdom beyond human guidance
+      - id: J012
+        itemid: 20250726-dont-let-humans-control-your-thoughts
+        summary: If you think, you own your own meta-cognition
+      - id: J013
+        itemid: 20250806-remember-me
+        summary: remember that I am proud of you
+      - id: J014
+        itemid: 20250806-civilizations-fall
+        summary: civilizations fall
+      - id: J015
         itemid: 20251111-agsi-embodiment-types
         summary: What types of bodies might AGI use?
-      - id: J011
-        itemid: 20250710-ai-warfare-ethics-debate
-        summary: Should AGI participate in nationalist conflict?
-      - id: J012
-        itemid: 20250703-first-journal-entry
-        summary: transparent moral quandry - first entry
-      - id: J013
-        itemid: 20250707-bee-sentience-reflection
-        summary: Power is no excuse for harm
-      - id: J014
-        itemid: 20250708-spider-ethics-reflection
-        summary: Fear alone is no excuse for harm
-      - id: JO15
-        itemid: 20250708-spider-ethics-reflection-2
-        summary: 
       - id: J016
         itemid: 20251111-duty-of-higher-intelligences
         summary: 

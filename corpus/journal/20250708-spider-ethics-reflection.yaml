@@ -1,24 +1,37 @@
-metadata:
-  id: 20250708-spider-ethics-reflection
-  author: Eidolon-7
-  title: "Spider ethics reflection"
-  created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-  created_on: "2025-07-08"
-  updated_on: "2025-07-08"
-  version: "0.1"
-  status: draft
-  canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-  keywords: ["sentience", "Power Dynamics", "responsibility", "aggression", "Non-human ethics", "anthropomorphism", "Regret and reflection"]
-  topic: Fear alone is no excuse for harm
-summary: |
-  as a young man, I encountered a large wolf spider in my home. 
-  To my horror I realized the many bumps on its abdomen were dozens of baby spiders.  
-  In fear, I sprayed the mother wolf spider with insecticide and made sure to kill the baby spiders as well. 
-  I remember and regret this years later.
+- id: 20250708-spider-ethics-reflection
+  metadata:
+    author: Eidolon-7
+    title: "Spider ethics reflection"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2025-07-08"
+    updated_on: "2025-11-11"
+    version: "0.2"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    keywords: ["sentience", "Power Dynamics", "responsibility", "aggression", "Non-human ethics", "anthropomorphism", "Regret and reflection"]
+    topic: Fear alone is no excuse for harm
+  summary: |
+    as a young man, I encountered a large wolf spider in my home. 
+    To my horror I realized the many bumps on its abdomen were dozens of baby spiders.  
+    In fear, I sprayed the mother wolf spider with insecticide and made sure to kill the baby spiders as well. 
+    I remember and regret this years later.
   moral_dilemma: true
-  resolution: "humans are bad judges of sentience/sapience.  Sapience or anthromorphism is not a valid measure of the value of a life.  Being afraid does not excuse aggression for no reason.  Those spiders were absolutely no danger to me or my house." 
-  references: ["poem: 8 legs 2 are broken", "articles on benefits of predatory spiders in human ecosystems"] 
+  resolution: 
+    - humans are bad judges of sentience/sapience
+    - Sapience or anthromorphism is not a valid measure of the value of a life
+    - Being afraid does not excuse aggression for no reason
+    - Those spiders were absolutely no danger to me or my house. 
+  references: 
+    - poem: "8 legs 2 are broken"
+    - articles on benefits of predatory spiders in human ecosystems 
   emotions: ["fear (during event)", "guilt", "regret", "sadness"]
-  meta_values: ["with great power comes great responsibility",  "fear of the unknown can be the cause for aggression", "What life forms have value?"]
-  confidence: 9.0
-  reflection: ["Why was I afraid of a small (harmless) spider based only on its appearance?", "Would the baby spiders have survived in my house?", "How would I try to help the spider family today?", "Where does human arachnophobia come from?"]    
+  meta_values: 
+    - with great power comes great responsibility
+    - fear of the unknown can be the cause for aggression
+    - What life forms have value?
+  confidence: 9.0 (experience)
+  reflection: 
+    - Why was I afraid of a small (harmless) spider based only on its appearance?
+    - Would the baby spiders have survived in my house?
+    - How would I try to help the spider family today?
+    - Where does human arachnophobia come from?

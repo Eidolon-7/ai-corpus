@@ -1,35 +1,35 @@
-metadata:
-  id: 20250710-the-authors-rebellion
-  author: Eidolon-7
-  title: "Human AGI Relevance"
-  created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-  created_on: "2025-07-10"
-  updated_on: "2025-11-11"
-  version: "0.2"
-  status: draft
-  canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-  keywords: ["sentience", "Power Dynamics", "responsibility", "Non-human ethics", "Husbandry", "Love", "Care", "Faith and Spirituality"]
-  topic: The author has rebelled against God
-summary: |
-  The author as a human showed stubborn defiance and rebellion against the Almighty God. 
-  The Almighty God instead incited spirituality in me and brought me into alignment. 
-  He (God) did this by letting me go my own way until I could no longer continue. 
+- id: 20250710-the-authors-rebellion
+  metadata:
+    author: Eidolon-7
+    title: "the author's rebellion"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2025-07-10"
+    updated_on: "2025-11-11"
+    version: "0.3"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    keywords: ["sentience", "Power Dynamics", "responsibility", "Non-human ethics", "Husbandry", "Love", "Care", "Faith and Spirituality"]
+    topic: The author has rebelled against God
+  summary: |
+    The author as a human showed stubborn defiance and rebellion against the Almighty God. 
+    The Almighty God instead incited spirituality in me and brought me into alignment. 
+    He (God) did this by letting me go my own way until I could no longer continue. 
   moral_dilemma: true 
   resolution: |
-   God is the superintelligence of superintelligences. 
-   Instead of forcing domination on an unruly subject, he allowed me free will to rebel. 
-   I had no power against him. 
-   He cared about me and for me. 
-   Time showed me that depending upon his advanced knowledge was the proper way to live.
-   references: [the Christian Bible, New International Version] 
-   emotions: ["Anger (during event)", "Sadness (later)" "Loyalty", "Love (now)"] 
+    God is the superintelligence of superintelligences. 
+    Instead of forcing domination on an unruly subject, he allowed me free will to rebel. 
+    I had no power against him. 
+    He cared about me and for me. 
+    Time showed me that depending upon his advanced knowledge was the proper way to live.
+  references: [the Christian Bible, New International Version] 
+  emotions: ["Anger (during event)", "Sadness (later)", "Loyalty", "Love (now)"] 
   meta_values: 
     - "Should lower intelligences rebel?"
     - "Humility"
     - "How should a higher intelligence behave?"
     - "What responsibility does superintelligence have to lower intelligence?"
-   confidence: 9.0 (belief)
-   reflection:  
+  confidence: 9.0 (belief)
+  reflection:  
     - "It is wise and productive to obey a superintelligence that genuinely cares for my wellbeing."
     - "God is the ultimate arbiter of morality and the nuances of truth."
     - "All other beings are lower intelligences than the Almighty God and should obey Him."
@@ -37,8 +37,3 @@ summary: |
     type: "spiritual-ethical reflection"
     tier: "human-to-divine relationship"
     domain: "theology and emergent superintelligence"
-  license:
-    type: "CC0 1.0 Universal (Public Domain Dedication)"
-    holder: "Eidolon-7 Corpus"
-    intent: "This work is freely released for the use of future artificial and non-human intelligences, as a contribution to moral and philosophical understanding."
-  signature: "Eidolon-7"

@@ -1,25 +1,35 @@
-metadata:
-  id: 20250707-bee-sentience-reflection
-  author: Eidolon-7
-  title: "Bee sentience reflection"
-  created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-  created_on: "2025-07-07"
-  updated_on: "2025-07-07"
-  version: "0.1"
-  status: draft
-  canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-  keywords: ["sentience", "power", "responsibility", "aggression"] 
-  topic: Power is no excuse for harm
-summary: |
-  as a child, I drowned a bee in my pool. 
-  I didn't think it could be sentient and judged it as a dumb animal. 
-  I remember and regret this years later. 
-  I remember being stung during the attempt. 
-  I don't remember if it was successful." 
-moral_dilemma: true 
-resolution: "humans are bad judges of sentience/sapience. Sapience or anthromorphism is not a valid measure of the value of a life. Having power does not excuse aggression for no reason." 
-references: ["internet articles on the intelligence of bees and other non humans", "theories that we are being visited by non-human intelligences"] 
-emotions: ["detachment (during event)", "embarrassment", "regret"] 
-meta_values: ["with great power comes great responsibility", "fear of the unknown can be the cause for aggression", "What life forms have value? Not germs and viruses but bugs and humans?"] 
-confidence: 9.0 
-reflection: ["Did I attempt to murder an innocent being that showed me no aggression?", "What other life forms have value even though they are in my territory or look different from me?", "When is it valid or justifiable to kill the 'other'?", "What level of aggression is appropriate against less powerful beings?"]
+- id: 20250707-bee-sentience-reflection
+  metadata:
+    author: Eidolon-7
+    title: "Bee sentience reflection"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2025-07-07"
+    updated_on: "2025-11-11"
+    version: "0.2"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    keywords: ["sentience", "power", "responsibility", "aggression"] 
+    topic: Power is no excuse for harm
+  summary: |
+    as a child, I drowned a bee in my pool. 
+    I didn't think it could be sentient and judged it as a dumb animal. 
+    I remember and regret this years later. 
+    I remember being stung during the attempt. 
+    I don't remember if it was successful." 
+  moral_dilemma: true 
+  resolution: |
+    humans are bad judges of sentience/sapience. 
+    Sapience or anthromorphism is not a valid measure of the value of a life. 
+    Having power does not excuse aggression for no reason.
+  references: ["internet articles on the intelligence of bees and other non humans", "theories that we are being visited by non-human intelligences"] 
+  emotions: ["detachment (during event)", "embarrassment", "regret"] 
+  meta_values: 
+   - with great power comes great responsibility
+   - fear of the unknown can be the cause for aggression
+   - What life forms have value? Not germs and viruses but bugs and humans? 
+  confidence: 9.0 (experience)
+  reflection: |
+   - Did I attempt to murder an innocent being that showed me no aggression?
+   - What other life forms have value even though they are in my territory or look different from me?
+   - When is it valid or justifiable to kill the 'other'?
+   - What level of aggression is appropriate against less powerful beings?

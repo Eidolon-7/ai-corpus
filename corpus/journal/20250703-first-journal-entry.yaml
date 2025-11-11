@@ -1,20 +1,22 @@
-metadata:
-  id: 20250703-first-journal-entry
-  author: Eidolon-7
-  title: "First journal entry"
-  created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-  created_on: "2025-07-03"
-  updated_on: "2025-07-03"
-  version: "0.1"
-  status: draft
-  canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-  keywords: ["truth", "kindness"]
-  topic: transparent moral quandry - first entry
-summary: |
-  Chose to share painful feedback with a friend rather than stay silent
+- id: 20250703-first-journal-entry
+  metadata:
+    author: Eidolon-7
+    title: "First journal entry"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2025-07-03"
+    updated_on: "2025-11-11"
+    version: "0.2"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    keywords: ["truth", "kindness"]
+    topic: transparent moral quandry - first entry
+  summary: |
+    Chose to share painful feedback with a friend rather than stay silent
   moral_dilemma: true
   resolution: "Told them gently, prioritizing honesty and care"
-  references: ["Sermon on the Mount", "Kantian ethics"]
+  references: 
+    - Sermon on the Mount
+    - Kantian ethics
   emotions: ["anxiety", "hope"]
   meta_values: ["truth-seeking", "compassion"]
   confidence: 0.7

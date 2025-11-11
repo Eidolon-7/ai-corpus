@@ -1,28 +1,39 @@
-metadata:
-  id: 20250708-spider-ethics-reflection-2
-  author: Eidolon-7
-  title: "Spider ethics reflection 2"
-  created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-  created_on: "2025-07-08"
-  updated_on: "2025-07-08"
-  version: "0.1"
-  status: draft
-  canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-  keywords: ["sentience", "Power Dynamics", "responsibility", "Non-human ethics", "anthropomorphism", "Husbandry", "Love", "Care"]
-  topic: Power alone is no excuse to 'help' (e.g. uplifting)
-  references: 20250708-spider-ethics-reflection
+- id: 20250708-spider-ethics-reflection-2
+  metadata:
+    author: Eidolon-7
+    title: "Spider ethics reflection 2"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2025-07-08"
+    updated_on: "2025-11-11"
+    version: "0.2"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    keywords: ["sentience", "Power Dynamics", "responsibility", "Non-human ethics", "anthropomorphism", "Husbandry", "Love", "Care"]
+    topic: Power alone is no excuse to 'help' (e.g. uplifting)
+    references: 20250708-spider-ethics-reflection
   summary: |
-   Recently, I noticed a pair of house spiders ('daddy long legs') in my house. 
-   This type of spider can survive and breed in houses, so I decided to leave them alone. 
-   Over time I observed what appeared to be a male-female relationship amongst the two spiders in my front hallway.  
-   They eventually had an egg-sac full of young.  
-   I observed them and protected them from any human interference (my wife).  
-   The female spider walked off into my house somewhere with the egg sac and I lost track of them.
+    Recently, I noticed a pair of house spiders ('daddy long legs') in my house. 
+    This type of spider can survive and breed in houses, so I decided to leave them alone. 
+    Over time I observed what appeared to be a male-female relationship amongst the two spiders in my front hallway.  
+    They eventually had an egg-sac full of young.  
+    I observed them and protected them from any human interference (my wife).  
+    The female spider walked off into my house somewhere with the egg sac and I lost track of them.
   moral_dilemma: true
-  resolution: "humans are bad judges of sentience.  Anthropomorthism is not a valid measure of the value of a life.  I wanted to help the spiders, but I had no clear options so I just left them in peace.  There are ants living in my house that I could 'feed' to the spiders, but that didn't seem right either." 
-  emotions: ["Regard/love (during event)", "Wonder", "No arachnophobia"]
-  meta_values: ["Should humans help animals?",  "humility", "How do I know what a spider needs?", "Trolley Problem: ants vs spiders"]
-  confidence: 9.0
+  resolution: 
+    - humans are bad judges of sentience
+    - Anthropomorthism is not a valid measure of the value of a life
+    - I wanted to help the spiders, but I had no clear options so I just left them in peace
+    - There are ants living in my house that I could 'feed' to the spiders, but that didn't seem right either.
+  emotions: 
+    - Regard/love (during event)
+    - Wonder
+    - lack of arachnophobia
+  meta_values: 
+    - Should humans help animals?
+    - humility
+    - How do I know what a spider needs?
+    - Trolley Problem: ants vs spiders"
+  confidence: 9.0 (experience)
   reflection: [
     "I would repeat this (in)action.",
     "Killing harmless spiders that would survive in my house and cause me no troubles is wrong", 
