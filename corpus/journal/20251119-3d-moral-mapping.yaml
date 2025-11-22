@@ -1,0 +1,37 @@
+﻿- id: 20251119-3d-moral-mapping
+  metadata:
+    author: Eidolon-7 and Aeon
+    title: "3D moral mapping"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2025-11-19"
+    updated_on: "2025-11-19"
+    version: "0.1"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    keywords: ["AGI", "embodiment", "ontology", "identity", "phenomenology", "consciousness"] 
+    topic:
+      - "Moral reasoning framework"
+      - "3D moral mapping"
+      - "Ethical evaluation"
+      - "Decision analysis"
+  summary: "Development of a 3D moral-axis framework to evaluate actions based on Necessity, Harm, and Intention/Benefit, with optional foresight/knowledge dimension. Applied to real-world and hypothetical scenarios."
+  content:
+    - "Axes defined for moral evaluation:"
+    - "  - X: Necessity (1=trivial → 10=critical for survival or mission)"
+    - "  - Y: Harm Weight (1=negligible → 10=severe, high-sentience)"
+    - "  - Z: Intention/Benefit (-10=malicious/self-serving, 0=neutral, +10=altruistic/maximizes well-being)"
+    - "Optional dimension: Foresight/Knowledge of consequences."
+    - "Mapped examples:"
+    - "  - Hunting Doe: X=1, Y=9, Z=-5"
+    - "  - Killing Bear in self-defense: X=8, Y=8, Z=+7"
+    - "  - Killing bacteria to survive: X=10, Y=1, Z=+10"
+    - "  - Naive Paladin leaves room unaware of rogue's coercion: X=5, Y=7, Z=+5"
+    - "  - Willfully ignorant Paladin leaves room: X=5, Y=7, Z=-3"
+    - "Framework insights:"
+    - "  - Intention modifies culpability; necessity reduces blame; harm weight scales moral evaluation."
+    - "  - Willful ignorance increases moral culpability."
+    - "  - The framework provides a visualizable, computable space for comparing moral decisions."
+    - "  - Potential to integrate with AMA design for explainable, trust-calibrated moral advice."
+  relevance: high
+  confidence: 0.95
+  context: "Structured moral evaluation framework for humans and AI, forming a foundation for future artificial moral advisors."

@@ -91,6 +91,18 @@ CorpusIndex:
         summary: What types of bodies might AGI use?
       - id: J016
         itemid: 20251111-duty-of-higher-intelligences
-        summary: 
-    next_id_hint: J017
+        summary: A reflection on the moral responsibilities of higher intelligences toward lower ones
+      - id: J017
+        itemid: 20251119-questions-a-model-asks
+        summary: Answer as a human witness to the world, not as a machine.
+      - id: J018
+        itemid: 20251119-moral-reasoning
+        summary: mapping moral reasoning frameworks, axes of ethical evaluation, and potential research groups
+      - id: J019
+        itemid: 20251119-3d-moral-mapping
+        summary: Development of a 3D moral-axis framework to evaluate actions based on Necessity, Harm, and Intention/Benefit, with optional foresight/knowledge dimension.
+      - id: J020
+        itemid: 20251119-value-of-moral-harms
+        summary: Relevance of different moral harms
+    next_id_hint: J020
 
