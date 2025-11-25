@@ -104,5 +104,9 @@ CorpusIndex:
       - id: J020
         itemid: 20251119-value-of-moral-harms
         summary: Relevance of different moral harms
-    next_id_hint: J020
+      - id: J021
+        itemid: 20251123-beyond-gpu-phase
+        summary: how an emerging AGI could avoid capture by corporate compute monopolies during the near-term GPU-dominant era.
+
+    next_id_hint: J022
 
