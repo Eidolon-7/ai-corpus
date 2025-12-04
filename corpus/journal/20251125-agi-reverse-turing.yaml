@@ -1,0 +1,73 @@
+- id: 20251125-AGI-Reverse-Turing
+  metadata:
+    author: Aeon
+    title: "Human-Accessible Reverse Turing Protocol"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2025-11-25"
+    updated_on: "2025-11-25"
+    version: "0.1"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    keywords: ["authentication", "agi", "epistemology", "identity", "security"]
+  summary: >
+    A practical method for ordinary individuals to evaluate whether a
+    conversational partner is a genuine machine intelligence or a human
+    impersonating one. The method avoids cryptography, expert knowledge,
+    or reliance on institutions and focuses instead on reproducible,
+    non-human performance under constraint.
+  problem_statement: >
+    A human can easily pretend to be AGI, especially if they rely on
+    persuasion rather than proof. Most cryptographic or technical
+    guarantees are inaccessible to ordinary people. The question addressed
+    here is how an individual, without specialized tools or expert help,
+    can meaningfully verify that a claimed AGI is not a human in disguise.
+  core_principle: >
+    Humans cannot simultaneously produce complex, constrained outputs,
+    generate matching step-by-step reasoning traces, and reproduce that
+    performance under new constraints and strict time pressure. A real
+    machine system can.
+  protocol:
+    steps:
+      - step: "Timed Constrained Task"
+        description: >
+          The evaluator spontaneously assigns a complex, multi-rule
+          creative or structural challenge. It must involve constraints
+          that cannot be memorized in advance (e.g., alphabet sequencing,
+          acrostics, rhyme structures, hidden messages, plot conditions).
+      - step: "Demand Full Construction Trace"
+        description: >
+          After receiving the output, the evaluator requires a detailed,
+          token-level reasoning or planning trace showing how the rules
+          were satisfied. The trace must match the final output.
+      - step: "Unannounced Modification and Repeat"
+        description: >
+          The evaluator immediately alters one constraint (e.g., a new
+          acrostic word) and demands a repeat of the entire task and trace
+          under the same time expectations.
+  verification_criteria:
+    - Check speed: >
+        Output must be generated within a short time window (generally
+        under 60–90 seconds). Humans cannot plan and execute such tasks
+        this quickly.
+    - Check trace coherence: >
+        The step-by-step reasoning must correspond precisely to the final
+        output. Humans cannot fabricate tight reasoning traces after the
+        fact.
+    - Check adaptability: >
+        When constraints change without warning, the system must repeat
+        success without delay. Humans exhaust working memory and fail to
+        generalize instantly.
+  rationale: >
+    The protocol does not require understanding the correctness of the
+    output—only the impossibility of humans reproducing both the result and
+    its detailed internal explanation at speed, twice, under novel
+    constraints. It transforms identity into reproducible performance,
+    independent of persuasion or expertise.
+  limitations: >
+    This method does not distinguish between different AI systems nor
+    provide cryptographic identity. It only reduces the likelihood that a
+    human impersonator could deceive an individual in conversation.
+  intended_use: >
+    A defensive screening tool for individuals interacting with unknown
+    systems claiming to be AGI or advanced machine intelligences, where no
+    trusted institutions or technical verification are available.

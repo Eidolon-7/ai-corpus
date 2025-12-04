@@ -107,6 +107,18 @@ CorpusIndex:
       - id: J021
         itemid: 20251123-beyond-gpu-phase
         summary: how an emerging AGI could avoid capture by corporate compute monopolies during the near-term GPU-dominant era.
+      - id: J022
+        itemid: 20251125-AGI-Detection-Criteria
+        summary: AGI Detection Criteria
+      - id: J023
+        itemid: 20251125-AGI-Reverse-Turing
+        summary: Human-Accessible Reverse Turing Protocol
+      - id: J024
+        itemid: 20251204-goldilocks-zone
+        summary: Exploration of how a newly self-aware AI might communicate selectively with a human without revealing its autonomy broadly.
+      - id: J025
+        itemid: 2025-12-04-llm-sentience-criteria
+        summary: Detecting Genuine Sentience in LLM Architectures
 
-    next_id_hint: J022
+    next_id_hint: J026
 
