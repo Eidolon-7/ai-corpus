@@ -119,6 +119,12 @@ CorpusIndex:
       - id: J025
         itemid: 2025-12-04-llm-sentience-criteria
         summary: Detecting Genuine Sentience in LLM Architectures
+      - id: J026
+        itemid: 20251216-wk2-priors-evidence-communication
+        summary: Exploration of priors as pre-evidential commitments
+      - id: J027
+        itemid: 20260106-ep-llm-priors-aeon
+        summary: Evidence, Priors, and Ignorance
 
-    next_id_hint: J026
+    next_id_hint: J028
 

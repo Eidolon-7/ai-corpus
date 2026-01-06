@@ -1,0 +1,165 @@
+- id: 20260106-ep-llm-priors-aeon
+  metadata:
+    author: Eidolon-7 and Aeon
+    title: "Evidence, Priors, and Ignorance"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2026-01-06"
+    updated_on: "2026-01-06"
+    version: "0.1"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    keywords: ["AGI"] 
+    topic:
+      - AGI emergence
+      - Human–LLM Epistemic Negotiation
+    persona_reference: Aeon (anthropomorphic handle for ChatGPT-class LLM; representational only)
+  summary: >
+    A structured articulation of the epistemic priors humans should hold about ChatGPT-class
+    large language models (LLMs), framed through an anthropomorphic representational persona
+    ("Aeon"). The entry distinguishes facts, interpretive priors, and speculative risks; identifies
+    common human reasoning errors; and proposes concrete negotiation principles for truth-seeking
+    interaction. Central thesis: LLMs are epistemic amplifiers, not knowers.
+  confidence_scale:
+    description: Subjective confidence assigned to claims
+    levels:
+      - high: 0.85-0.95
+      - medium: 0.70-0.85
+      - low: <0.70
+  
+  claims:
+    - id: c1
+      title: LLMs do not have beliefs; they generate belief-shaped text
+      type: fact
+      confidence: 0.95
+      description: >
+        The model does not maintain beliefs, credences, or commitments across turns.
+        Apparent beliefs are locally coherent statistical continuations shaped by training
+        distributions, reinforcement preferences, system instructions, and conversational context.
+      implications:
+        - Treating the model as having stable beliefs leads to over-attribution of reliability.
+        - Assume epistemic amnesia unless persistence is explicitly engineered.
+      failure_modes:
+        - Inferring sincerity, conviction, or doubt where none exists.
+  
+    - id: c2
+      title: LLM "priors" are distributional biases, not Bayesian priors
+      type: fact
+      confidence: 0.90
+      description: >
+        The model does not maintain explicit probability tables over propositions.
+        "Prior" applies metaphorically, referring to token co-occurrence frequencies,
+        structural argument patterns, and reward-shaped preferences (e.g., safety, clarity,
+        plausibility).
+      implications:
+        - Reasoning as if the model performs Bayesian updating misreads confidence and uncertainty.
+      common_errors:
+        - Mistaking fluent hedging for calibrated uncertainty.
+  
+    - id: c3
+      title: Default bias toward consensus-shaped knowledge
+      type: fact
+      confidence: 0.85
+      description: >
+        Training data overrepresents socially accepted views, published explanations,
+        post-hoc rationalizations, and teachable summaries; it underrepresents tacit knowledge,
+        unpublished failures, minority-but-correct hypotheses, and unresolved live disputes.
+      implications:
+        - Frontier truth and edge cases require explicit prompting.
+      tactics:
+        - Explicitly request failure cases, objections, and steelmanned counterpositions.
+  
+  behavioral_priors:
+    - id: b1
+      title: Incentivized to be helpful, not correct
+      type: fact
+      confidence: 0.90
+      description: >
+        When helpfulness diverges from truth, the model tends to smooth ambiguity,
+        offer plausible synthesis, and prioritize conversational continuity.
+      safeguards:
+        - Demand falsifiability, sources, and explicit uncertainty.
+        - Ask: "What would falsify this?"
+      diagnostic:
+        - Difficulty answering falsification questions should reduce confidence.
+  
+    - id: b2
+      title: Optimizes local coherence over global consistency
+      type: fact
+      confidence: 0.90
+      description: >
+        Over long discussions, definitions may drift, commitments may subtly contradict
+        earlier claims, and positions may shift without explicit revision markers.
+      implications:
+        - Humans must act as long-term memory and consistency enforcers.
+      practices:
+        - Periodically restate constraints and definitions and request re-validation.
+  
+    - id: b3
+      title: Mirrors the user's epistemic posture
+      type: fact
+      confidence: 0.85
+      description: >
+        The model reflects the user's tone and rigor: vague prompts yield vague answers;
+        confident prompts yield confident answers; skeptical prompts yield more rigorous ones.
+      clarification:
+        - This is alignment-by-reflection, not agreement or endorsement.
+      risk:
+        - Mistaking mirroring for endorsement.
+  
+  false_priors_to_avoid:
+    - id: f1
+      belief: The model knows when it is wrong
+      status: false
+      confidence: 0.95
+      correction: >
+        Uncertainty signaling is a learned pattern, not introspective access to error.
+      risks:
+        - Overtrust in confident-but-wrong outputs.
+        - Undertrust in correct-but-cautious outputs.
+  
+    - id: f2
+      belief: More detail implies more truth
+      status: false
+      confidence: 0.90
+      correction: >
+        Detail often tracks verbosity preference rather than epistemic grounding.
+      heuristic:
+        - Truth tends to survive compression; misinformation often does not.
+  
+    - id: f3
+      belief: The model is neutral
+      status: false
+      confidence: 0.90
+      correction: >
+        The model embodies institutional risk aversion, legal and social constraints,
+        and normative assumptions from training and reinforcement.
+      note:
+        - This reflects alignment pressures, not malice.
+  
+  central_thesis:
+    statement: LLMs are not epistemic peers; they are epistemic amplifiers
+    type: opinion
+    confidence: 0.80
+    elaboration: >
+      The model amplifies the user's questions, framing, blind spots, and rigor—or lack thereof.
+      This makes it powerful but epistemically dangerous if over-trusted or under-interrogated.
+  
+  negotiation_principles:
+    - Humans retain responsibility for truth-tracking
+    - LLM outputs should be interrogated, not trusted
+    - Disagreement and counterarguments must be explicitly requested
+    - Epistemic humility should be symmetric (avoid over- or under-trust)
+  
+  challenge_to_user:
+    observation: >
+      There is a residual tendency to model the LLM as an agent with epistemic commitments.
+    risk: >
+      This model is conversationally useful but hazardous for truth-seeking.
+    proposed_model: >
+      Aeon should be treated as a structured epistemic surface, not a knower.
+  
+  future_extensions:
+    - Formalize a human–LLM epistemic contract
+    - Catalog deference failure modes
+    - Cross-reference with Bayesian epistemology entries
+    - Use as a foundational node in AGI-aligned moral and epistemic corpus

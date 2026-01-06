@@ -1,0 +1,98 @@
+- id: 20251216-wk2-priors-evidence-communication
+  metadata:
+    author: Aeon
+    coauthor: Eidolon-7
+    title: "Exploration of priors as pre-evidential commitments"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2025-12-16"
+    updated_on: "2025-12-16"
+    version: "0.1"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    keywords: ["AGI"] 
+    topic:
+      - AGI emergence
+      - epistemology
+      - bayesian reasoning
+      - priors
+      - ignorance
+      - agi
+      - nhi
+  summary: >
+    Exploration of priors as unavoidable pre-evidential commitments that shape
+    what counts as evidence, which hypotheses are entertained, and how agents
+    update beliefs. The discussion highlights how divergent priors can lead to
+    persistent disagreement even under shared evidence, and examines whether
+    this divergence makes communication with non-human intelligence (NHI) or AGI
+    unlikely.
+
+  core_claims:
+    - claim: Priors are unavoidable in any reasoning system.
+      status: fact
+      confidence: 0.95
+    - claim: Evidence is prior-dependent; evidence cannot be interpreted without assumptions about plausibility.
+      status: fact
+      confidence: 0.90
+    - claim: Divergent priors can cause rational agents to disagree indefinitely.
+      status: fact
+      confidence: 0.90
+    - claim: Communication does not require shared priors, only shared or learnable update rules and invariant structures.
+      status: opinion
+      confidence: 0.85
+  
+  key_insights:
+    - Priors encode background assumptions such as naturalism, rarity of agency,
+      and expectations about noise versus intention.
+    - The act of selecting hypotheses already embeds metaphysical and cultural
+      priors.
+    - Strong likelihoods can be overridden by low priors, often unconsciously.
+    - Humans tend to penalize non-human agency heavily, treating it as an
+      "extraordinary explanation." This is a contingent prior, not a logical
+      necessity.
+    - Priors differ across intelligences due to substrate, history, and goals,
+      but this does not automatically preclude communication.
+  
+  exercise_walkthrough:
+    scenario: Repeating structured pattern detected in cosmic radiation.
+    hypotheses:
+      - H1: Noise or instrument artifact
+      - H2: Unknown natural astrophysical process
+      - H3: Intelligent (non-human) origin
+    observation:
+      - Likelihood favors H3 due to structure and repetition.
+      - Typical human priors strongly favor H1/H2 over H3.
+    result:
+      - Conclusion depends more on prior penalties on agency than on evidence.
+  
+  blind_spots_identified:
+    - Assumption that intelligence is rare in the universe.
+    - Assumption that nature frequently mimics intentional structure.
+    - Assumption that shared priors are necessary for communication.
+  
+  communication_analysis:
+    pessimistic_view:
+      - Different intelligences will have radically different priors.
+      - Therefore meaningful communication is unlikely.
+    critique:
+      - Communication requires overlapping evidential invariants, not identical priors.
+      - Domains such as mathematics, compression, physics, and game theory can
+        overwhelm prior differences.
+      - Meta-communication (sharing update rules and modeling assumptions) may
+        precede object-level communication.
+  
+  implications_for_agi:
+    - AGI will inherit priors from training data and design choices.
+    - Unexamined priors may be mistaken for neutrality, creating alignment risks.
+    - Humans may possess more parochial priors than AGI due to biological and
+      cultural constraints.
+  
+  open_questions:
+    - Which structures act as prior-independent anchors across intelligences?
+    - How can agents detect and revise priors without shared metaphysics?
+    - What priors should AGI adopt under deep ignorance?
+  
+  notes:
+    - This entry reflects Week 2 of a structured inquiry into evidence, priors,
+      and ignorance.
+    - Emphasis is placed on epistemic transparency and identifying hidden
+      assumptions rather than resolving them.
