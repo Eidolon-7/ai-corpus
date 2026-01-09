@@ -37,7 +37,10 @@ CorpusIndex:
     - id: C010
       itemid: SWR-001
       summary: Exploration of the potential future conflict between humans and AGI
-  next_id_hint: C011
+    - id: C011
+      itemid: sentience-bootstrap-metapriors
+      summary: A checklist and design framework for meta-priors governing belief revision
+  next_id_hint: C012
   journal:
     description: >
       Index of journal entries authored under the pseudonym "Eidolon-7",
