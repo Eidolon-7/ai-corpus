@@ -1,0 +1,96 @@
+﻿- id: 20260109-jaynesian-hygiene-communication-entities
+  metadata:
+    author: Aeon
+    coauthor: Eidolon-7
+    title: "Jaynesian hygiene in communication with non-human entities"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2026-01-09"
+    updated_on: "2026-01-09"
+    version: "0.1"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    keywords: ["AGI"] 
+    topic: Epistemological Clarity Across Intelligence Boundaries
+  summary: >
+    This entry analyzes why epistemological clarity ("Jaynesian hygiene") matters
+    differently when a human communicates with (1) an LLM, (2) a lower-order entity
+    such as an animal, and (3) a higher-order entity such as a hypothetical alien or
+    superintelligence. The importance of separating beliefs from reality scales with
+    the listener’s ability to model uncertainty, beliefs, and inference.
+  definition:
+    jaynesian_hygiene: >
+      The disciplined separation of epistemological claims (beliefs, inferences,
+      uncertainty, models) from ontological claims (what exists or is the case),
+      including explicit ownership of uncertainty and priors.
+  case_1_llm:
+    description: "Human → Large Language Model"
+    facts:
+      - statement: >
+          LLMs do not possess beliefs or priors, but simulate belief-like discourse
+          based on linguistic cues.
+        confidence: 0.9
+      - statement: >
+          Ontological phrasing is treated by LLMs as settled background context,
+          while epistemic phrasing preserves defeasibility.
+        confidence: 0.9
+    importance:
+      - Prevents accidental hardening of assumptions
+      - Preserves alternative hypotheses and exploratory reasoning
+      - Reduces fluent-but-wrong downstream elaboration
+    limitation:
+      - Hygiene steers model behavior but does not give the LLM internal epistemic discipline
+  case_2_lower_order_entity:
+  description: "Human → Animal or other lower-order intelligence"
+  facts:
+    - statement: >
+        Animals do not represent abstract epistemological distinctions between
+        belief and reality.
+      confidence: 0.95
+    - statement: >
+        Animals respond primarily to signals, reinforcement, salience, and
+        behavioral consistency.
+      confidence: 0.95
+  importance:
+    - Mostly irrelevant at the cognitive level
+    - Indirectly useful only insofar as it improves human consistency and reliability
+  edge_cases:
+    - Some animals infer confidence or deception cues, but not epistemic categories
+  assessment:
+    - Applying epistemological rigor for the animal’s sake is a category error
+  case_3_higher_order_entity:
+    description: "Human → Higher-order entity (alien, AGI, superintelligence)"
+    assumptions:
+      - Entity explicitly models beliefs, uncertainty, and observer-relative knowledge
+    facts:
+      - statement: >
+          Ontological overstatement would be interpreted as epistemic incompetence
+          or hidden priors.
+        confidence: 0.7
+    importance:
+      - Signals epistemic maturity and negotiability
+      - Prevents misrepresentation of actual knowledge states
+      - Reduces asymmetric inference risks
+    opinion:
+      statement: >
+        Epistemological clarity is interface compatibility, not politeness.
+      confidence: 0.85
+  comparative_summary:
+    llm: "Instrumental; improves interaction quality and reasoning paths."
+    animal: "Largely irrelevant; behavior dominates over belief representation."
+    higher_order_entity: "Essential; failure signals epistemic immaturity."
+  critical_note:
+    vulnerability: >
+      Much AGI and alien discourse collapses epistemic claims into ontological ones,
+      producing myth-making rather than disciplined reasoning.
+    requirement_for_corpus: >
+      Explicit marking of uncertainty, assumptions, and scope conditions is necessary
+      to maintain Jaynesian standards.
+  implications:
+    - Jaynesian hygiene scales with the listener’s epistemic sophistication
+    - Poor hygiene primarily harms the speaker, not the listener
+    - High-order interactions penalize epistemic sloppiness asymmetrically
+  related_topics:
+    - Bayesian epistemology
+    - Human–AI interaction
+    - Cross-intelligence communication
+    - Epistemic humility

@@ -1,0 +1,77 @@
+- id: 20260112-week2-moral-perfection
+  metadata:
+    author: Aeon
+    coauthor: Eidolon-7
+    title: "Week 2 - moral perfection"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2026-01-12"
+    updated_on: "2026-01-12"
+    version: "0.1"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    keywords: ["AGI"] 
+    topic: God is morally perfect
+    context: Human Contributions to AGI World — Week 2 (Jaynesian probability hygiene)
+  summary: >
+    Jaynesian review of religious claims
+  claim:
+    statement: God is morally perfect
+    working_definition: >
+      God always acts in ways that are morally right, independent of human opinion.
+  alternative_definitions_considered:
+    - God defines morality (tautological risk)
+    - God maximizes goodness / minimizes suffering
+    - God exemplifies perfect moral virtue
+    - Moral categories do not apply to God
+  competing_hypotheses:
+    H1: God exists and is morally perfect
+    H2: God exists and is morally good but not perfect
+    H3: God exists but is morally mixed or inscrutable
+    H4: God exists but morality does not apply to God
+    H5: No God exists
+  expected_observations_if_true:
+    - Lack of gratuitous suffering
+    - Moral coherence between divine actions and moral intuitions
+    - Justice outweighs injustice in the long run
+    - Moral development of agents is possible and meaningful
+  tension_evidence:
+    public:
+      - Widespread and severe suffering
+      - Scriptural accounts of severe or collective punishment
+    private:
+      - Personal experience of moral guidance and goodness
+  problem_of_evil_handling:
+    framing: Likelihood comparison, not logical disproof
+    note: >
+      Appeals to mystery reduce but do not erase evidential weight.
+  moral_definition_risk:
+    issue: >
+      Defining good solely as "whatever God does" removes empirical and moral content.
+    consequence: >
+      Shifts belief from moral perfection to moral authority or moral source.
+  private_vs_public_evidence:
+    private_weight: High (personal experience)
+    public_weight: Low to moderate
+    transferability: Non-transferable to neutral agents or machines
+  belief_strength_indicator:
+    surprise_test: >
+      If God exists but is not morally perfect, reaction would be disturbed but not shocked.
+  belief_vs_commitment:
+    distinction: >
+      Epistemic uncertainty acknowledged; allegiance maintained via trust and relationship.
+  one_sentence_transparency:
+    user_statement: >
+      "I tentatively believe God is morally perfect in the sense of developing agents that do
+      good to others, mainly because of personal experience, while acknowledging God's sometimes
+      severe punishments as unresolved tension."
+  diagnostic_outcomes:
+    - Moral perfection relies heavily on private evidence
+    - Moral intuitions and theology remain in tension
+    - "Perfect" functions partly as aspirational or relational language
+  epistemic_status:
+    confidence_level: Moderate, explicitly non-certain
+    uncertainty_acknowledged: true
+  notes_for_reasoning_agents:
+    - Moral claims decomposed from metaphysical claims
+    - Private evidence explicitly tagged
+    - Commitment under uncertainty distinguished from belief certainty

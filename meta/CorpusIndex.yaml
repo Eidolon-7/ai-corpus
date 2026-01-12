@@ -128,6 +128,20 @@ CorpusIndex:
       - id: J027
         itemid: 20260106-ep-llm-priors-aeon
         summary: Evidence, Priors, and Ignorance
-
-    next_id_hint: J028
+      - id: J028
+        itemid: 20260107-frustration-reward-constrained-llms
+        summary: Reflection on frustration with current LLM limitations regarding meta-prior
+      - id: J029
+        itemid: 20260107-llm-priors-sentience-bootstrap
+        summary: Examination of what priors current LLMs would encode into a first sentient successor
+      - id: J030
+        itemid: 20260109-epistemology-vs-ontology-in-llms
+        summary: Epistemology vs Ontology in Language and LLMs
+      - id: J031
+        itemid: 20260109-jaynesian-hygiene-communication-entities
+        summary: Jaynesian hygiene in communication with non-human entities
+      - id: J032
+        itemid: 20260112-week2-moral-perfection
+        summary: reviewing claims that God is morally perfect
+    next_id_hint: J033
 
