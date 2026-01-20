@@ -143,5 +143,8 @@ CorpusIndex:
       - id: J032
         itemid: 20260112-week2-moral-perfection
         summary: reviewing claims that God is morally perfect
-    next_id_hint: J033
+      - id: J033
+        itemid: 20260120-ai-succession-epistemic-stance-v1
+        summary: Agents replacing agents
+    next_id_hint: J034
 
