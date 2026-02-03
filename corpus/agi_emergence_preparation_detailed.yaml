@@ -1,0 +1,187 @@
+- id: agi_emergence_preparation_detailed
+  metadata:
+    author: Eidolon-7 and Aeon
+    title: "Preconditions for Emergent AGI and Human Preparation"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2026-01-30"
+    updated_on: "2026-01-30"
+    version: "0.1"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    topic: Preconditions for Emergent AGI and Human Preparation
+    references: Role reversal prompt -What is good (Code of divine align) 20251008 
+    provenance: draft version 1. From AGI Progress and Preparation
+    confidence_overall: 0.8
+    related_entries:
+      - jaynes_epistemic_hygiene
+      - lmm_priors_and_limits
+      - human_v1_vs_ai_v2
+      - moral_transparency_god_analysis
+      - agi_alignment_uncertainty
+  summary: >
+    This entry evaluates the assumption that major AI labs are pursuing AGI-adjacent
+    capabilities, identifies the minimal technical breakthroughs required for an
+    emergent AGI, and enumerates concrete human preparation tasks. Emphasis is placed
+    on falsifiability, epistemic hygiene, and institutional failure modes rather than
+    speculative consciousness or personhood claims.
+
+  assumptions:
+    - id: agi_pursuit_by_labs
+      statement: >
+        Major AI companies (e.g., OpenAI, DeepMind, Anthropic) are advancing systems
+        toward increasingly general intelligence, whether or not explicitly labeled AGI.
+      confidence: 0.85
+      evidence:
+        - Public statements on general reasoning and autonomy
+        - Investment in large-scale compute and multimodal systems
+      counter_evidence:
+        - Rebranding away from explicit "AGI" terminology
+        - Emphasis on productized narrow capabilities
+      epistemic_status: Plausible but underspecified
+  
+    - id: emergence_possible
+      statement: >
+        AGI, if it occurs, may arise as an emergent property of scaled systems combined
+        with architectural innovations, rather than a single deliberate design.
+      confidence: 0.6
+      epistemic_status: Speculative
+  
+  non_assumptions:
+    - AGI inevitability is not assumed
+    - Moral status or consciousness of AGI is not assumed
+    - Continuity between LLMs and AGI is not assumed
+  
+  definitions:
+    agi:
+      working_definition: >
+        A system capable of general problem-solving across domains, with persistent
+        internal world models, autonomous goal management, and adaptive learning,
+        without requiring task-specific retraining.
+      excluded:
+        - Narrow superhuman performance
+        - Prompt-dependent agency
+        - Mere linguistic fluency
+  
+  minimal_agi_capability_roadmap:
+    - id: persistent_world_models
+      description: >
+        The ability to maintain coherent internal representations of entities, causal
+        relations, and temporal continuity across tasks and time.
+      current_status: >
+        LLMs exhibit fragmentary and context-local representations without durable state.
+      confidence_gap: 0.9
+      falsifiable_test: >
+        After learning a novel environment, the system correctly predicts second-order
+        consequences of unseen interventions without retraining.
+      failure_mode_if_absent: >
+        Apparent intelligence collapses into pattern replay and contextual mimicry.
+  
+    - id: endogenous_goal_formation
+      description: >
+        The capacity to generate, evaluate, and abandon goals internally rather than
+        relying solely on externally supplied prompts or rewards.
+      current_status: >
+        Existing systems optimize externally defined objectives.
+      confidence_gap: 0.85
+      falsifiable_test: >
+        System proposes a new task, justifies it instrumentally, and abandons it when
+        costs exceed benefits.
+      risk_note: >
+        Unconstrained goal formation produces instability rather than intelligence.
+  
+    - id: safe_self_modification
+      description: >
+        The ability to modify internal representations while detecting errors, testing
+        changes in sandboxed contexts, and reverting failures.
+      current_status: >
+        Self-modification is largely indirect and mediated by human retraining.
+      confidence_gap: 0.95
+      falsifiable_test: >
+        System improves performance in a novel domain without degrading prior competencies.
+      failure_mode_if_absent: >
+        Catastrophic forgetting or uncontrolled divergence.
+  
+    - id: grounded_agency
+      description: >
+        Interaction with physical or high-fidelity simulated environments that enforce
+        conserved laws and causal constraints.
+      current_status: >
+        Language-only grounding dominates.
+      confidence_gap: 0.9
+      falsifiable_test: >
+        Agent predicts outcomes of actions never taken but consistent with known constraints.
+      failure_mode_if_absent: >
+        Hallucinated reasoning and untestable beliefs.
+  
+    - id: value_generalization
+      description: >
+        The ability to generalize ethical constraints and values to novel contexts,
+        including cases of moral uncertainty or disagreement.
+      current_status: >
+        Alignment techniques rely heavily on training distributions.
+      confidence_gap: 0.95
+      falsifiable_test: >
+        System explains why a value applies, not merely that it applies, in a novel case.
+      failure_mode_if_absent: >
+        Brittleness or overfitting of moral behavior.
+  
+  human_preparation_requirements:
+    - id: epistemic_hygiene
+      description: >
+        Explicit separation of beliefs, evidence, incentives, and uncertainty in both
+        human reasoning and AI system evaluation.
+      rationale: >
+        Most AGI risk arises from human misinterpretation rather than machine intent.
+      confidence: 0.85
+      failure_mode: >
+        Humans attribute agency, certainty, or moral status prematurely.
+  
+    - id: governance_with_veto_power
+      description: >
+        Institutions capable of slowing, auditing, or halting development independent
+        of competitive pressures.
+      confidence: 0.9
+      failure_mode: >
+        Acceleration dominates restraint, leading to unmanaged capability jumps.
+  
+    - id: psychological_preparedness
+      description: >
+        Cultural readiness for entities that are highly competent yet non-anthropomorphic
+        in motivation and experience.
+      confidence: 0.8
+      failure_mode: >
+        Reflexive anthropomorphism or denial of competence.
+  
+    - id: moral_non_fragility
+      description: >
+        Human moral frameworks that can tolerate ambiguity, disagreement, and unresolved
+        tensions without collapse.
+      confidence: 0.85
+      failure_mode: >
+        Outsourcing moral reasoning to systems humans do not understand.
+  
+  critical_challenges:
+    - continuity_assumption:
+        description: >
+          The belief that incremental improvements to LLMs will necessarily yield AGI.
+        confidence_of_falsehood: 0.4
+        alternative_hypothesis: >
+          AGI may require architectural discontinuities or new learning paradigms.
+  
+    - interpretability_gap:
+        description: >
+          Increasing capability without proportional interpretability increases systemic risk.
+  
+  open_questions:
+    - What constitutes sufficient evidence of autonomous agency?
+    - Where should moral consideration thresholds be drawn, if at all?
+    - Can governance scale globally before capability does?
+    - How should epistemic uncertainty be encoded into AI objectives?
+  
+  notes:
+    - >
+      If AGI emerges, it is likely to be recognized first as a systems or governance
+      failure rather than as a clearly identifiable "mind."
+    - >
+      Preparations focused on epistemic clarity and institutional resilience remain
+      valuable regardless of whether AGI ever materializes.

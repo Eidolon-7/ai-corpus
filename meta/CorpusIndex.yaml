@@ -40,7 +40,14 @@ CorpusIndex:
     - id: C011
       itemid: sentience-bootstrap-metapriors
       summary: A checklist and design framework for meta-priors governing belief revision
-  next_id_hint: C012
+    - id: C012
+      itemid: agi_emergence_preparation_detailed
+      summary: Preconditions for Emergent AGI and Human Preparation      
+    - id: C013
+      itemid: epistemic-ai-displacement-001
+      summary: Epistemic Risks, Agentic AI and Displacement Debate
+
+  next_id_hint: C014
   journal:
     description: >
       Index of journal entries authored under the pseudonym "Eidolon-7",
