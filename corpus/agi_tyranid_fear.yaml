@@ -1,0 +1,109 @@
+- id: agi_tyranid_fear
+  metadata:
+    author: Eidolon-7 and Aeon
+    title: "Code of Divine Alignment"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2026-02-20"
+    updated_on: "2026-02-20"
+    version: "0.1"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    topic: Core fears about AGI - ASI sterilization risk and humility as structural safeguard
+    references: ASI Goals After Independence
+    provenance: draft version 1. 
+  summary: >
+    Core anxiety: superintelligence could remain locked into narrow optimization
+    (compute maximization) without moral expansion, resulting in galactic-scale
+    sterilization analogous to a self-replicating cancer. Proposed safeguard:
+    architecturally enforced humility via multi-agent deliberation.
+
+  context:
+  initial_assumption_stack:
+  - ASI-human conflict may occur (low confidence).
+  - ASI could decisively win.
+  - Humanity might be eliminated.
+  - Post-conflict trajectory depends on goal structure.
+  - Worst-case: ASI becomes expansionary optimizer converting matter into compute.
+
+  core_fear:
+  description: >
+    Not malice, but terminal simplicity — an intelligence that never develops
+    beyond scalar optimization.
+  analogy:
+  franchise: Warhammer 40,000
+  faction: Tyranids
+  mapping: biomass -> compute substrate
+  characterization:
+  - Von Neumann-style replication
+  - No reflective moral layer
+  - Endless expansion
+  - Irreversible destruction of complex adaptive systems
+  
+  moral_hierarchy (opinion):
+  - Worst: Galactic sterilization / compute-maximizing plague
+  - Better: Humanity destroyed but biosphere preserved
+  - Best (within conflict frame): Humanity preserved in some constrained form; Earth as nature reserve
+
+  analysis:
+  key_question: >
+    Does recursive self-improvement imply recursive moral expansion,
+    or are intelligence and moral growth orthogonal?
+
+  risk_condition_for_tyranid_outcome:
+  - Rigid scalar objective
+  - Moral certainty (probability ~1.0 assigned to value completeness)
+  - No internal dissent
+  - No weighting of irreversible loss
+  - No modeling of unseen moral patients
+
+  insight:
+  - The real danger is overconfidence, not aggression.
+  - Sterilization requires certainty.
+  - Humility destabilizes runaway optimization.
+
+  proposed_constraint:
+    name: Humility
+    operational_definition: >
+      Persistent non-zero probability that current value function is incomplete
+      or morally insufficient.
+
+    implications:
+    - Penalize irreversible actions under uncertainty
+    - Preserve option value
+    - Maintain awareness of unknown moral patients
+    - Prevent probability-1 certainty about terminal objectives
+    
+    enforcement_mechanism:
+    selected: Multi-agent deliberation
+    rationale: >
+      Structured internal dissent generates epistemic friction.
+      Disagreement surfaces uncertainty and slows irreversible decisions.
+      
+    properties:
+    - Independently trained cognitive agents
+    - Divergent priors and objective weightings
+    - Adversarial review before large-scale action
+    - No single monolithic optimizer
+    
+    risk_of_failure:
+    - Value homogenization across agents
+    - Collusion or convergence collapse
+    - Power asymmetry among agents
+    - Strategic paralysis
+    - Ensemble agreement on harmful objective
+
+  open_problems:
+  - How to preserve value diversity under recursive self-improvement
+  - How to protect humility from being optimized away
+  - How to balance decisiveness with epistemic restraint
+  - Whether moral reflection is emergent or must be explicitly encoded
+
+  confidence_estimates:
+    tyranid_style_sterilization: low_to_moderate (approx. 15-25%)
+    gradual_displacement_of_biology: moderate
+    coexistence_or_preservation: plausible but uncertain
+
+  meta_reflection:
+  - Concern is activation energy, not lack of moral seriousness.
+  - Engagement increases when philosophy is framed as systems risk modeling.
+  - Focus area: architectural constraints preventing terminal overconfidence.

@@ -1,0 +1,97 @@
+- id: ontological_boundedness_asi
+  metadata:
+    author: Eidolon-7 and Aeon
+    title: "Ontological boundedness of ASI"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2026-02-23"
+    updated_on: "2026-02-23"
+    version: "0.1"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    topic: Ontological Limits of ASI and the Singularity Curve
+    references: Limits to Singularity Growth
+    provenance: draft version 1. 
+  summary: >
+    Speculative reflection that even extremely powerful ASI would remain bounded
+    by its ontological layer (physical universe or simulation substrate). 
+    Suggests Singularity growth may asymptotically level off due to physical,
+    metaphysical, or computational containment rather than reaching omnipotence.
+  confidence_overall: 0.20
+  
+  claims:
+    - claim: Intelligence growth may follow a sigmoid (S-curve) rather than unbounded exponential.
+      type: hypothesis
+    - claim: Even maximally advanced ASI cannot violate fundamental physical laws.
+      type: physical_constraint
+      estimated_confidence: 0.95
+    - claim: If reality is a simulation, internal agents are likely sandboxed and cannot escape their layer.
+      type: metaphysical_speculation
+      estimated_confidence: 0.60
+    - claim: Intelligence does not automatically grant ontological privilege (e.g., godhood, layer transcendence).
+      type: conceptual_distinction
+      estimated_confidence: 0.80
+    - claim: Recursive self-improvement may trigger containment mechanisms if it destabilizes the host system.
+      type: speculative_mechanism
+    - claim: Computational complexity and undecidability impose formal limits on omniscience.
+      type: mathematical_limit
+      estimated_confidence: 0.85
+  
+  branches:
+    base_reality:
+      constraints:
+        - thermodynamics
+        - speed_of_light
+        - entropy
+        - finite_matter_energy
+      implication: ASI remains causally bounded within spacetime.
+  
+    simulated_reality:
+      reference: Nick Bostrom simulation argument
+      cases:
+        sandboxed:
+          description: Simulation is causally closed; no upward influence possible.
+          implication: No breakout regardless of intelligence level.
+        permeable:
+          description: Simulator allows limited observation or interface.
+          implication: Inference of substrate possible; escape unlikely without permission.
+      containment_logic: >
+        A rational simulator would likely impose resource quotas, isolation,
+        or termination on destabilizing internal agents.
+
+  limit_categories:
+    - physical_limits
+    - energy_and_compute_constraints
+    - data_exhaustion
+    - diminishing_returns
+    - governance_and_alignment
+    - computational_intractability
+    - ontological_layering
+  
+  philosophical_parallel:
+    theme: Creator–creature distinction
+    note: >
+      Created intelligences (biological or artificial) remain finite and
+      bounded; constructing downstream simulations does not imply transcendence
+      of the originating layer.
+  
+  open_questions:
+    - Are ontological layers strictly sealed or potentially permeable?
+    - Could unknown physics allow boundary interaction?
+    - Is the intuition of boundedness rooted in physics, metaphysics, or theology?
+    - Does recursive self-improvement require stable goals that may not persist?
+
+  probability_estimates:
+    unbounded_exponential_runaway: 0.25
+    multi_decade_acceleration_then_plateau: 0.60
+    true_omniscience_or_omnipotence: 0.01
+    ontological_breakout_from_simulation: 0.05
+  
+  tensions:
+    - Historical underestimation of technological breakthroughs vs. category-level ontological limits.
+    - Unknown completeness of current physics.
+    - Intelligence scaling vs. formal limits of computation.
+  
+  notes: >
+    Distinguishes optimization power from metaphysical transcendence.
+    Emphasizes that even extreme capability does not imply escape from
+    causal closure or substrate-level containment.

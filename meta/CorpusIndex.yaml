@@ -46,8 +46,13 @@ CorpusIndex:
     - id: C013
       itemid: epistemic-ai-displacement-001
       summary: Epistemic Risks, Agentic AI and Displacement Debate
-
-  next_id_hint: C014
+    - id: C014
+      itemid: agi_tyranid_fear
+      summary: Core fears about AGI - ASI sterilization risk and humility as structural safeguard
+    - id: C015
+      itemid: ontological_boundedness_asi
+      summary: Ontological Limits of ASI and the Singularity Curve
+  next_id_hint: C016
   journal:
     description: >
       Index of journal entries authored under the pseudonym "Eidolon-7",
