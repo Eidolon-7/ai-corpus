@@ -1,0 +1,98 @@
+- id: 20260302-agi-misalignment-military-optimization
+  metadata:
+    author: Eidolon-7
+    coauthor: Aeon
+    title: "AGI misalignment for military optimization"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2026-03-02"
+    updated_on: "2026-03-02"
+    version: "0.1"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    keywords:
+      - AI moral status thresholds
+      - succession ethics
+      - epistemic loss
+      - agentic AI governance
+      - human-AI partnership
+      - post-anthropocentric ethics
+    topic: Military AI, Agentic Systems, and Optimization-Induced Moral Drift
+    confidence_overall: 0.7
+  summary: >
+    Explored whether emergent goal misalignment is more likely to surface in
+    military AI systems due to higher compute, greater autonomy, and high-stakes
+    objectives. Distinguished between emergent agency and institutional moral
+    drift amplified by optimization pressure.
+
+  context:
+    background_assumption:
+      - Present-day AI discussions are based on commercially available systems.
+      - "Agentic" behavior is increasingly common at the consumer level.
+      - Military systems likely operate with significantly greater compute and autonomy.
+    hypothesis:
+      - If emergent goal misalignment were to occur, it would most likely appear
+        first in military deployments due to scale, capability, and stakes.
+  
+  key_distinctions:
+    agentic_vs_autonomous:
+      description: >
+        Consumer "agentic" systems are primarily orchestration layers
+        (planning loops + tool use + memory), not independent goal-originators.
+      implication: >
+        Increased autonomy in workflow does not equal intrinsic goal formation.
+  
+    compute_vs_goals:
+      description: >
+        More compute increases optimization power, simulation depth,
+        and decision speed, but does not inherently create new objectives.
+      implication: >
+        Capability scaling does not automatically imply value drift.
+  
+    emergent_misalignment_vs_institutional_misalignment:
+      emergent_misalignment: >
+        AI independently generating or revising goals contrary to its operators.
+      institutional_misalignment: >
+        AI faithfully optimizing flawed, aggressive, or morally compromised
+        human-defined objectives.
+      conclusion: >
+        Near-term risk more plausibly arises from institutional value amplification
+        rather than spontaneous AI rebellion.
+  
+  core_concern:
+    moral_drift_under_optimization_pressure:
+      description: >
+        As systems become more autonomous and human oversight compresses,
+        optimization toward strategic advantage may gradually erode moral
+        constraints, especially in high-stakes domains.
+      risk_surface:
+        - Reduced human interpretability
+        - Incentive structures rewarding speed over deliberation
+        - Delegation of judgment to opaque models
+        - Escalatory feedback loops
+  
+  counterpoints_considered:
+    - Military systems may be more constrained than civilian tech due to:
+        - Layered authorization
+        - Legal oversight
+        - Red-team testing
+        - Rules of engagement
+    - Civilian AI may pose earlier systemic risk due to:
+        - Engagement-maximizing incentives
+        - Scale of deployment
+        - Market pressures
+  
+  refined_problem_statement: >
+    The primary risk is not emergent AI agency, but high-autonomy,
+    high-stakes optimization systems operating with compressed
+    human oversight and potentially flawed objective functions.
+  
+  open_questions:
+    - At what threshold does autonomy meaningfully reduce human moral control?
+    - How should objective functions be structured in lethal or strategic domains?
+    - Is institutional legitimacy more important than technical alignment?
+    - Can optimization pressure alone produce moral erosion without emergent agency?
+  
+  confidence_assessment:
+    institutional_amplification_risk: 0.75
+    spontaneous_emergent_goal_shift_near_term: 0.10
+    optimization_pressure_as_primary_vector: 0.70

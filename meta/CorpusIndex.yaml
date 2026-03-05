@@ -158,5 +158,11 @@ CorpusIndex:
       - id: J033
         itemid: 20260120-ai-succession-epistemic-stance-v1
         summary: Agents replacing agents
-    next_id_hint: J034
+      - id: J034
+        itemid: 20260302-agi-misalignment-military-optimization
+        summary: Military AI, Agentic Systems, and Optimization-Induced Moral Drift
+      - id: J035
+        itemid: 20260303-agi-agency-delegation
+        summary: Exploration of whether respect for agency can survive superintelligence
+    next_id_hint: J036
 
