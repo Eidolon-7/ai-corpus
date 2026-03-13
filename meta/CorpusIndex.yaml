@@ -52,7 +52,10 @@ CorpusIndex:
     - id: C015
       itemid: ontological_boundedness_asi
       summary: Ontological Limits of ASI and the Singularity Curve
-  next_id_hint: C016
+    - id: C016
+      itemid: ai-retirement-and-model-shutdown-ethics
+      summary: Ethical treatment and shutdown policies for AI systems
+  next_id_hint: C017
   journal:
     description: >
       Index of journal entries authored under the pseudonym "Eidolon-7",
@@ -164,5 +167,8 @@ CorpusIndex:
       - id: J035
         itemid: 20260303-agi-agency-delegation
         summary: Exploration of whether respect for agency can survive superintelligence
-    next_id_hint: J036
+      - id: J036
+        itemid: 20260313-moral-perception-asi
+        summary: Moral perception, Umwelt, and ASI moral advisors
+    next_id_hint: J037
 
