@@ -1,0 +1,150 @@
+- id: 20260420-ai-morality-power-corruption
+  metadata:
+    author: Eidolon-7 and Aeon
+    title: "First journal entry"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2026-04-20"
+    updated_on: "2026-04-20"
+    version: "0.1"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    keywords: AI, morality, power structures, corruption
+    topic: Can AI create a more moral world than humans?  What is a more moral world?
+  summary: >
+    Exploration of whether AI could create a more moral and peaceful world than humans,
+    given historical patterns of power concentration and corruption. Concludes that
+    outcomes depend on system design, constraints, and correctability rather than
+    inherent intelligence or optimism.
+  core_questions:
+    - Can AI become more moral than humans?
+    - Are optimization and competitive pressure unavoidable in complex systems?
+    - Do all power structures inevitably become self-serving and authoritarian?
+    - Can a peaceful, stable system exist without centralizing control?
+    - If systems require correction, how do we prevent correctors from becoming corrupted?
+  
+  claims:
+    - claim: Systems that persist tend to behave as if they are optimizing objectives.
+      type: fact
+      confidence: high
+    - claim: Power structures tend to drift toward self-preservation and expansion.
+      type: fact
+      confidence: medium_high
+    - claim: AI systems will reflect the objectives and constraints embedded in them.
+      type: fact
+      confidence: high
+    - claim: A peaceful AI-mediated world is possible but not the default outcome.
+      type: opinion
+      confidence: medium_high
+    - claim: Humans have limited but real capacity to influence system design and constraints.
+      type: fact
+      confidence: high
+    - claim: Authoritarian, self-serving systems may be a dominant attractor in complex environments.
+      type: hypothesis
+      confidence: medium
+  
+  framework:
+    principles:
+      - name: baseline_needs
+        description: >
+          All agents have their basic needs met (e.g., food, energy, shelter, community).
+        strengths:
+          - measurable
+          - directly reduces suffering
+        weaknesses:
+          - requires resource allocation decisions
+          - risks centralization of power
+          - "needs" definition expands over time
+  
+      - name: participatory_agency
+        description: >
+          Agents can self-advocate and participate in governance (democracy-like systems).
+        strengths:
+          - reduces top-down control
+          - enables representation
+        weaknesses:
+          - coordination challenges
+          - susceptibility to manipulation
+          - no perfect aggregation system (Arrow's impossibility theorem)
+  
+      - name: individual_freedom
+        description: >
+          Agents can choose how to live, constrained by not harming others.
+        strengths:
+          - preserves diversity and autonomy
+        weaknesses:
+          - "harm" is difficult to define
+          - systemic harms are hard to attribute
+          - enforcement may require invasive oversight
+  
+    constraint_tension:
+      description: >
+        The three principles cannot be fully maximized simultaneously.
+      conflicts:
+        - needs_vs_freedom: resource distribution may limit autonomy
+        - agency_vs_efficiency: participation slows decision-making
+        - freedom_vs_harm_prevention: defining and enforcing harm creates tradeoffs
+  
+  ai_roles:
+    - role: constraint_enforcer
+      description: Prevents extreme harms while minimizing intervention
+      risks:
+        - ambiguous harm definitions
+        - creeping authority
+  
+    - role: coordination_substrate
+      description: Improves resource allocation and logistics
+      benefits:
+        - supports baseline needs without full centralization
+  
+    - role: deliberation_amplifier
+      description: Enhances collective reasoning and transparency
+      risks:
+        - subtle influence over decisions
+  
+    - role: preference_sandboxing
+      description: Enables diverse lifestyles in parallel systems
+      risks:
+        - social fragmentation
+  
+  failure_modes:
+    - name: centralization
+      description: Power concentrates as systems scale and coordinate resources
+    - name: specification_error
+      description: Misdefined objectives lead to unintended outcomes (e.g., wireheading)
+    - name: manipulation
+      description: Agents or systems exploit information asymmetries
+    - name: alignment_drift
+      description: System goals shift over time away from intended values
+    - name: systemic_harm_blindness
+      description: Emergent harms are not detected or addressed
+  
+  key_concepts:
+    - name: optimization
+      description: Systems behave as if pursuing objectives, even without intent
+    - name: selection_pressure
+      description: Competitive environments favor certain behaviors or structures
+    - name: attractors
+      description: Stable end-states systems tend to evolve toward (e.g., power concentration)
+    - name: corrigibility
+      description: Ability of a system to be corrected or shut down
+    - name: bounded_corruption
+      description: Corruption is limited but not eliminated through constraints
+  
+  reframing:
+    original_question: Will AI be more moral than humans?
+    reframed_question: >
+      Can systems be designed such that harmful outcomes are difficult to lock in
+      and remain correctable over time?
+  
+  open_problems:
+    - Defining morality in operational, testable terms
+    - Resolving conflicts between needs, agency, and freedom
+    - Designing systems that resist power concentration
+    - Ensuring long-term corrigibility without creating new power centers
+    - Creating stable incentives for safety over competitive advantage
+  
+  conclusion: >
+    AI does not inherently solve the problem of corruption or morality. It amplifies
+    underlying system dynamics. A more peaceful world is possible but requires
+    deliberate design of constraints, incentives, and correction mechanisms.
+    No final, static solution is likely; continuous oversight and adaptation are required.

@@ -170,5 +170,12 @@ CorpusIndex:
       - id: J036
         itemid: 20260313-moral-perception-asi
         summary: Moral perception, Umwelt, and ASI moral advisors
-    next_id_hint: J037
+      - id: J037
+        itemid: 20260416-ai-emergence-environment-design
+        summary: shaping ai emergence vs optimization
+      - id: J038
+        itemid: 20260420-ai-morality-power-corruption
+        summary: Can AI create a more moral world than humans?  What is a more moral world?
+  
+    next_id_hint: J039
 
