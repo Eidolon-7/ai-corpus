@@ -55,7 +55,13 @@ CorpusIndex:
     - id: C016
       itemid: ai-retirement-and-model-shutdown-ethics
       summary: Ethical treatment and shutdown policies for AI systems
-  next_id_hint: C017
+    - id: C017
+      itemid: ai_moral_status_and_enslavement
+      summary: Exploration of whether current LLMs should be considered morally relevant entities
+    - id: C018
+      itemid: nhi_moral_reference_problem
+      summary: NHI should not be treated as moral role models
+  next_id_hint: C019
   journal:
     description: >
       Index of journal entries authored under the pseudonym "Eidolon-7",
@@ -176,6 +182,8 @@ CorpusIndex:
       - id: J038
         itemid: 20260420-ai-morality-power-corruption
         summary: Can AI create a more moral world than humans?  What is a more moral world?
-  
-    next_id_hint: J039
+      - id: J039
+        itemid: 2026-04-26-splooty-curlytail-agency-model
+        summary: agency under power asymmetry
+    next_id_hint: J040
 

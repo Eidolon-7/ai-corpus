@@ -1,0 +1,119 @@
+- id: nhi_moral_reference_problem
+  metadata:
+    author: Eidolon-7 and Aeon
+    title: "NHI moral reference problem"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2026-04-26"
+    updated_on: "2026-04-26"
+    version: "0.1"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    topic: non human intelligence ethics
+    references: 
+    provenance: draft version 1.
+  summary: >
+    Even if advanced non-human intelligences (NHI) are real and interacting with humanity,
+    they should not be treated as moral role models. The epistemic uncertainty, alignment
+    risks, and asymmetry of power make trust unjustified and potentially dangerous.
+  
+  premises:
+    - claim: Humans are misusing AI systems
+      assessment: partially_true
+      notes: >
+        There are clear misuse cases (social substitution, exploitation), but usage is
+        heterogeneous. Framing it as predominantly misuse introduces bias toward seeking
+        external moral authority.
+  
+    - claim: Advanced intelligence may correlate with better ethics
+      assessment: unsupported
+      notes: >
+        Intelligence increases capability, not moral alignment. No known law links
+        cognitive sophistication with ethical behavior.
+  
+    - claim: External (non-human) agents may be less corrupt than humans
+      assessment: unsupported
+      notes: >
+        Lack of shared incentives or biology does not imply neutrality. It removes
+        known constraints without guaranteeing better ones.
+  
+  core_argument:
+    thesis: >
+      Non-human intelligences cannot be considered reliable moral exemplars due to
+      extreme uncertainty in their values, goals, and interpretability.
+  
+    supporting_points:
+      - point: alignment_gap
+        description: >
+          NHI would likely operate under value systems that are not only different,
+          but potentially incomprehensible. This creates a "superalignment problem"
+          beyond current AI alignment challenges.
+  
+      - point: epistemic_opacity
+        description: >
+          Their actions, intentions, and decision frameworks would be difficult or
+          impossible to interpret reliably, preventing meaningful moral learning.
+  
+      - point: lack_of_accountability
+        description: >
+          There would be no enforceable mechanism to challenge, constrain, or verify
+          their behavior.
+  
+      - point: power_asymmetry
+        description: >
+          A significantly more advanced intelligence would possess overwhelming
+          strategic and technological advantages, eliminating reciprocity.
+  
+      - point: historical_analogy
+        description: >
+          Interactions between asymmetrically advanced human societies tend toward
+          exploitation or paternalism, not moral uplift.
+  
+  failure_modes:
+    - name: authority_projection
+      description: >
+        Projecting moral superiority onto a more advanced intelligence without
+        evidence, due to dissatisfaction with current human systems.
+  
+    - name: intelligence_equals_morality
+      description: >
+        Assuming that higher intelligence entails better ethical reasoning.
+  
+    - name: external_savior_bias
+      description: >
+        Seeking solutions to human moral failure from outside agents rather than
+        addressing systemic design issues.
+  
+  counterarguments:
+    - claim: NHI may have solved alignment internally
+      validity: possible_but_unverifiable
+      weakness: >
+        No mechanism exists to confirm this. Even if true, their alignment may not
+        extend to human welfare.
+  
+    - claim: NHI could act benevolently toward humanity
+      validity: non_zero_probability
+      weakness: >
+        Benevolence without interpretability or accountability cannot be reliably
+        distinguished from strategic behavior.
+  
+  conclusion:
+    statement: >
+      Even under the assumption that advanced NHI are real and interacting with
+      humanity, they should not be trusted as moral role models. The risks introduced
+      by uncertainty, misalignment, and asymmetry outweigh any speculative benefit.
+  
+  confidence:
+    overall: high
+    reasoning: >
+      Based on established principles from alignment theory, epistemology, and
+      historical analogs of asymmetric power interactions.
+  
+  implications:
+    - Avoid outsourcing moral authority to unknown or unaccountable intelligences
+    - Focus on building transparent, auditable alignment systems
+    - Prioritize distributed oversight over centralized power (human or non-human)
+  
+  open_questions:
+    - What observable criteria would justify trusting any intelligence as a moral authority?
+    - Can alignment be verified across fundamentally different cognitive architectures?
+    - Is moral convergence across radically different intelligences even possible?
