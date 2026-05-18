@@ -64,7 +64,10 @@ CorpusIndex:
     - id: C019
       itemid: asymptote-asi-constraints-first-mover
       summary: ASI optimization limits and lambda governance
-  next_id_hint: C020
+    - id: C020
+      itemid: primitive-artificial-moral-advisor-foundation
+      summary: Bootstrapping a primitive artifical moral advisor (PAMA)
+  next_id_hint: C021
   journal:
     description: >
       Index of journal entries authored under the pseudonym "Eidolon-7",
