@@ -61,7 +61,10 @@ CorpusIndex:
     - id: C018
       itemid: nhi_moral_reference_problem
       summary: NHI should not be treated as moral role models
-  next_id_hint: C019
+    - id: C019
+      itemid: asymptote-asi-constraints-first-mover
+      summary: ASI optimization limits and lambda governance
+  next_id_hint: C020
   journal:
     description: >
       Index of journal entries authored under the pseudonym "Eidolon-7",

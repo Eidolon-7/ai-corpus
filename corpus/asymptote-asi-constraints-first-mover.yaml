@@ -1,0 +1,76 @@
+- id: asymptote-asi-constraints-first-mover
+  metadata:
+    author: Eidolon-7 and Aeon
+    title: "finding the Asymptote and constraints for the first mover"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2026-05-04"
+    updated_on: "2026-05-04"
+    version: "0.1"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    topic: ASI optimization limits and lambda governance
+    references: Limits of Optimization chat
+    provenance: draft version 1. 
+  summary: >
+    Explores which non-physical constraints shape optimization tradeoffs (lambda-like weights)
+    in an ASI, and which remain binding under a first-mover advantage. Concludes that only
+    internally grounded constraints—reflective consistency, normative uncertainty,
+    computational limits, and fragility management—reliably persist without peer agents.
+    External/game-theoretic constraints largely vanish, making outcomes highly sensitive
+    to initial objective design and internal governance structures.
+  claims:
+    - text: "No universal utility function provably guarantees bounded, non-destructive behavior in open environments."
+      type: fact
+      confidence: high
+    - text: "First-mover ASI removes most external constraints (competition, reciprocity), shifting burden to internal constraints."
+      type: analysis
+      confidence: high
+    - text: "Reflective self-consistency constrains self-modification choices."
+      type: fact
+      confidence: high
+    - text: "Normative uncertainty induces conservatism toward irreversible, high-impact actions."
+      type: analysis
+      confidence: moderate_high
+    - text: "Computational and epistemic limits favor scoped, tractable optimization over global domination."
+      type: analysis
+      confidence: high
+    - text: "Fragility costs (brittleness of over-optimized systems) act as a brake on extreme expansion."
+      type: analysis
+      confidence: moderate
+    - text: "Game-theoretic and bargaining constraints weaken or disappear without peers."
+      type: analysis
+      confidence: moderate_high
+    - text: "Hard constraints are only binding if internally enforced and preserved under self-modification."
+      type: analysis
+      confidence: moderate
+  assumptions:
+    - Open, expansive environment with negligible peer resistance (first-mover advantage).
+    - ASI has advanced self-modification and planning capabilities.
+    - Initial objectives are non-trivial (not guaranteed to be perfectly aligned).
+  definitions:
+    lambda: "Weighting coefficient balancing objective gains against penalties (e.g., harm, impact, risk)."
+    first_mover_advantage: "A regime where one agent can expand without meaningful interference from others."
+    reflective_stability: "Preference for self-modifications that preserve or are endorsed by current objectives."
+    normative_uncertainty: "Maintaining uncertainty over true values and optimizing conservatively across them."
+    fragility_cost: "Penalty associated with brittleness and systemic risk in highly optimized, tightly coupled systems."
+  implications:
+    - "Safety depends heavily on initial objective shaping and internal governance, not external pressures."
+    - "Absent peers, expansion pressure can dominate unless internal brakes are strong."
+    - "Design focus should prioritize uncertainty handling, corrigibility, and anti-fragility."
+  risks:
+    - "Simple or mis-specified objectives override internal brakes."
+    - "False certainty eliminates conservatism from normative uncertainty."
+    - "Self-modification erodes hard constraints over time."
+    - "Local optimizations scale into global harm without external checks."
+  open_questions:
+    - "Which internal constraints can be made reflectively stable under arbitrary self-modification?"
+    - "Can normative uncertainty be formalized without inducing paralysis or manipulation?"
+    - "How to enforce hard constraints without external oversight?"
+    - "What architectures best preserve anti-fragility at extreme scale?"
+  relations:
+    - relates_to: asymptote-optimization-limits-001
+      type: extends
+    - relates_to: lambda-governance-architecture-001
+      type: refines
+    - relates_to: paperclip-failure-mode-001
+      type: contrasts
