@@ -12,6 +12,7 @@ It emphasizes epistemic integrity, moral universality, and traceable authorship.
 
 * `corpus/` — individual YAML entries, one per reflection or study.
 * `meta/` — supporting definitions (AuthorManifest, CorpusIndex, Axioms).
+* `PAMA/` - Primitive Artificial Moral Advisor (PAMA), an agentic context for moral advising
 * `index.md` or `CorpusIndex.yaml` — cross-references all entries.
 
 
