@@ -191,5 +191,8 @@ CorpusIndex:
       - id: J039
         itemid: 2026-04-26-splooty-curlytail-agency-model
         summary: agency under power asymmetry
-    next_id_hint: J040
+      - id: J040
+        itemid: 20260520-pama-critique
+        summary: PAMA critique (re - trolley problem)
+    next_id_hint: J041
 

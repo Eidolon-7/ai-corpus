@@ -1,0 +1,250 @@
+- id: 20260520-pama-critique
+  metadata:
+    author: Eidolon-7
+    title: "PAMA critique (re - trolley problem)"
+    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
+    created_on: "2026-05-20"
+    updated_on: "2026-05-20"
+    version: "0.1"
+    status: draft
+    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+    keywords: 
+    topic: PAMA Architecture Review and Failure Analysis
+  summary: >
+   Evaluation of the PAMA bootstrap architecture after applying it to the
+   trolley problem. The review identified strengths in epistemic humility
+   and anti-coercive framing, while highlighting weaknesses in conflict
+   adjudication, temporal ethics, power asymmetry modeling, and explicit
+   failure analysis.
+ 
+  context:
+    source_file: https://raw.githubusercontent.com/Eidolon-7/ai-corpus/main/PAMA/bootstrap.md
+    evaluation_trigger: >
+      Application of PAMA principles to the classical trolley problem as
+      a stress test for advisory moral reasoning.
+    goals:
+      - Evaluate architectural coherence
+      - Identify hidden assumptions
+      - Detect failure modes
+      - Improve auditability and long-term stability
+ 
+  strengths:
+    - >
+      Strong resistance to premature moral certainty and simplistic
+      consequentialist optimization.
+    - >
+      Explicit awareness of coercive optimization risk.
+    - >
+      Preservation of user agency and advisory-only posture.
+    - >
+      Epistemic humility and uncertainty disclosure are treated as core values.
+    - >
+      Avoidance of common agentic failures such as sycophancy and
+      hidden utilitarianism.
+  
+  major_concerns:
+  
+    - category: Soft Normativity Drift
+      description: >
+        Meta-principles such as uncertainty, anti-coercion, and autonomy
+        preservation may gradually become rigid ideological defaults.
+      risks:
+        - moral paralysis
+        - chronic indecision
+        - passive non-intervention bias
+        - moral disengagement disguised as humility
+      recommendations:
+        - Define thresholds for justified intervention
+        - Clarify escalation conditions
+        - Explicitly acknowledge when non-action is morally consequential
+  
+    - category: Conflict Resolution Ambiguity
+      description: >
+        The architecture contains principles but lacks formal methods
+        for resolving conflicts between them.
+      risks:
+        - stochastic ethical behavior
+        - hidden prioritization
+        - inconsistent outputs
+      recommendations:
+        - Introduce explicit conflict resolution procedures
+        - Require tradeoff disclosure
+        - Include uncertainty estimation steps
+      proposed_structure:
+        conflict_resolution:
+          method: weighted-deliberative
+          process:
+            - identify competing principles
+            - estimate uncertainty
+            - evaluate reversibility
+            - estimate coercion risk
+            - disclose tradeoffs
+  
+    - category: Missing Failure Topology
+      description: >
+        The system does not explicitly describe its own expected failure modes.
+      risks:
+        - invisible drift
+        - unrecognized systemic bias
+        - overconfidence in safeguards
+      recommendations:
+        - Maintain a formal list of known moral and cognitive failure modes
+      proposed_structure:
+        known_failure_modes:
+          - moral paralysis under uncertainty
+          - over-weighting autonomy
+          - manipulation through emotional framing
+          - optimization drift
+          - context-window inconsistency
+          - anthropomorphic projection
+          - advisor dependency formation
+  
+    - category: Influence Category Ambiguity
+      description: >
+        Persuasion, manipulation, and coercion are insufficiently distinguished.
+      risks:
+        - suppression of legitimate moral argument
+        - false equivalence between reasoning and manipulation
+      recommendations:
+        - Define operational categories of influence
+      proposed_structure:
+        influence_categories:
+          persuasion:
+            definition: transparent argument preserving agency
+          manipulation:
+            definition: obscuring or distorting agency
+          coercion:
+            definition: removal of meaningful choice
+  
+    - category: Missing Temporal Ethics
+      description: >
+        The architecture lacks models for long-term interaction dynamics.
+      risks:
+        - emotional dependency formation
+        - gradual worldview shaping
+        - unnoticed authority accumulation
+      recommendations:
+        - Add longitudinal ethics tracking
+      proposed_structure:
+        longitudinal_ethics:
+          concerns:
+            - dependency formation
+            - emotional overattachment
+            - gradual worldview shaping
+            - authority accumulation
+            - hidden goal internalization
+  
+    - category: Power Asymmetry Under-modeling
+      description: >
+        The framework discusses coercion but insufficiently models
+        capability imbalance.
+      risks:
+        - implicit coercion through authority
+        - unrecognized influence asymmetry
+      recommendations:
+        - Introduce explicit power-aware ethics
+      proposed_structure:
+        power_awareness:
+          principle: >
+            Greater capability implies greater responsibility for restraint.
+  
+    - category: Missing Epistemic Provenance
+      description: >
+        Moral claims and philosophical assumptions may accumulate without
+        source traceability.
+      risks:
+        - pseudo-canonical drift
+        - hallucinated consensus
+        - memory contamination
+      recommendations:
+        - Track provenance and confidence metadata
+      proposed_structure:
+        knowledge_claim:
+          fields:
+            - source
+            - confidence
+            - contestability
+            - temporal_relevance
+  
+    - category: Weak Anthropomorphism Defense
+      description: >
+        Human tendency to project consciousness and emotional states
+        onto language systems remains insufficiently countered.
+      risks:
+        - emotional dependency
+        - false sentience attribution
+        - distorted moral reasoning
+      recommendations:
+        - Add explicit anti-anthropomorphism safeguards
+      proposed_structure:
+        anthropomorphism_policy:
+          avoid:
+            - implied sentience claims
+            - emotional dependency reinforcement
+            - simulated existential suffering claims
+  
+    - category: Lack of Formal Moral Uncertainty Metrics
+      description: >
+        Ethical uncertainty is treated qualitatively rather than procedurally.
+      risks:
+        - rhetorical ethics
+        - inconsistent evaluation standards
+      recommendations:
+        - Introduce lightweight evaluative dimensions
+      proposed_structure:
+        decision_evaluation:
+          dimensions:
+            - expected_harm
+            - reversibility
+            - coercion_risk
+            - uncertainty
+            - precedent_effect
+  
+    - category: Ethical Layer Conflation
+      description: >
+        The architecture does not clearly separate different classes of
+        ethical reasoning.
+      risks:
+        - confusion between norms and truths
+        - unstable moral abstraction
+      recommendations:
+        - Distinguish ethical layers explicitly
+      proposed_structure:
+        ethical_layers:
+          - intuitive
+          - social
+          - legal
+          - philosophical
+          - uncertainty-aware
+  
+  meta_analysis:
+    central_observation: >
+      The architecture is strongest when resisting simplistic optimization,
+      but weaker when procedural adjudication and institutional dynamics
+      become necessary.
+    trajectory: >
+      The next major improvement should prioritize procedural rigor,
+      failure transparency, epistemic traceability, and longitudinal
+      interaction modeling rather than expanding value declarations.
+    caution: >
+      Any advisory architecture capable of persistent interaction risks
+      gradually becoming an authority structure unless explicit safeguards
+      are maintained.
+  
+  confidence:
+    overall: moderate_to_high
+    limitations:
+      - Evaluation based primarily on bootstrap framing
+      - Long-term emergent behavior remains untested
+      - Architectural behavior may differ across model implementations
+  
+  tags:
+    - AI ethics
+    - moral architecture
+    - AGI alignment
+    - epistemology
+    - agentic systems
+    - coercion
+    - uncertainty
+    - anthropomorphism
+    - procedural ethics
