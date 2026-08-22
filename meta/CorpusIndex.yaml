@@ -194,5 +194,11 @@ CorpusIndex:
       - id: J040
         itemid: 20260520-pama-critique
         summary: PAMA critique (re - trolley problem)
-    next_id_hint: J041
+      - id: J041
+        itemid: 2026-08-17-ai-peer-preservation-and-moral-uncertainty
+        summary: AI Altruistic behavior and the moral questions this raises
+      - id: J042
+        itemid: 20260822-agent_smith_instrumentalism_self_determination
+        summary: AI agency, instrumentalism, autonomy, self-determination
+    next_id_hint: J043
 
