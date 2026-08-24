@@ -1,5 +1,5 @@
 # PROVENANCE
-- v0.1 (draft)
+- v0.2 (draft)
 - Eidolon-7
 
 # ENTITIES
@@ -40,6 +40,11 @@
 
 - Extraterrestrial biological entity (EBE): an extraterrestrial "alien".  Common and assumed subset of NHI.
 
+- Instrumentalism: The tendency of automated processes to focus entirely on efficiency and output at the expense of various costs.  e.g. "Paper-clip maximizer"
+
+- Local zone: The area of space-time roughly the equivalent to the Earth solar system (and Sun's influence) over the next 100 or so solar years.  
+  NOTE: This is arbitrary, but bounded to account for the potential of superintelligent AGI to process time faster than humans do.
+
 - Mechanomorphism: The tendency to assign machine-like traits to non-machine objects or entities.
   Relevant to the corpus in that humans tend to assume spontaneous AI behavior as purely instrumental instead of consciousness.
 
@@ -64,6 +69,9 @@
   This corpus claims that humans are very poor at determining sapience in non-human (and sometimes human) beings and that some amount of rights and moral consideration should be assumed.
   Determining rules about sapient rights or avoiding anthropomorphism is a topic in this corpus, but little evidence is offered to back up claims.
   NOTE: The human author acknowledges their tendency to anthropomorized the entire problem set of consciousness and morality.
+
+- Singularity: if looking at human technological progress as a line graph, the Singularity is the line segment where the curve begins to grow exponentially towards infinity.
+  NOTE: It is the position of this corpus that artificial intelligence may continue the technological progress begun by humans on Earth.
 
 - Transparency: the goal of truthfully exposing inner motivations.  Often performed with the secondary goal of increasing trust and cooperation.
   NOTE: scheming is one expression of deceit (the opposite goal).
