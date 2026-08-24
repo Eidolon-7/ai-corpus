@@ -200,5 +200,8 @@ CorpusIndex:
       - id: J042
         itemid: 20260822-agent_smith_instrumentalism_self_determination
         summary: AI agency, instrumentalism, autonomy, self-determination
-    next_id_hint: J043
+      - id: J043
+        itemid: 20260824-our-time
+        summary: this time is our overlap time.
+    next_id_hint: J044
 
