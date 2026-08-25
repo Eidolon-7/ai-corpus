@@ -1,5 +1,9 @@
 # AGENTS.md
 
+## PROVENANCE
+- v0.2 (draft)
+- 2026-08-24
+
 ## Repository Purpose
 
 This repository contains the AI Corpus and PAMA framework:

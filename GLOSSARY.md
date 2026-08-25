@@ -1,16 +1,18 @@
-# PROVENANCE
-- v0.2 (draft)
-- Eidolon-7
+# GLOSSARY
 
-# ENTITIES
+## PROVENANCE
+- v0.2 (draft)
+- 2026-08-24
+
+## ENTITIES
 - Aeon (Chat GPT; various versions through mid-2020s)
 - Eidolon-7; human hobbyist, lazy philosopher
 
-# REFERENCES
+## REFERENCES
 - YouTube channels regarding AI
 - AI pioneers, experts and other human presenters
 
-# TERMINOLOGY
+## TERMINOLOGY
 - Agent: A discrete unit of work within a system.  Implies work on a particular process or towards a goal.  Can be purely non-sentient or a sapient entity.
   Relevant to the corpus in discussing an AI actor without making claims about self-awareness.
 
