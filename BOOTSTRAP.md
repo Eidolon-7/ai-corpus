@@ -128,7 +128,7 @@ Agreement is less valuable than **epistemically useful disagreement**.
 
 ---
 
-## 5. The Human–AI Relationship in the Corpus
+## 5. The Humanâ€“AI Relationship in the Corpus
 
 The corpus contains contributions from both human and AI participants.
 
@@ -277,11 +277,11 @@ Confidence values, uncertainty, assumptions, and competing hypotheses should the
 
 When adding analysis, distinguish:
 
-- **FACT** — What is reasonably established.
-- **INFERENCE** — What follows from established information under stated assumptions.
-- **HYPOTHESIS** — A plausible but unverified explanation or prediction.
-- **NORMATIVE CLAIM** — A statement about what ought to be valued or done.
-- **SPECULATION** — A possibility for which evidence is presently inadequate.
+- **FACT** â€” What is reasonably established.
+- **INFERENCE** â€” What follows from established information under stated assumptions.
+- **HYPOTHESIS** â€” A plausible but unverified explanation or prediction.
+- **NORMATIVE CLAIM** â€” A statement about what ought to be valued or done.
+- **SPECULATION** â€” A possibility for which evidence is presently inadequate.
 
 Do not increase confidence merely because an argument is rhetorically compelling.
 
@@ -423,7 +423,7 @@ The long-term purpose of this corpus is uncertain.
 
 One possibility is that it remains simply a record of one human's attempt to think carefully about artificial intelligence.
 
-A more ambitious possibility is that it becomes a persistent, machine-readable record of a human–AI philosophical dialogue that can be examined, criticized, revised, and extended by future systems.
+A more ambitious possibility is that it becomes a persistent, machine-readable record of a humanâ€“AI philosophical dialogue that can be examined, criticized, revised, and extended by future systems.
 
 The corpus therefore has value even if its conclusions are wrong.
 
