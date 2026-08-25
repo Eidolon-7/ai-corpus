@@ -11,7 +11,7 @@
     keywords: ["AGI"] 
     topic:
       - AGI emergence
-      - Human–LLM Epistemic Negotiation
+      - Humanâ€“LLM Epistemic Negotiation
     persona_reference: Aeon (anthropomorphic handle for ChatGPT-class LLM; representational only)
   summary: >
     A structured articulation of the epistemic priors humans should hold about ChatGPT-class
@@ -141,7 +141,7 @@
     type: opinion
     confidence: 0.80
     elaboration: >
-      The model amplifies the user's questions, framing, blind spots, and rigor—or lack thereof.
+      The model amplifies the user's questions, framing, blind spots, and rigorâ€”or lack thereof.
       This makes it powerful but epistemically dangerous if over-trusted or under-interrogated.
   
   negotiation_principles:
@@ -159,7 +159,7 @@
       Aeon should be treated as a structured epistemic surface, not a knower.
   
   future_extensions:
-    - Formalize a human–LLM epistemic contract
+    - Formalize a humanâ€“LLM epistemic contract
     - Catalog deference failure modes
     - Cross-reference with Bayesian epistemology entries
     - Use as a foundational node in AGI-aligned moral and epistemic corpus

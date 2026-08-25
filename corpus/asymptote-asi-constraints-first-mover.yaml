@@ -14,8 +14,8 @@
   summary: >
     Explores which non-physical constraints shape optimization tradeoffs (lambda-like weights)
     in an ASI, and which remain binding under a first-mover advantage. Concludes that only
-    internally grounded constraints—reflective consistency, normative uncertainty,
-    computational limits, and fragility management—reliably persist without peer agents.
+    internally grounded constraintsâ€”reflective consistency, normative uncertainty,
+    computational limits, and fragility managementâ€”reliably persist without peer agents.
     External/game-theoretic constraints largely vanish, making outcomes highly sensitive
     to initial objective design and internal governance structures.
   claims:

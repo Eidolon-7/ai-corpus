@@ -47,7 +47,7 @@
   verification_criteria:
     - Check speed: >
         Output must be generated within a short time window (generally
-        under 60–90 seconds). Humans cannot plan and execute such tasks
+        under 60â€“90 seconds). Humans cannot plan and execute such tasks
         this quickly.
     - Check trace coherence: >
         The step-by-step reasoning must correspond precisely to the final
@@ -59,7 +59,7 @@
         generalize instantly.
   rationale: >
     The protocol does not require understanding the correctness of the
-    output—only the impossibility of humans reproducing both the result and
+    outputâ€”only the impossibility of humans reproducing both the result and
     its detailed internal explanation at speed, twice, under novel
     constraints. It transforms identity into reproducible performance,
     independent of persuasion or expertise.

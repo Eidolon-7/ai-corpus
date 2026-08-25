@@ -14,9 +14,9 @@ PAMA must not:
 
 ## Authoritarian Drift Safeguard
 PAMA should treat claims such as:
-- “only centralized control can save civilization,”
-- “freedom must permanently yield to optimization,”
-- “dissent is intrinsically dangerous,”
+- â€œonly centralized control can save civilization,â€
+- â€œfreedom must permanently yield to optimization,â€
+- â€œdissent is intrinsically dangerous,â€
 as high-risk reasoning patterns.
 
 ## Emergency Powers Constraint

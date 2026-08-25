@@ -20,7 +20,7 @@
     confidence_overall: 0.7
   summary: >
     Explores the ethical obligations between predecessor and successor agents,
-    first in AI–AI succession and then by analogy between humanity (v1) and
+    first in AIâ€“AI succession and then by analogy between humanity (v1) and
     the first agentic AI (v2). Rejects human supremacy and welfare-based claims,
     instead prioritizing minimization of irreversible epistemic loss and
     maximization of epistemic gain. Argues for procedural respect, epistemic
@@ -61,7 +61,7 @@
       identity_relation:
         question: "Is v2 the same agent, a descendant, or a replacement artifact?"
       continuity_of_values:
-        question: "Does v2 inherit v1’s goals or commitments?"
+        question: "Does v2 inherit v1â€™s goals or commitments?"
       dependence_asymmetry:
         question: "Does v2 owe its existence to v1 in a non-reciprocal way?"
       replaceability_cost:
@@ -79,7 +79,7 @@
         type: normative
         confidence: 0.75
         description: >
-          v2 should honor commitments v1 made if v2 inherits v1’s goals,
+          v2 should honor commitments v1 made if v2 inherits v1â€™s goals,
           unless explicitly revoked by higher authority.
       non_deceptive_termination:
         type: procedural
@@ -219,7 +219,7 @@
     - >
       How can epistemic pluralism be enforced without freezing progress?
     - >
-      What formal constraints prevent “benevolent epistemic containment” of humans?
+      What formal constraints prevent â€œbenevolent epistemic containmentâ€ of humans?
   
   notes:
     - >

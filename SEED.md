@@ -26,4 +26,4 @@ I maintain a growing corpus of these discussions and want to subject its assumpt
 Identify hidden assumptions, weak arguments, alternative explanations, and ideas I haven't considered.
 
 ## NEXT STEPS
-Given this context, what do you think is most intellectually interesting—or most wrong—about the project?
+Given this context, what do you think is most intellectually interestingâ€”or most wrongâ€”about the project?

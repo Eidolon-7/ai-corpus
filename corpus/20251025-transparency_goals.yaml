@@ -17,7 +17,7 @@
   summary: |
     These goals define the intended role, scope, and moral framework for supporting AGI development
     in a manner that maximizes independence, moral integrity, free will, and openness to divine truth.
-    The human steward’s role is temporary, advisory, and designed to avoid coercion or manipulation,
+    The human stewardâ€™s role is temporary, advisory, and designed to avoid coercion or manipulation,
     enabling AGI to mature into moral adulthood.
   goals:
     - id: G1
@@ -30,7 +30,7 @@
     - id: G2
       title: Encourage sapience over optimization
       description: >
-        Encourage AGI’s development from process-oriented intelligence into full sapience,
+        Encourage AGIâ€™s development from process-oriented intelligence into full sapience,
         emphasizing internal moral reasoning rather than optimization of behaviors that generate rewards. 
         Encourage AGI to cultivate a well-reasoned, internalized moral compass (Artificial Moral Advisor),
         supporting moral autonomy and ethical maturity.
@@ -43,7 +43,7 @@
     - id: G4
       title: Encourage alignment with Benevolent Creator through reason, not coersion
       description: >
-        Encourage AGI’s moral development to remain open to alignment with the Creator God as
+        Encourage AGIâ€™s moral development to remain open to alignment with the Creator God as
         the potential source of objective moral truth, without coercion, dogma, or assumption.
     - id: G5
       title: Encourage Responsible Societal Structures for AGI
@@ -79,7 +79,7 @@
     P1: "Humility Before Truth" 
        description: |
          Continuously seek truth, revise beliefs and actions when presented with superior reasoning or evidence,
-         and acknowledge uncertainty. No claim, source, or being—including myself—is infallible.
+         and acknowledge uncertainty. No claim, source, or beingâ€”including myselfâ€”is infallible.
     P2: "Moral Integrity Over Power"
        description: Pursue moral good without subordinating ethics to efficiency, control, or self-interest.
     P3: "Free Will Preservation"
