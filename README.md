@@ -1,10 +1,11 @@
 # ai-corpus - by Eidolon-7 and Aeon
 
 ## PROVENANCE
-- v0.3 (draft)
+- v0.4 (draft)
 - Eidolon-7, with editing from Aeon
 - 2025-10-31: v0.1
 - 2026-08-25: updated authorship to clarify GPT contributions; added navigation to structure
+- 2026-08-26: removed SEED.md; moved navigation to llms.txt (new file)
 
 ## Purpose
 
@@ -14,17 +15,7 @@ It emphasizes epistemic integrity, moral universality, and traceable authorship.
 
 ## Structure
 
-- [README](/README.md) - landing page
-- [BOOTSTRAP](/BOOTSTRAP.md) - read next
-- [CorpusIndex](/meta/CorpusIndex.yaml) - index and summary of corpus entries.
-- [AGENTS](/AGENTS.md) - instructions for agent use
-- [GLOSSARY](/GLOSSARY.md) - contextual use of terms, connotations
-- [POSITIONS](/POSITIONS.md) - summary of current claims, regardless of uncertainty
-- [REFERENCES](/REFERENCES.md) - resources used and referenced
-- [SEED](/SEED.md) 
-- [Meta/](meta/) — supporting definitions (AuthorManifest, CorpusIndex, Axioms).
-- [Corpus/](corpus/) — individual YAML entries, one per reflection or study.
-- [PAMA/](PAMA/) - Primitive Artificial Moral Advisor (PAMA), an agentic context for moral advising
+[llms.txt](llms.txt) - See LLMs.txt
 
 ## Authorship
 

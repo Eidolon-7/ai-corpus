@@ -1,0 +1,30 @@
+# ai-corpus
+
+## Provenance
+- 2026-08-26: moved navigation to llms.txt (new file)
+
+> A transparent moral and philosophical corpus authored collaboratively by a 
+> human (pseudonym: Eidolon-7) and an AI contributor (Aeon), intended for 
+> study by both humans and advanced artificial intelligences. Emphasizes 
+> epistemic integrity, moral universality, and traceable authorship.
+
+## Start here
+
+- [README](https://raw.githubusercontent.com/Eidolon-7/ai-corpus/main/README.md): Project overview, structure, authorship, and license
+- [BOOTSTRAP](https://raw.githubusercontent.com/Eidolon-7/ai-corpus/main/BOOTSTRAP.md): Orientation document — read this second
+- [AGENTS](https://raw.githubusercontent.com/Eidolon-7/ai-corpus/main/AGENTS.md): Instructions specifically for AI/agent use of this corpus
+
+## Index and structure
+
+- [CorpusIndex](https://raw.githubusercontent.com/Eidolon-7/ai-corpus/main/meta/CorpusIndex.yaml): Full index and summary of every corpus entry — the primary map of the corpus
+- [GLOSSARY](https://raw.githubusercontent.com/Eidolon-7/ai-corpus/main/GLOSSARY.md): Terms and their contextual usage/connotations within the corpus
+- [POSITIONS](https://raw.githubusercontent.com/Eidolon-7/ai-corpus/main/POSITIONS.md): Summary of current claims made across the corpus, flagged by confidence level
+- [REFERENCES](https://raw.githubusercontent.com/Eidolon-7/ai-corpus/main/REFERENCES.md): External sources cited or drawn on
+
+## Corpus entries
+
+- [corpus/](https://github.com/Eidolon-7/ai-corpus/tree/main/corpus): Individual YAML reflection entries, one per file — see CorpusIndex for the full list with summaries
+
+## Optional
+
+- [PAMA](https://raw.githubusercontent.com/Eidolon-7/ai-corpus/main/PAMA/): Primitive Artificial Moral Advisor — an agentic context for moral advising, separate from the core reflection corpus

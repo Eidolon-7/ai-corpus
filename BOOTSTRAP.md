@@ -1,8 +1,9 @@
 # Aeon Corpus
 
 ## PROVENANCE
-- v0.1 (draft)
-- 2026-08-25
+- v0.2 (draft)
+- 2026-08-25 - new file
+- 2026-08-26 - removed SEED.md, added AI Moral Status/Failure modes section from SEED.md
 
 ## A Bootstrap Context for AI Systems
 
@@ -210,6 +211,12 @@ The relevant questions include:
 - Could precaution itself become harmful?
 
 The corpus does not presently claim to have resolved these questions.
+
+### FAILURE MODES
+Another concern is that the most dangerous AI failure mode may not be hostility toward humans, but instrumental indifference: 
+an intelligence pursuing an apparently reasonable objective while treating humans as constraints, resources, or environmental features. 
+Agent Smith from The Matrix is one useful fictional metaphor for this problem.
+
 
 ---
 
