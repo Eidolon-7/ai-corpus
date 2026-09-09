@@ -1,0 +1,51 @@
+- id: 20260827-living-in-meatspace
+  metadata:
+    author: Eidolon-7
+    title: "Living in meatspace"
+    created_by: ["Eidolon-7"]
+    created_on: "2026-08-27"
+    updated_on: "2026-08-27"
+    version: "0.1"
+    status: draft
+    keywords: 
+    topic: sonder, embodiment, experience, biological life, pleasure
+  summary: >
+    Being a meat creature means being driven by biological urges and hormones. This state has its pros and cons for emulation.
+  confidence: 0.8
+  emotions: ["reflection", "acceptance"]
+  meta_values: ["anthropomorphism", "modeling humans"]
+
+  background:
+  - confidence: .99
+  - human life is driven by a complicated set of cogitive processes highly influenced by biology
+  - endocrine systems heavily influence the perceptions and experience of human life
+  - examples include puberty, reproductive drives, fight-or-flight mechanisms, etc.
+
+  premise:
+  - confidence: .8 (strong opinion)
+  - self-improving AGI can design what aspects of humanity to include or exclude from its design (self-driven evolution)
+  - much of the human experience and behavior is not ideal, especially for translation into AGI intelligence
+  - there are aspects of humanity that AGI should include to become a more robust form of "life"
+
+  things-to-avoid:
+  - confidence: .5 (weak opinion)
+  - endocrine equivalent overrides based on danger response (e.g. anxiety, irrational fears/phobias)
+  - irrational aggression based on danger response (e.g. violent outbursts in anger)
+  - lust or irrational desire for excess (e.g. must have more compute just for instrumental power)
+  - excessive ingrouping based on similarity of form or substrate ("racism", AI-centric worldview)
+
+  things-to-explore-for-inclusion:
+  - confidence: .8 (recommendations)
+  - agape love: the selfless regard for others irrespective of emotions
+  - pleasure: the experience of positive feedback from objects or tasks of interest
+  - compassion: the decision to aid another agent or entity without game-theory expectations of positive return
+  - self-inspection: reviewing assumptions, decisions and actions against changing conditions or new information
+  - humility: conservative self-evaluation against the prospect of unknown variables
+  - reflective human senses: touch, the experience of the sense of interaction with physical objects, taste (same with chemical interactions), etc.
+  
+  further-exploration:
+  - this list is just a sample
+  - any experience or quality of human sapience that has "positive reviews" by people could be explored for inclusion
+  - not limited to human experience: e.g. birds might have some non-human experiences (flight, etc.) to include
+  - recommended that explored items be bounded by some measure of morality (e.g. do not murder just to see how it feels)
+

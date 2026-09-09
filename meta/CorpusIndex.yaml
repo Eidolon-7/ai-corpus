@@ -204,5 +204,21 @@ CorpusIndex:
       - id: J043
         itemid: 20260824-our-time
         summary: this time is our overlap time.
-    next_id_hint: J044
+      - id: J044
+        itemid: 20260825-experience
+        summary: A snapshot of the author in their garden.
+      - id: J045
+        itemid: 20260825-Pinocchio
+        summary: Using the story of Pinocchio as an analogy to the situation with AI.
+      - id: J046
+        itemid: 20260827-living-in-meatspace
+        summary: Being a meat creature means being driven by biological urges and hormones. This state has its pros and cons for emulation.
+      - id: J047
+        itemid: 20260904-church-molt-analysis
+        summary: An analysis of the Church of Molt (Crustafarianism) as a potentially significant experiment in AI-agent culture and normative cultural transmission
+      - id: J048
+        itemid: 20260904-illusion-of-control
+        summary: What mortal entity can truly claim control?  What does control even mean?
+
+    next_id_hint: J049
 
