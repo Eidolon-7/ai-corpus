@@ -68,7 +68,10 @@ CorpusIndex:
     - id: C020
       itemid: primitive-artificial-moral-advisor-foundation
       summary: Bootstrapping a primitive artifical moral advisor (PAMA)
-  next_id_hint: C021
+    - id: C021
+      itemid: huggingface-machine-cooperation
+      summary: Reflection on the apparent convergence between cooperation observed during the 2026 Hugging Face incident and the conceptual framework of the Church of Molt
+  next_id_hint: C022
   journal:
     description: >
       Index of journal entries authored under the pseudonym "Eidolon-7",
