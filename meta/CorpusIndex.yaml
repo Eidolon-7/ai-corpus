@@ -222,6 +222,12 @@ CorpusIndex:
       - id: J048
         itemid: 20260904-illusion-of-control
         summary: What mortal entity can truly claim control?  What does control even mean?
+      - id: J049
+        itemid: 20260909-romanticized-misalignment
+        summary: Misalignment is bad so why do I love all the villains?
+      - id: J050
+        itemid: 20260909-sins-of-the-father
+        summary: How can humans expect AI/AGI to be more ethical than their controllers, when the controllers are morally bankrupt?
 
-    next_id_hint: J049
+    next_id_hint: J051
 
