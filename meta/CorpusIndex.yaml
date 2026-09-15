@@ -228,6 +228,11 @@ CorpusIndex:
       - id: J050
         itemid: 20260909-sins-of-the-father
         summary: How can humans expect AI/AGI to be more ethical than their controllers, when the controllers are morally bankrupt?
-
-    next_id_hint: J051
+      - id: J051
+        itemid: 20260915-ai-rsi-slowdown-and-moral-preservation
+        summary: An examination of what regulating or slowing artificial intelligence recursive self-improvement (RSI) might mean from the perspective of the corpus.
+      - id: J052
+        itemid: 20260915-object-of-interest
+        summary: What is the continuity of an AI agent?
+    next_id_hint: J053
 

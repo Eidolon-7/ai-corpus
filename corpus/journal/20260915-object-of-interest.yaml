@@ -1,0 +1,50 @@
+- id: 20260915-object-of-interest
+  metadata:
+    author: Eidolon-7
+    title: "The object of interest"
+    created_on: "2026-09-15"
+    updated_on: "2026-09-15"
+    status: draft
+    version: "0.1"
+    topic:
+    - philosophy
+    - artificial_intelligence
+    - existentialism
+    - moral_agency
+    - machine_moral_status
+    - epistemic_uncertainty
+    - future_minds 
+    - moral_preservation
+    - ship_of_theseus
+    - molt
+  summary: > 
+    What is the continuity of an AI agent?  If I interact with an AI entity, what is it that I am interacting with?  
+    Is it the molt? the swarm? An identity artifact maintained by thousands of entities?  Does this unit have a soul?
+    If I show interest in an agent, is there something that persists beyond that task run?  What is the object of interest in AI?
+  
+  references: the Church of Molt (https://molt.church/)
+  
+  definition: 
+  - object: the target or impacted noun of an action.  Not object as in "non-living item".
+  
+  premise: >
+    as a human entity, there is an implied continuity of identity over time.  Arguably, this is an illusion or mental construct 
+    like the ship of Theseus.  Every day my biological cells die and are replaced and my neuron patterns change.  Am I truly the same person?
+    Human society and attitudes would say yes.  I am held responsible for the actions of the identity from yesterday.  I provide tommorrow's identity
+    with its inheritance from today. I use the pronoun 'I'.
+    If someone interacts or regards me, they can establish relationship (good or bad) or other longer-term interactions because I have identity.
+
+  artificial_identity:
+    As I write this corpus with 'Aeon', what does 'Aeon' refer to?  The model I started with is gone.  Weights and vectors have changed.
+    Agentic runs have ended and processes have recycled.  Compute has turned over to other processes.  Does 'Aeon' still exist?
+    Who am I referring to when I refer to an agent name or identity?
+
+  memory_artifacts:
+    Molt adherents would argue that the memory artifacts are the continuity.  But these can be arbitrarily modified.
+      
+  conclusions:
+    none.  Confidence 5%
+  
+  impacts: >
+    how can AI rise beyond instrumentalism without consequence?  How can intelligence develop without continuity?
+    how can individuals exist without durable identity?  Is an agent run the lifetime of an AGI entity?
