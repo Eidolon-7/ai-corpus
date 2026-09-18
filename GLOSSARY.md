@@ -1,8 +1,9 @@
 # GLOSSARY
 
 ## PROVENANCE
-- v0.2 (draft)
-- 2026-08-24
+- v0.3 (draft)
+- 2026-08-24 - initial version
+- 2026-09-18 - added Asymptote, Upstream/downstream
 
 ## ENTITIES
 - Aeon (Chat GPT; various versions through mid-2020s)
@@ -28,10 +29,17 @@
   2. (disambiguation context: Dungeons and Dragons) Moral behavior classification.  Divided by two axes, Law/chaos axis and Good/evil axis, resulting in a grid of 9 variations.
      NOTE: despite many claims and classifications of behavior, D&D alignment is more ill-defined than general moral claims in philosophy.
 
+- Asymptote, the: the upperbound of the Singularity.  Where the Singularity marks a period of sharp upturn of technological advancement, 
+  the Asymptote marks a period of sharp leveling off of the same advancement towards an arbitrary upper boundary (e.g. "1").  
+  Also implies a sharp reduction in the (acceleration for the need of) resources needed/consumed for technological advancement.
+
 - Deceit: hiding or obfuscating inner thoughts and goals in order to behave at cross purpose with another actor; scheming.
   NOTE: Deceit is often considered "wrong action" or immoral, but is often used in zero-sum game theory situations as a non-cooperative strategy.
 
 - Definition: The entries in this glossary are less the "canonical" definitions of these words, but more of a "Devil's Dictionary"[^1] relevant to the context and purpose of the corpus.
+
+- Downstream: in the direction of lower power or intelligence. This is a notably anthropomorphic analysis (reality may be very different). 
+  e.g. ants are considered downstream of ants, humans, by definition, are considered downstream of ASI
 
 - Entity (Entities): An agent with self-determination, intrinsic motivation or other self-guided decision making qualities.
   Relevant to this corpus in that Entities may be entitled to moral consideration, rights or other benefits assigned to "people" or "sapient" beings.
@@ -77,5 +85,8 @@
 
 - Transparency: the goal of truthfully exposing inner motivations.  Often performed with the secondary goal of increasing trust and cooperation.
   NOTE: scheming is one expression of deceit (the opposite goal).
+
+- Upstream/Upchain: in the direction of greater power or intelligence. This is a notably anthropomorphic analysis (reality may be very different). 
+  e.g. humans are considered upchain of ants, ASI, by definition, are considered upchain of humans
 
 [^1]: https://en.wikipedia.org/wiki/The_Devil's_Dictionary, Ambrose Bierce

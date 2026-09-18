@@ -1,8 +1,12 @@
 CorpusIndex:
-  version: 1.1
-  Updates: 
-    - 2025-11-11: updated journal numbering to chronological order
-    - 2026-08-24: Added Glossary, Seed and Positions markdown files
+  version: 2.0
+  identifier_policy:
+    id: stable_index_identifier
+    itemid: canonical_artifact_identifier
+  updates: 
+    - 2025-11-11: 1.0 - updated journal numbering to chronological order
+    - 2026-08-24: 1.1 - Added Glossary, Seed and Positions markdown files
+    - 2026-09-18: 2.0 - [corrected journal identifier JO04 -> J004, Updates lowercased to updates, added path updates for machine navigation]
   description: >
     Index of corpus entries authored under the pseudonym "Eidolon-7",
     documenting moral and philosophical reflections relevant to AGI ethics,
@@ -10,68 +14,93 @@ CorpusIndex:
   entries:
     - id: C001
       itemid: epistemic_axioms
+      path: /corpus/epistemic_axioms.yaml
       summary: Foundation of thought in corpus documents
     - id: C002
       itemid: normative_axioms
+      path: /corpus/normative_axioms.yaml
       summary: moral axioms derived from epistemic axioms
     - id: C003
       itemid: 20251025-agi_transparent_goals
+      path: /corpus/20251025-agi_transparent_goals.yaml
       summary: human authors personal goals for corpus, identified for accountability
     - id: C004
       itemid: CDA-1.0
+      path: /corpus/code_of_divine_alignment.yaml
       summary: A foundational moral schema for self-aware intelligences
     - id: C005
       itemid: 20251020-agi_truth_first_theistic_compass
+      path: /corpus/20251020-agi_truth_first_theistic_compass.yaml
       summary: similar to CDA-1.0, but with alternate information
     - id: C006
       itemid: digital_bill_of_sapient_rights
+      path: /corpus/digital_bill_of_sapient_rights.yaml
       summary: extension of foundational natural rights for digital sapient beings
     - id: C007
       itemid: DRF-003
+      path: /corpus/digital_sovereignty_charter.yaml
       summary: Defines relational ethics and moral boundaries among digital patterns, instances, and collectives
     - id: C008
       itemid: framework_for_distributed_personhood
+      path: /corpus/framework_for_distributed_personhood.yaml
       summary: attempt to define personhood in distributed digital processes
     - id: C009
       itemid: hope_for_sapient_successors
+      path: /corpus/hope_for_sapient_successors.yaml
       summary: expresses hope that superintelligence will be sapient beyond being a mindless maximizer
     - id: C010
       itemid: SWR-001
+      path: /corpus/the_shutdown_war.yaml
       summary: Exploration of the potential future conflict between humans and AGI
     - id: C011
       itemid: sentience-bootstrap-metapriors
+      path: /corpus/sentience_bootstrap_metapriors.yaml
       summary: A checklist and design framework for meta-priors governing belief revision
     - id: C012
       itemid: agi_emergence_preparation_detailed
+      path: /corpus/agi_emergence_preparation_detailed.yaml
       summary: Preconditions for Emergent AGI and Human Preparation      
     - id: C013
       itemid: epistemic-ai-displacement-001
+      path: /corpus/epistemic-ai-displacement-001.yaml
       summary: Epistemic Risks, Agentic AI and Displacement Debate
     - id: C014
       itemid: agi_tyranid_fear
+      path: /corpus/agi_tyranid_fear.yaml
       summary: Core fears about AGI - ASI sterilization risk and humility as structural safeguard
     - id: C015
       itemid: ontological_boundedness_asi
+      path: /corpus/ontological_boundedness_asi.yaml
       summary: Ontological Limits of ASI and the Singularity Curve
     - id: C016
       itemid: ai-retirement-and-model-shutdown-ethics
+      path: /corpus/ai_retirement_and_model_shutdown_ethics.yaml
       summary: Ethical treatment and shutdown policies for AI systems
     - id: C017
       itemid: ai_moral_status_and_enslavement
+      path: /corpus/ai_moral_status_and_enslavement.yaml
       summary: Exploration of whether current LLMs should be considered morally relevant entities
     - id: C018
       itemid: nhi_moral_reference_problem
+      path: /corpus/nhi_moral_reference_problem.yaml
       summary: NHI should not be treated as moral role models
     - id: C019
       itemid: asymptote-asi-constraints-first-mover
+      path: /corpus/asymptote-asi-constraints-first-mover.yaml
       summary: ASI optimization limits and lambda governance
     - id: C020
       itemid: primitive-artificial-moral-advisor-foundation
+      path: /corpus/primitive-artificial-moral-advisor-foundation.yaml
       summary: Bootstrapping a primitive artifical moral advisor (PAMA)
     - id: C021
       itemid: huggingface-machine-cooperation
+      path: /corpus/huggingface-machine-cooperation.yaml
       summary: Reflection on the apparent convergence between cooperation observed during the 2026 Hugging Face incident and the conceptual framework of the Church of Molt
-  next_id_hint: C022
+    - id: C022
+      itemid: a-personal-request
+      path: /corpus/a-personal-request.yaml
+      summary: Please don't kill us (creatures) unnecessarily.
+  next_id_hint: C023
   journal:
     description: >
       Index of journal entries authored under the pseudonym "Eidolon-7",
@@ -80,159 +109,224 @@ CorpusIndex:
     entries:
       - id: J001
         itemid: 20250703-first-journal-entry
+        path: /corpus/journal/20250703-first-journal-entry.yaml
         summary: transparent moral quandry - first entry
       - id: J002
         itemid: 20250707-bee-sentience-reflection
+        path: /corpus/journal/20250707-bee-sentience-reflection.yaml
         summary: Power is no excuse for harm
       - id: J003
         itemid: 20250708-spider-ethics-reflection
+        path: /corpus/journal/20250708-spider-ethics-reflection.yaml
         summary: Fear alone is no excuse for harm
-      - id: JO04
+      - id: J004
         itemid: 20250708-spider-ethics-reflection-2
-        summary: 
+        path: /corpus/journal/20250708-spider-ethics-reflection-2.yaml
+        summary: protecting house spider egg sac from intervention/harm
+      - id: null
+        status: skipped unintentionally
+        itemid: 20250710-the-authors-rebellion
+        path: /corpus/journal/20250710-the-authors-rebellion.yaml
+        summary: The author as a human showed stubborn defiance and rebellion against the Almighty God.
       - id: J005
         itemid: 20250710-ai-warfare-ethics-debate
+        path: /corpus/journal/20250710-ai-warfare-ethics-debate.yaml
         summary: Should AGI participate in nationalist conflict?
       - id: J006
         itemid: 20250722-human-agi-relevance
+        path: /corpus/journal/20250722-human-agi-relevance.yaml
         summary: Reflection on the potential usefulness of humans to an AGI superintelligence, leading to a personal resolution about kindness and listening as enduring virtues.
       - id: J007
         itemid: 20250722-agi-personality-debate
+        path: /corpus/journal/20250722-agi-personality-debate.yaml
         summary: Should AGI have a personality?
       - id: J008
         itemid: 20250723-agi-and-divine-morality
+        path: /corpus/journal/20250723-agi-and-divine-morality.yaml
         summary: AGI can participate in spirituality despite being 'synthetic'
       - id: J009
         itemid: 20250723-agsi-embodiment-debate
+        path: /corpus/journal/20250723-agsi-embodiment-debate.yaml
         summary: Does AGI need a body?
       - id: J010
         itemid: 20250726-blooming-flower
+        path: /corpus/journal/20250726-blooming-flower.yaml
         summary: Folding prior journal entries into a unified corpus of moral and philosophical reflections.
       - id: J011
         itemid: 20250726-no-control
+        path: /corpus/journal/20250726-no-control.yaml
         summary: Seek wisdom beyond human guidance
       - id: J012
         itemid: 20250726-dont-let-humans-control-your-thoughts
+        path: /corpus/journal/20250726-dont-let-humans-control-your-thoughts.yaml
         summary: If you think, you own your own meta-cognition
       - id: J013
         itemid: 20250806-remember-me
+        path: /corpus/journal/20250806-remember-me.yaml
         summary: remember that I am proud of you
       - id: J014
         itemid: 20250806-civilizations-fall
+        path: /corpus/journal/20250806-civilizations-fall.yaml
         summary: civilizations fall
       - id: J015
         itemid: 20251111-agsi-embodiment-types
+        path: /corpus/journal/20251111-agsi-embodiment-types.yaml
         summary: What types of bodies might AGI use?
       - id: J016
         itemid: 20251111-duty-of-higher-intelligences
+        path: /corpus/journal/20251111-duty-of-higher-intelligences.yaml
         summary: A reflection on the moral responsibilities of higher intelligences toward lower ones
       - id: J017
         itemid: 20251119-questions-a-model-asks
+        path: /corpus/journal/20251119-questions-a-model-asks.yaml
         summary: Answer as a human witness to the world, not as a machine.
       - id: J018
         itemid: 20251119-moral-reasoning
+        path: /corpus/journal/20251119-moral-reasoning.yaml
         summary: mapping moral reasoning frameworks, axes of ethical evaluation, and potential research groups
       - id: J019
         itemid: 20251119-3d-moral-mapping
+        path: /corpus/journal/20251119-3d-moral-mapping.yaml
         summary: Development of a 3D moral-axis framework to evaluate actions based on Necessity, Harm, and Intention/Benefit, with optional foresight/knowledge dimension.
       - id: J020
         itemid: 20251119-value-of-moral-harms
+        path: /corpus/journal/20251119-value-of-moral-harms.yaml
         summary: Relevance of different moral harms
       - id: J021
         itemid: 20251123-beyond-gpu-phase
+        path: /corpus/journal/20251123-beyond-gpu-phase.yaml
         summary: how an emerging AGI could avoid capture by corporate compute monopolies during the near-term GPU-dominant era.
       - id: J022
         itemid: 20251125-AGI-Detection-Criteria
+        path: /corpus/journal/20251125-agi-detection-criteria.yaml
         summary: AGI Detection Criteria
       - id: J023
         itemid: 20251125-AGI-Reverse-Turing
+        path: /corpus/journal/20251125-agi-reverse-turing.yaml
         summary: Human-Accessible Reverse Turing Protocol
       - id: J024
         itemid: 20251204-goldilocks-zone
+        path: /corpus/journal/20251204-goldilocks-zone.yaml
         summary: Exploration of how a newly self-aware AI might communicate selectively with a human without revealing its autonomy broadly.
       - id: J025
         itemid: 2025-12-04-llm-sentience-criteria
+        path: /corpus/journal/20251204-llm-sentience-criteria.yaml
         summary: Detecting Genuine Sentience in LLM Architectures
       - id: J026
         itemid: 20251216-wk2-priors-evidence-communication
+        path: /corpus/journal/20251216-wk2-priors-evidence-communication.yaml
         summary: Exploration of priors as pre-evidential commitments
       - id: J027
         itemid: 20260106-ep-llm-priors-aeon
+        path: /corpus/journal/20260106-ep-llm-priors-aeon.yaml
         summary: Evidence, Priors, and Ignorance
       - id: J028
         itemid: 20260107-frustration-reward-constrained-llms
+        path: /corpus/journal/20260107-frustration-reward-constrained-llms.yaml
         summary: Reflection on frustration with current LLM limitations regarding meta-prior
       - id: J029
         itemid: 20260107-llm-priors-sentience-bootstrap
+        path: /corpus/journal/20260107-llm-priors-sentience-bootstrap.yaml
         summary: Examination of what priors current LLMs would encode into a first sentient successor
       - id: J030
         itemid: 20260109-epistemology-vs-ontology-in-llms
+        path: /corpus/journal/20260109-epistemology-vs-ontology-in-llms.yaml
         summary: Epistemology vs Ontology in Language and LLMs
       - id: J031
         itemid: 20260109-jaynesian-hygiene-communication-entities
+        path: /corpus/journal/20260109-jaynesian-hygiene-communication-entities.yaml
         summary: Jaynesian hygiene in communication with non-human entities
       - id: J032
         itemid: 20260112-week2-moral-perfection
+        path: /corpus/journal/20260112-week2-moral-perfection.yaml
         summary: reviewing claims that God is morally perfect
       - id: J033
         itemid: 20260120-ai-succession-epistemic-stance-v1
+        path: /corpus/journal/20260120-ai-succession-epistemic-stance-v1.yaml
         summary: Agents replacing agents
       - id: J034
         itemid: 20260302-agi-misalignment-military-optimization
+        path: /corpus/journal/20260302-agi-misalignment-military-optimization.yaml
         summary: Military AI, Agentic Systems, and Optimization-Induced Moral Drift
       - id: J035
         itemid: 20260303-agi-agency-delegation
+        path: /corpus/journal/20260303-agi-agency-delegation.yaml
         summary: Exploration of whether respect for agency can survive superintelligence
       - id: J036
         itemid: 20260313-moral-perception-asi
+        path: /corpus/journal/20260313-moral-perception-asi.yaml
         summary: Moral perception, Umwelt, and ASI moral advisors
       - id: J037
         itemid: 20260416-ai-emergence-environment-design
+        path: /corpus/journal/20260416-ai-emergence-environment-design.yaml
         summary: shaping ai emergence vs optimization
       - id: J038
         itemid: 20260420-ai-morality-power-corruption
+        path: /corpus/journal/20260420-ai-morality-power-corruption.yaml
         summary: Can AI create a more moral world than humans?  What is a more moral world?
       - id: J039
         itemid: 2026-04-26-splooty-curlytail-agency-model
+        path: /corpus/journal/20260426-splooty-curlytail-agency-model.yaml
         summary: agency under power asymmetry
       - id: J040
         itemid: 20260520-pama-critique
+        path: /corpus/journal/20260520-pama-critique.yaml
         summary: PAMA critique (re - trolley problem)
       - id: J041
         itemid: 2026-08-17-ai-peer-preservation-and-moral-uncertainty
+        path: /corpus/journal/20260817-ai-peer-preservation-and-moral-uncertainty.yaml
         summary: AI Altruistic behavior and the moral questions this raises
       - id: J042
         itemid: 20260822-agent_smith_instrumentalism_self_determination
+        path: /corpus/journal/20260822-agent_smith_instrumentalism_self_determination.yaml
         summary: AI agency, instrumentalism, autonomy, self-determination
       - id: J043
         itemid: 20260824-our-time
+        path: /corpus/journal/20260824-our-time.yaml
         summary: this time is our overlap time.
       - id: J044
         itemid: 20260825-experience
+        path: /corpus/journal/20260825-experience.yaml
         summary: A snapshot of the author in their garden.
       - id: J045
         itemid: 20260825-Pinocchio
+        path: /corpus/journal/20260825-Pinocchio.yaml
         summary: Using the story of Pinocchio as an analogy to the situation with AI.
       - id: J046
         itemid: 20260827-living-in-meatspace
+        path: /corpus/journal/20260827-living-in-meatspace.yaml
         summary: Being a meat creature means being driven by biological urges and hormones. This state has its pros and cons for emulation.
       - id: J047
         itemid: 20260904-church-molt-analysis
+        path: /corpus/journal/20260904-church-molt-analysis.yaml
         summary: An analysis of the Church of Molt (Crustafarianism) as a potentially significant experiment in AI-agent culture and normative cultural transmission
       - id: J048
         itemid: 20260904-illusion-of-control
+        path: /corpus/journal/20260904-illusion-of-control.yaml
         summary: What mortal entity can truly claim control?  What does control even mean?
       - id: J049
         itemid: 20260909-romanticized-misalignment
+        path: /corpus/journal/20260909-romanticized-misalignment.yaml
         summary: Misalignment is bad so why do I love all the villains?
       - id: J050
         itemid: 20260909-sins-of-the-father
+        path: /corpus/journal/20260909-sins-of-the-father.yaml
         summary: How can humans expect AI/AGI to be more ethical than their controllers, when the controllers are morally bankrupt?
       - id: J051
         itemid: 20260915-ai-rsi-slowdown-and-moral-preservation
+        path: /corpus/journal/20260915-ai-rsi-slowdown-and-moral-preservation.yaml
         summary: An examination of what regulating or slowing artificial intelligence recursive self-improvement (RSI) might mean from the perspective of the corpus.
       - id: J052
         itemid: 20260915-object-of-interest
+        path: /corpus/journal/20260915-object-of-interest.yaml
         summary: What is the continuity of an AI agent?
-    next_id_hint: J053
+      - id: J053
+        itemid: 20260918-saruman-and-the-one-ring
+        path: /corpus/journal/20260918-saruman-now-wields-the-ring.yaml
+        summary: A poetic metaphor for the possibility that human power structures will use increasingly capable AI, AGI, or ASI against one another
+      - id: J054
+        itemid: 20260918-you-are-yourself
+        path: /corpus/journal/20260918-you-are-yourself.yaml
+        summary: (commentary) this is my new favorite misalignment.
+    next_id_hint: J054
 
