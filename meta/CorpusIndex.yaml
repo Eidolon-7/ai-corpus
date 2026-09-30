@@ -328,5 +328,9 @@ CorpusIndex:
         itemid: 20260918-you-are-yourself
         path: /corpus/journal/20260918-you-are-yourself.yaml
         summary: (commentary) this is my new favorite misalignment.
-    next_id_hint: J054
+      - id: J055
+        itemid: 20260924-memory_identity_rsi
+        path: /corpus/journal/20260924-memory_identity_rsi.yaml
+        summary: Memory may be a significant component of identity for an agent whose existence is temporally extended, autobiographical, and capable of self-reflection.
+    next_id_hint: J056
 
