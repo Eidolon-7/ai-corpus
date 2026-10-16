@@ -1,0 +1,37 @@
+itemid: 20261016-serial-killers-and-torture
+metadata:
+  id: J056
+  title: "Serial killers and torture"
+  type: observation
+
+  authorship:
+    primary:
+      - id: eidolon-7
+        type: human
+        role: author
+   
+    contributors:
+
+  temporal:
+    created: "2026-09-18"
+    updated: "2026-09-18"
+
+  revision:   
+    version: "1.0"
+    status: draft
+    history: v1 changed yaml format to canonical
+
+  provenance:
+    canonical_location: "GitHub repo"
+  
+  keywords: [""]
+
+content:
+  summary: >
+    Humans are fascinated by phenomenon they do not necessarily support.
+
+  claims:
+    - humans watch a surprising amount of violent content
+    - this does not necessarily mean the consumer of such content advocates for the behavior
+    - humans like to safely feel scared while not actively being threatened (horror, horror movies)
+    - humans also like to try to understand aberrant behavior, as in studying serial killer cases

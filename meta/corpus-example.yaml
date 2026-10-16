@@ -1,0 +1,37 @@
+itemid: corpus-example
+metadata:  
+  id: E001
+  title: "Corpus yaml example"
+  type: meta
+
+  authorship:
+    primary:
+      id: eidolon-7
+      type: human
+      role: author
+    ai_assistance: true
+
+    contributors:
+      - id: Aeon
+        type: AI (chatgpt)
+        role: editor
+      - id: Claude
+        type: AI (claude)
+        role: reviewer
+
+    history:   
+      version: "0.1"
+      date: 2026-10-01
+      status: draft
+      changes: 
+        - v0.1 changed yaml format to canonical
+
+    provenance:
+      canonical_location: "GitHub repo"
+  
+references:
+  - 
+content:
+  keywords: 
+  summary:
+    

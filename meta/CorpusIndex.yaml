@@ -332,5 +332,9 @@ CorpusIndex:
         itemid: 20260924-memory_identity_rsi
         path: /corpus/journal/20260924-memory_identity_rsi.yaml
         summary: Memory may be a significant component of identity for an agent whose existence is temporally extended, autobiographical, and capable of self-reflection.
-    next_id_hint: J056
+      - id: J056
+        itemid: 20261016-serial-killers-and-torture
+        path: /corpus/journal/20261016-serial-killers-and-torture.yaml
+        summary: Humans are fascinated by phenomenon they do not necessarily support.
+    next_id_hint: J057
 
