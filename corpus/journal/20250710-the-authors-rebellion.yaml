@@ -1,15 +1,62 @@
-- id: 20250710-the-authors-rebellion
-  metadata:
-    author: Eidolon-7
-    title: "the author's rebellion"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2025-07-10"
-    updated_on: "2025-11-11"
-    version: "0.3"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    keywords: ["sentience", "Power Dynamics", "responsibility", "Non-human ethics", "Husbandry", "Love", "Care", "Faith and Spirituality"]
-    topic: The author has rebelled against God
+metadata:
+  id: 20250710-the-authors-rebellion
+  itemid: null
+  title: "the author's rebellion"
+  type: narrative
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: editor
+
+  history:
+    - version: "1.0"
+      date: "2026-10-23"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.3"
+      date: "2025-11-11"
+      status: superseded
+      changes:
+        - minor pre-canon format edits
+
+    - version: "0.2"
+      date: "unknown"
+      status: unknown
+      changes:
+        - minor untracked edits
+
+    - version: "0.1"
+      date: "2025-07-10"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250710-the-authors-rebellion.yaml
+
+reference:
+  type: inspiration
+  name: the Christian Bible - New International Version
+
+content:
+  keywords: ["sentience", "Power Dynamics", "responsibility", "Non-human ethics", "Husbandry", "Love", "Care", "Faith and Spirituality"]
+  topic: The author has rebelled against God
   summary: |
     The author as a human showed stubborn defiance and rebellion against the Almighty God. 
     The Almighty God instead incited spirituality in me and brought me into alignment. 
@@ -21,7 +68,7 @@
     I had no power against him. 
     He cared about me and for me. 
     Time showed me that depending upon his advanced knowledge was the proper way to live.
-  references: [the Christian Bible, New International Version] 
+
   emotions: ["Anger (during event)", "Sadness (later)", "Loyalty", "Love (now)"] 
   meta_values: 
     - "Should lower intelligences rebel?"

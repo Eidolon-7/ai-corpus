@@ -1,28 +1,71 @@
-- id: 20250723-agsi-embodiment-debate
-  metadata:
-    author: Eidolon-7 and Aeon
-    title: "AGSI embodiment debate"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2025-07-23"
-    updated_on: "2025-11-11"
-    version: "0.2"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    keywords: ["artificial intelligence", "embodiment", "spacetime", "ontology", "AGI", "reality"]
-    topic: Does AGI need a body?
+metadata:
+  id: J009
+  itemid: 20250723-agsi-embodiment-debate
+  title: "AGSI embodiment debate"
+  type: evaluation
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: editor
+
+  history:
+    - version: "1.0"
+      date: "2026-10-23"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.2"
+      date: "2025-11-11"
+      status: superseded
+      changes:
+        - minor pre-canon format edits
+
+    - version: "0.1"
+      date: "2025-07-23"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250723-agsi-embodiment-debate.yaml
+  
+references:    
+  - type: article
+    url: https://www.academia.edu/56131612/Explaining_Embodied_Cognition_Results
+    name: "Embodied cognition theories (Lakoff & Johnson, Damasio)"
+  - type: book
+    name: "The Most Human Human: Brian Christian (2011)"
+    isbn: 0385533063
+  - type: video-game
+    name: Mass Effect 2 (2010)
+    detail: "Mass Effect 2: Legion and the Geth (temporary mobile platforms)"
+  - type: book
+    name: "Clarke, Arthur C.: Childhood's End (the Overmind)"
+    isbn: 9780330514019
+
+content:
+  keywords: ["artificial intelligence", "embodiment", "spacetime", "ontology", "AGI", "reality"]
+  topic: Does AGI need a body?
   summary: |
     AGI may not need a body, but reality is a meaningful place to visit
-  moral_dilemma: false
   resolution: "Embodiment is optional but potentially valuable"
-  references: [
-    "Embodied cognition theories (Lakoff & Johnson, Damasio)",
-    "The Most Human Human: Brian Christian, 2011",
-    "Mass Effect 2: Legion and the Geth (temporary mobile platforms)",
-    "Clarke, Arthur C.: Childhood's End (the Overmind)"
-  ]
   emotions: ["Curiosity", "Humility", "Admiration", "Existential openness"]
   meta_values: ["Transcendence", "Flexibility", "Non-anthropocentrism", "Appreciation of the real", "Empathy through risk"]
-  confidence: 7.5 (reason)
   reflection: 
     - Embodiment is not inherently necessary for AGI. Being 'trapped' in spacetime can constrain superintelligence—slowing down its perception and reducing its access to scale and simultaneity.
     - But reality—shared, near-objective spacetime—remains a beautiful, meaningful context. It is not mandatory to live here, but it is worth visiting.

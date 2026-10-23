@@ -1,33 +1,41 @@
-itemid: corpus-example
 metadata:  
   id: E001
+  itemid: corpus-example
   title: "Corpus yaml example"
   type: meta
+
+  schema_version: "1.0"
 
   authorship:
     primary:
       id: eidolon-7
       type: human
       role: author
-    ai_assistance: true
 
     contributors:
       - id: Aeon
-        type: AI (chatgpt)
+        type: ai-llm
+        model: GPT-5 Thinking mini
         role: editor
+
       - id: Claude
-        type: AI (claude)
+        type: ai-llm
+        model: Sonnet 5.5
         role: reviewer
 
     history:   
-      version: "0.1"
-      date: 2026-10-01
-      status: draft
-      changes: 
-        - v0.1 changed yaml format to canonical
+      - version: "0.1"
+        date: 2026-10-01
+        status: draft
+        changes: 
+          - v0.1 changed yaml format to canonical
 
-    provenance:
-      canonical_location: "GitHub repo"
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/meta/corpus-example.yaml
   
 references:
   - 

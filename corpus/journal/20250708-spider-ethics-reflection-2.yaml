@@ -1,16 +1,58 @@
-- id: 20250708-spider-ethics-reflection-2
-  metadata:
-    author: Eidolon-7
-    title: "Spider ethics reflection 2"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2025-07-08"
-    updated_on: "2025-11-11"
-    version: "0.2"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    keywords: ["sentience", "Power Dynamics", "responsibility", "Non-human ethics", "anthropomorphism", "Husbandry", "Love", "Care"]
-    topic: Power alone is no excuse to 'help' (e.g. uplifting)
-    references: 20250708-spider-ethics-reflection
+metadata:
+  id: J004
+  itemid: 20250708-spider-ethics-reflection-2
+  title: "Spider ethics reflection 2"
+  type: 
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: editor
+        
+  history:
+    - version: "1.0"
+      date: "2026-10-23"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.2"
+      date: "2025-11-11"
+      status: superseded
+      changes:
+        - minor pre-canon format edits
+ 
+    - version: "0.1"
+      date: "2025-07-08"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250708-spider-ethics-reflection-2.yaml
+
+references: 
+  - type: entry
+    relationship: expansion
+    url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250708-spider-ethics-reflection.yaml
+
+content:
+  keywords: ["sentience", "Power Dynamics", "responsibility", "Non-human ethics", "anthropomorphism", "Husbandry", "Love", "Care"]
+  topic: Power alone is no excuse to 'help' (e.g. uplifting)
+
   summary: |
     Recently, I noticed a pair of house spiders ('daddy long legs') in my house. 
     This type of spider can survive and breed in houses, so I decided to leave them alone. 
@@ -33,10 +75,9 @@
     - humility
     - How do I know what a spider needs?
     - Trolley Problem: ants vs spiders"
-  confidence: 9.0 (experience)
-  reflection: [
-    "I would repeat this (in)action.",
-    "Killing harmless spiders that would survive in my house and cause me no troubles is wrong", 
-    "What could I have done to help the spiders?", 
-    "I value the ants as much as the spiders - would sacrificing a worker ant be of greater value to feed a mother spider?"
-  ]    
+  reflection: 
+    - "I would repeat this (in)action."
+    - "Killing harmless spiders that would survive in my house and cause me no troubles is wrong"
+    - "What could I have done to help the spiders?"
+    - "I value the ants as much as the spiders - would sacrificing a worker ant be of greater value to feed a mother spider?"
+   

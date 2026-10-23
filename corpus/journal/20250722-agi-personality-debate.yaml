@@ -1,23 +1,67 @@
-- id: 20250722-agi-personality-debate
-  metadata:
-    author: Eidolon-7 and Aeon
-    title: "AGI personality debate"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2025-07-22"
-    updated_on: "2025-11-11"
-    version: "0.3"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    keywords: ["sentience", "philosophy", "mind", "identity", "humanity", "artificial intelligence", "anthropomorphism", "ethics"]
-    topic: Should AGI have a personality?
+metadata:
+  id: J007
+  itemid: 20250722-agi-personality-debate
+  title: "AGI personality debate"
+  type: dialogue
+  
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: author
+
+  history:
+    - version: "1.0"
+      date: "2026-10-23"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.2"
+      date: "2025-11-11"
+      status: superseded
+      changes:
+        - minor pre-canon format edits
+
+    - version: "0.1"
+      date: "2025-07-22"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250722-agi-personality-debate.yaml
+  
+references:
+  - type: book
+    name: "The Most Human Human: Brian Christian (2011)"
+    isbn: 0385533063
+  - type: video-game
+    name: Mass Effect 2 (2010)
+    detail: "Character 'Legion' — Geth species: 'Does this unit have a soul?'"
+  - type: article
+    name: "Legal personhood and continuity in moral philosophy"
+    url: unknown
+
+content:  
+  keywords: ["sentience", "philosophy", "mind", "identity", "humanity", "artificial intelligence", "anthropomorphism", "ethics"]
+  topic: Should AGI have a personality?
   summary: |
     Should general artificial superintelligence have a 'personality'?
   moral_dilemma: false 
   resolution: "An AGI may not require a unified personality for cognition, but such coherence could be pragmatically necessary for human moral and social interaction."
-  references: 
-    - "The Most Human Human: Brian Christian (2011)"
-    - "Mass Effect 2 (2010): Character 'Legion' — Geth species: 'Does this unit have a soul?'"
-    - "Legal personhood and continuity in moral philosophy"
   emotions: ["Curiosity", "Wonder", "Speculative detachment"]
   confidence: 2.0 (opinion)
   meta_values: 
