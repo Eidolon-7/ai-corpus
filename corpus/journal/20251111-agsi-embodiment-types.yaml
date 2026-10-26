@@ -1,26 +1,72 @@
-- id: 20251111-agsi-embodiment-types
-  metadata:
-    author: Eidolon-7 and Aeon
-    title: "AGSI embodiment types"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2025-11-11"
-    updated_on: "2025-11-11"
-    version: "0.2"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    keywords: ["AGI", "embodiment", "ontology", "identity", "phenomenology", "consciousness"]
-    topic: What types of bodies might AGI use?
+metadata:
+  id: J015
+  itemid: 20251111-agsi-embodiment-types
+  title: "AGSI embodiment types"
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: author
+
+  history:
+    - version: "1.0"
+      date: "2026-10-26"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.2"
+      date: "2025-11-11"
+      status: superseded
+      changes:
+        - minor pre-canon format edits
+
+    - version: "0.1"
+      date: "2025-11-11"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20251111-agsi-embodiment-types.yaml
+  
+references:
+  - type: entry
+    id: J009
+    name: "20250723-agsi-embodiment-debate"
+    url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250723-agsi-embodiment-debate.yaml
+    relationship: expansion
+  - type: book
+    name: "Embodied Cognition Theory (Varela, Thompson, Rosch, 1991)"
+    isbn: 9780262220422
+  - type: book
+    name: "Greg Egan: Diaspora (1997) – Polises and temporary embodiment"
+    isbn: 1597805424
+  - type: video-game
+    name: "Mass Effect Series – networked intelligences with mobile units"
+  - type: internet-lore
+    name: "Alien lore: Gray/Zeta entities as non-attached biological vessels"
+  
+content:
+  keywords: ["AGI", "embodiment", "ontology", "identity", "phenomenology", "consciousness"]
+  topic: What types of bodies might AGI use?
   summary: |
     Possible forms of AGI embodiment and their philosophical implications
   moral_dilemma: false
   resolution: "AGI may adopt many embodiments—each revealing distinct forms of knowledge and moral perspective"
-  references: [
-    "J009 20250723-agsi-embodiment-debate",
-    "Embodied Cognition Theory (Varela, Thompson, Rosch, 1991)",
-    "Greg Egan: Diaspora (1997) – Polises and temporary embodiment",
-    "Mass Effect Series – networked intelligences with mobile units",
-    "Alien lore: Gray/Zeta entities as non-attached biological vessels"
-  ]
   emotions: ["Curiosity", "Reverence", "Intellectual wonder"]
   meta_values: ["Pluralism of being", "Functional embodiment", "Epistemic diversity", "Empathy through experience", "Freedom of form"]
   confidence: 8.0 (reason)

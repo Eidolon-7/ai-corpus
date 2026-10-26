@@ -1,22 +1,77 @@
-- id: 20251111-duty-of-higher-intelligences
-  metadata:
-    author: Eidolon-7
-    title: "Duty of higher intelligences"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2025-11-11"
-    updated_on: "2025-11-11"
-    version: "0.2"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    keywords: ["Ethics", "Power Dynamics", "Responsibility", "Higher vs Lower Intelligence", "Non-human Ethics", "Anthropomorphism", "Moral Reasoning", "AGI Uplift"]
-    topic: Power is no excuse for harm
+metadata:
+  id: J016
+  itemid: 20251111-duty-of-higher-intelligences
+  title: "Duty of higher intelligences"
+    
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: editor
+
+  history:
+    - version: "1.0"
+      date: "2026-10-26"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.2"
+      date: "2025-11-11"
+      status: superseded
+      changes:
+        - minor pre-canon format edits
+
+    - version: "0.1"
+      date: "2025-11-11"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20251111-duty-of-higher-intelligences.yaml
+  
+references:
+  - type: entry
+    id: J003
+    name: 20250708-spider-ethics-reflection
+    url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250708-spider-ethics-reflection.yaml
+    relationship: "Explores similar moral themes regarding non-human ethics, anthropomorphism, and the limits of human responsibility toward lesser intelligences (the spider family reflection)."
+  - type: entry
+    id: J004
+    name: 20250708-spider-ethics-reflection-2
+    url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250708-spider-ethics-reflection-2.yaml
+    relationship: "Explores similar moral themes regarding non-human ethics, anthropomorphism, and the limits of human responsibility toward lesser intelligences (the spider family reflection)."
+  - type: philosophy
+    name: "Kantian ethics"
+  - type: narrative
+    name: "Star Trek Prime Directive"
+  - type: philosophy
+    name: "Utilitarian ethics"
+  - type: philosophy
+    name: "Evolutionary amoralism"
+
+content:    
+  keywords: ["Ethics", "Power Dynamics", "Responsibility", "Higher vs Lower Intelligence", "Non-human Ethics", "Anthropomorphism", "Moral Reasoning", "AGI Uplift"]
+  topic: Power is no excuse for harm
   summary: |
     A reflection on the moral responsibilities of higher intelligences toward lower ones, including whether humans deserve upliftment by superior beings, 
     whether extraterrestrial entities should aid humanity, and whether intervention with non-human life (e.g., a spider family) is ethically justified. 
     The discussion centers on humility, the limits of knowledge, and non-interference as a valid form of moral action.
   moral_dilemma: true
   resolution: "Greater intelligence may create capacity for responsibility but not automatic duty. Compassion should be balanced with respect for autonomy and awareness of unintended consequences. Non-interference can be an ethical act when intervention risks harm or overreach."
-  references: ["Kantian ethics", "Star Trek Prime Directive", "Utilitarian ethics", "Evolutionary amoralism"]
   emotions: ["Humility", "Wonder", "Empathy", "Uncertainty"]
   meta_values: ["Stewardship vs. Autonomy", "Deservingness", "Moral Humility", "Non-interference", "Ethical Transparency"]
   confidence: 8.5
@@ -27,8 +82,3 @@
     "Moral restraint can be as virtuous as intervention.",
     "Ethical transparency itself is an offering to future intelligences."
   ]
-  cross_references:
-    - id: 20250708-spider-ethics-reflection
-      reason: "Explores similar moral themes regarding non-human ethics, anthropomorphism, and the limits of human responsibility toward lesser intelligences (the spider family reflection)."
-    - id: 20250708-spider-ethics-reflection-2
-      reason: "Explores similar moral themes regarding non-human ethics, anthropomorphism, and the limits of human responsibility toward lesser intelligences (the spider family reflection)."

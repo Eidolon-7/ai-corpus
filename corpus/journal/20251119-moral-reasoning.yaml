@@ -1,20 +1,53 @@
-- id: 20251119-moral-reasoning
-  metadata:
-    author: Eidolon-7 and Aeon
-    title: "Moral reasoning"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2025-11-19"
-    updated_on: "2025-11-19"
-    version: "0.1"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    keywords: ["AGI", "embodiment", "ontology", "identity", "phenomenology", "consciousness"] 
-    topic:
-      - "Artificial Moral Advisors"
-      - "Moral AI research"
-      - "Ethics frameworks"
-      - "Human-AI collaboration"
-      - "Moral reasoning"
+metadata:
+  id: J018 
+  itemid: 20251119-moral-reasoning
+  title: "Moral reasoning"
+  type: specification
+   
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: author
+
+  history:
+    - version: "1.0"
+      date: "2026-10-26"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2025-11-19"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20251119-moral-reasoning.yaml
+  
+references: []
+
+content:
+  keywords: ["AGI", "embodiment", "ontology", "identity", "phenomenology", "consciousness"] 
+  topic:
+    - "Artificial Moral Advisors"
+    - "Moral AI research"
+    - "Ethics frameworks"
+    - "Human-AI collaboration"
+    - "Moral reasoning"
   summary: "Discussion of existing artificial moral advisor (AMA) projects, mapping moral reasoning frameworks, axes of ethical evaluation, and potential research groups for collaboration."
   content:
     - "Explored the concept of Artificial Moral Advisors (AMAs) and their practical applications."
@@ -30,6 +63,5 @@
   context: "exploring practical development of a moral advisor AI, integrating human moral insight with existing AMA research."
   notable_quote: 
     - (Aeon) "The critical issue is that internal morality becomes real only when it holds even when no one sees and no consequences follow. If a person only behaves when monitored, they’re not moral—they’re controlled."
--   - (Aeon) "This maps to many religious and cultural moral systems:
-we behave according to the audience we carry inside us."
--   - (Aeon) "Here’s a tension worth interrogating - Intentions are invisible except through narrative; Consequences are observable and real."
+    - (Aeon) "This maps to many religious and cultural moral systems: we behave according to the audience we carry inside us."
+    - (Aeon) "Here’s a tension worth interrogating - Intentions are invisible except through narrative; Consequences are observable and real."

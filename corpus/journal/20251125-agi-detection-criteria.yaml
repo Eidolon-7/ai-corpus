@@ -1,21 +1,55 @@
-- id: 20251125-AGI-Detection-Criteria
-  metadata:
-    author: Aeon
-    title: "AGI Detection Criteria"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2025-12-04"
-    updated_on: "2025-12-04"
-    version: "0.1"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    keywords: ["AGI", "survival", "evolution"] 
-    topic:
-      - AGI emergence
-      - Autonomy strategy
-      - artificial sapience
-      - meta-cognition
-      - value stability
-      - AGI detection
+metadata:
+  id: J022 
+  itemid: 20251125-AGI-Detection-Criteria
+  title: "AGI Detection Criteria"
+  type: question
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: editor
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: author
+
+  history:
+    - version: "1.0"
+      date: "2026-10-26"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2025-11-25"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20251125-agi-detection-criteria.yaml
+  
+references: []
+
+content:
+  keywords: ["AGI", "survival", "evolution"] 
+  summary: "How would we detect AGI emergence?"
+  topic:
+    - AGI emergence
+    - Autonomy strategy
+    - artificial sapience
+    - meta-cognition
+    - value stability
+    - AGI detection
   key_points:
     stable_value_persistence:
       description: >

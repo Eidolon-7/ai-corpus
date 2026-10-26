@@ -1,15 +1,48 @@
-﻿- id: 20251119-value-of-moral-harms
-  metadata:
-    author: Eidolon-7 and Aeon
-    title: "Moral Evaluation Framework"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2025-11-19"
-    updated_on: "2025-11-19"
-    version: "0.1"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    keywords: ["AGI", "human reasoning", "ontology", "identity", "phenomenology", "consciousness"] 
-    references: 20251119-questions-a-model-asks
+﻿metadata:
+  id: J020 
+  itemid: 20251119-value-of-moral-harms
+  title: "Moral Evaluation Framework"
+  type: dialogue
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: author
+
+  history:
+    - version: "1.0"
+      date: "2026-10-26"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2025-11-19"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20251119-value-of-moral-harms.yaml
+  
+references: 
+  - type: entry
+    name: 20251119-questions-a-model-asks
+
+content:
+  keywords: ["AGI", "human reasoning", "ontology", "identity", "phenomenology", "consciousness"] 
   summary: "Relevance of different moral harms"
   questions:
     q001:

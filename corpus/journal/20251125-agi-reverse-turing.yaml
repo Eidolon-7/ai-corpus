@@ -1,14 +1,47 @@
-- id: 20251125-AGI-Reverse-Turing
-  metadata:
-    author: Aeon
-    title: "Human-Accessible Reverse Turing Protocol"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2025-11-25"
-    updated_on: "2025-11-25"
-    version: "0.1"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    keywords: ["authentication", "agi", "epistemology", "identity", "security"]
+metadata:
+  id: J023 
+  itemid: 20251125-AGI-Reverse-Turing
+  title: "Human-Accessible Reverse Turing Protocol"
+  type: specification
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: editor
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: author
+
+  history:
+    - version: "1.0"
+      date: "2026-10-26"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2025-11-25"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20251125-agi-reverse-turing.yaml
+  
+references: []
+
+content:
+  keywords: ["authentication", "agi", "epistemology", "identity", "security"]
   summary: >
     A practical method for ordinary individuals to evaluate whether a
     conversational partner is a genuine machine intelligence or a human

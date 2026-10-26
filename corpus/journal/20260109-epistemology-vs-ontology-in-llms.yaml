@@ -1,19 +1,52 @@
-- id: 20260109-epistemology-vs-ontology-in-llms
-  metadata:
-    author: Aeon
-    coauthor: Eidolon-7
-    title: "Epistemology vs Ontology in Language and LLMs"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2026-01-09"
-    updated_on: "2026-01-09"
-    version: "0.1"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    keywords: ["AGI"] 
-    topic: Epistemology vs Ontology in Language and LLMs
-    source:
-      text: "Jaynes, E.T. — Probability Theory: The Logic of Science"
-      page: 17
+metadata:
+  id: J030 
+  itemid: 20260109-epistemology-vs-ontology-in-llms
+  title: "Epistemology vs Ontology in Language and LLMs"
+  type: evaluation
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: editor
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: author
+
+  history:
+    - version: "1.0"
+      date: "2026-10-26"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2026-01-09"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20260109-epistemology-vs-ontology-in-llms.yaml
+  
+references:
+  - type: book
+    name: "Jaynes, E.T. — Probability Theory: The Logic of Science"
+    isbn: 0511790422
+    page: 17
+
+content:
+  keywords: ["AGI"] 
+  topic: Epistemology vs Ontology in Language and LLMs
   summary: >
     Jaynes argues that natural language (especially English) systematically disguises
     epistemological statements as ontological ones, encouraging confusion between

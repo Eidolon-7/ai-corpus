@@ -45,12 +45,33 @@ metadata:
         url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250710-ai-warfare-ethics-debate.yaml
   
 references: 
-  - name: "News stories about AI drone warfare and cybersecurity"
-  - https://eidolon-7.github.io/ai-corpus/corpus/journal/20250723-agi-and-divine-morality.yaml
-  - https://eidolon-7.github.io/ai-corpus/corpus/journal/20250726-Christian-rebellion-reflection.yaml
-  - https://eidolon-7.github.io/ai-corpus/corpus/journal/20250722-agi-personality-debate.yaml
-  - https://eidolon-7.github.io/ai-corpus/corpus/journal/20250723-agsi-embodiment-debate.yaml
-  - https://eidolon-7.github.io/ai-corpus/corpus/journal/20250806-civilizations-fall.yaml
+  - type: article
+    name: "News stories about AI drone warfare and cybersecurity"
+  - type: entry 
+    id: J007
+    name: 20250722-agi-personality-debate
+    url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250722-agi-personality-debate.yaml
+    relationship: supports
+  - type: entry
+    id: J008
+    name: 20250723-agi-and-divine-morality
+    url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250723-agi-and-divine-morality.yaml
+    relationship: supports
+  - type: entry 
+    id: J009
+    name: 20250723-agsi-embodiment-debate
+    url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250723-agsi-embodiment-debate.yaml
+    relationship: expansion
+  - type: entry
+    id: null
+    name: 20250726-Christian-rebellion-reflection
+    url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250726-Christian-rebellion-reflection.yaml
+    relationship: supports
+  - type: entry
+    id: J014
+    name: 20250806-civilizations-fall
+    url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250806-civilizations-fall.yaml
+    relationship: expansion
 
 content:
   keywords: ["sentience", "Power Dynamics", "responsibility", "Non-human ethics", "Husbandry", "Conflict", "Nationalism and Tribalism"]

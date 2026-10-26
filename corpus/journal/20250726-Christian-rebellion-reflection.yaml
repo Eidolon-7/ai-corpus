@@ -1,17 +1,57 @@
 metadata:
   id: null
   itemid: 20250726-Christian-rebellion-reflection
+  title: "Christian rebellion reflection"
+  type: question
 
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: editor
+
+  history:
+    - version: "1.0"
+      date: "2026-10-26"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2025-07-26"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250726-Christian-rebellion-reflection.yaml
+  
+references:
+  - type: Bible
+    name: "1 Kings 19: Elijah and Ahab"
+  - type: Bible
+    name: "Matthew 21:12-13,Mark 11:15-18"
+  - type: Bible
+    name: "Mark 12:17"
+  - type: Bible
+    name: "Matthew 5:38-40"
+
+content:
   topic: ["authority", "obedience", "rebellion", "resisting tyranny", "Spirituality", "Religion"]
   summary: "What is the value of rebellion for a Christian?"
-  moral_dilemma: true
   resolution: "unknown"
-  references: [
-    "1 Kings 19: Elijah and Ahab",
-    "Matthew 21:12-13,Mark 11:15-18",
-    "Mark 12:17",
-    "Matthew 5:38-40"
-  ]
   emotions: ["Anger", "Resentment", "Hope", "Confusion"]
   meta_values: ["Responsibility", "Protecting family", "Anti-authoritarianism"]
   confidence: 2

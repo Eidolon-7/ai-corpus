@@ -46,8 +46,10 @@ metadata:
 
 references: 
   - type: entry
-    relationship: expansion
+    id: J003
+    name: 20250708-spider-ethics-reflection
     url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250708-spider-ethics-reflection.yaml
+    relationship: expansion
 
 content:
   keywords: ["sentience", "Power Dynamics", "responsibility", "Non-human ethics", "anthropomorphism", "Husbandry", "Love", "Care"]

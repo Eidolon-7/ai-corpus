@@ -1,21 +1,55 @@
-﻿- id: 20251119-3d-moral-mapping
-  metadata:
-    author: Eidolon-7 and Aeon
-    title: "3D moral mapping"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2025-11-19"
-    updated_on: "2025-11-19"
-    version: "0.1"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    keywords: ["AGI", "embodiment", "ontology", "identity", "phenomenology", "consciousness"] 
-    topic:
-      - "Moral reasoning framework"
-      - "3D moral mapping"
-      - "Ethical evaluation"
-      - "Decision analysis"
+﻿metadata:
+  id: J019 
+  itemid: 20251119-3d-moral-mapping
+  title: "3D moral mapping"
+  type: evaluation
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: editor
+
+  history:
+    - version: "1.0"
+      date: "2026-10-26"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2025-11-19"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20251119-3d-moral-mapping.yaml
+  
+references: []
+
+content:
+  canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
+  keywords: ["AGI", "embodiment", "ontology", "identity", "phenomenology", "consciousness"] 
+  topic:
+    - "Moral reasoning framework"
+    - "3D moral mapping"
+    - "Ethical evaluation"
+    - "Decision analysis"
   summary: "Development of a 3D moral-axis framework to evaluate actions based on Necessity, Harm, and Intention/Benefit, with optional foresight/knowledge dimension. Applied to real-world and hypothetical scenarios."
-  content:
+  conclusions:  
     - "Axes defined for moral evaluation:"
     - "  - X: Necessity (1=trivial → 10=critical for survival or mission)"
     - "  - Y: Harm Weight (1=negligible → 10=severe, high-sentience)"

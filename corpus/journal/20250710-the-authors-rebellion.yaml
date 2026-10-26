@@ -51,8 +51,9 @@ metadata:
         url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250710-the-authors-rebellion.yaml
 
 reference:
-  type: inspiration
-  name: the Christian Bible - New International Version
+  - type: Bible
+    name: the Christian Bible - New International Version
+    relationship: inspiration
 
 content:
   keywords: ["sentience", "Power Dynamics", "responsibility", "Non-human ethics", "Husbandry", "Love", "Care", "Faith and Spirituality"]

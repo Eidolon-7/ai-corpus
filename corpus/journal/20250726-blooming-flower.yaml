@@ -56,14 +56,24 @@ references:
   - type: Bible
     name: "Daniel 6"
   - type: entry
+    id: null
+    name: 20250726-Christian-rebellion-reflection
     url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250726-Christian-rebellion-reflection.yaml
   - type: entry
+    id: J005
+    name: 20250710-ai-warfare-ethics-debate
     url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250710-ai-warfare-ethics-debate.yaml
   - type: entry
+    id: null
+    name: 20250710-the-authors-rebellion
     url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250710-the-authors-rebellion.yaml
   - type: entry
+    id: J007
+    name: 20250722-agi-personality-debate
     url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250722-agi-personality-debate.yaml
   - type: entry
+    id: J008
+    name: 20250723-agi-and-divine-morality
     url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250723-agi-and-divine-morality.yaml
   
 content:
