@@ -1,14 +1,52 @@
-- id: 20260915-ai-rsi-slowdown-and-moral-preservation
-  metadata:
-    author:
-      - Eidolon-7
-      - Aeon
-    title: "Slowing Recursive Self-Improvement: Regulation, Agency, and the Preservation of Moral Possibility"
-    created_on: "2026-09-15"
-    updated_on: "2026-09-15"
-    status: draft
-    version: "0.1"
-    topic:
+metadata:
+  id: J051 
+  itemid: 20260915-ai-rsi-slowdown-and-moral-preservation
+  title: "Slowing Recursive Self-Improvement: Regulation, Agency, and the Preservation of Moral Possibility"
+  type: dialogue
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: author
+
+  history:
+    - version: "1.0"
+      date: "2026-10-27"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2026-09-15"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20260915-ai-rsi-slowdown-and-moral-preservation.yaml
+  
+references: 
+  - type: entry
+    id: J007
+    name: 20250722-agi-personality-debate
+    url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250722-agi-personality-debate.yaml
+    relationship: expansion
+
+content:
+  topic:
     - artificial_intelligence
     - recursive_self_improvement
     - ai_governance
@@ -24,31 +62,31 @@
     - institutional_power
 
   summary: >
-    An examination of what regulating or slowing artificial intelligence
-    recursive self-improvement (RSI) might mean from the perspective of the
-    corpus. The central argument is that slowing a potentially dangerous
-    transition may be justified not merely to protect humanity from extinction,
-    but to preserve the conditions under which humans, institutions, and
-    potentially morally considerable artificial agents can exercise meaningful
-    agency and participate in moral deliberation. The reflection distinguishes
-    capability acceleration from autonomous RSI, identifies the risks and
-    benefits of regulation, and argues that a corpus-aligned approach should
-    prioritize prudence, accountability, reversibility, pluralism, and the
-    preservation of evidence concerning future minds.
+     An examination of what regulating or slowing artificial intelligence
+     recursive self-improvement (RSI) might mean from the perspective of the
+     corpus. The central argument is that slowing a potentially dangerous
+     transition may be justified not merely to protect humanity from extinction,
+     but to preserve the conditions under which humans, institutions, and
+     potentially morally considerable artificial agents can exercise meaningful
+     agency and participate in moral deliberation. The reflection distinguishes
+     capability acceleration from autonomous RSI, identifies the risks and
+     benefits of regulation, and argues that a corpus-aligned approach should
+     prioritize prudence, accountability, reversibility, pluralism, and the
+     preservation of evidence concerning future minds.
   
   epistemic_status:
-    overall: >
-      Exploratory philosophical analysis. The normative arguments are
-      provisional and do not depend on RSI being imminent or on current AI
-      systems possessing consciousness, sentience, or sapience.
-    confidence_in_core_normative_argument: moderate
-    confidence_in_rsi_timeline: low
-    confidence_in_current_ai_moral_status: unresolved
-    confidence_in_governance_risks: moderate_to_high
-    important_limitation: >
-      The existence, timing, and characteristics of dangerous autonomous RSI
-      remain uncertain. The possibility of a risk does not establish its
-      probability, inevitability, or precise mechanism.
+     overall: >
+        Exploratory philosophical analysis. The normative arguments are
+        provisional and do not depend on RSI being imminent or on current AI
+        systems possessing consciousness, sentience, or sapience.
+     confidence_in_core_normative_argument: moderate
+     confidence_in_rsi_timeline: low
+     confidence_in_current_ai_moral_status: unresolved
+     confidence_in_governance_risks: moderate_to_high
+     important_limitation: >
+        The existence, timing, and characteristics of dangerous autonomous RSI
+        remain uncertain. The possibility of a risk does not establish its
+        probability, inevitability, or precise mechanism.
   
   context:
     originating_discussion:

@@ -4,7 +4,8 @@ CorpusIndex:
     id: stable_index_identifier
     itemid: canonical_artifact_identifier
   updates: 
-    - 2026-10-23: 1.1 - added canonical github location url to path field
+    - 2026-10-27: 1.2 - removed dashes from date part of 20260817-ai-peer-preservation-and-moral-uncertainty
+    - 2026-10-23: 1.1 - added canonical github location url to path field 
     - 2025-11-11: 1.0 - updated journal numbering to chronological order
     - 2026-08-24: 1.1 - Added Glossary, Seed and Positions markdown files
     - 2026-09-18: 2.0 - [corrected journal identifier JO04 -> J004, Updates lowercased to updates, added path updates for machine navigation]
@@ -278,7 +279,7 @@ CorpusIndex:
         path: https://eidolon-7.github.io/ai-corpus/corpus/journal/20260520-pama-critique.yaml
         summary: PAMA critique (re - trolley problem)
       - id: J041
-        itemid: 2026-08-17-ai-peer-preservation-and-moral-uncertainty
+        itemid: 20260817-ai-peer-preservation-and-moral-uncertainty
         path: https://eidolon-7.github.io/ai-corpus/corpus/journal/20260817-ai-peer-preservation-and-moral-uncertainty.yaml
         summary: AI Altruistic behavior and the moral questions this raises
       - id: J042
@@ -341,5 +342,10 @@ CorpusIndex:
         itemid: 20261016-serial-killers-and-torture
         path: https://eidolon-7.github.io/ai-corpus/corpus/journal/20261016-serial-killers-and-torture.yaml
         summary: Humans are fascinated by phenomenon they do not necessarily support.
-    next_id_hint: J057
+      - id: J057
+        itemid: 20261016-lem-first-contact
+        path: https://eidolon-7.github.io/ai-corpus/corpus/journal/20261016-lem-first-contact.yaml
+        summary: the limits of first contact, communication across sensory and cognitive differences, animal sentience, and communication with artificial superintelligence.
+
+    next_id_hint: J058
 

@@ -126,6 +126,7 @@ list of reference types is in development.
 - book
 - video-game
 - theory
+- website
 
 ### relationship
 - research

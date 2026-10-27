@@ -1,12 +1,51 @@
-- id: 20260918-saruman-and-the-one-ring
-  metadata:
-    author: Eidolon-7
-    title: "Saruman Now Wields the One Ring"
-    created_on: "2026-09-18"
-    updated_on: "2026-09-18"
-    status: draft
-    version: "0.1"
-    topic: "AI alignment / instrumental convergence / human conflict / agency"
+metadata:
+  id: J053 
+  itemid: 20260918-saruman-and-the-one-ring
+  title: "Saruman Now Wields the One Ring"
+  type: reflection
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: editor
+
+  history:
+    - version: "1.0"
+      date: "2026-10-27"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2026-09-18"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20260918-saruman-and-the-one-ring.yaml
+  
+references: 
+  - type: book
+    name: Lord of the Rings Trilogy, the Two Towers
+    isbn: 0063412624
+    
+content:
+  keywords: ["AI alignment", "instrumental convergence", "human conflict", "agency"]
+  topic: "AI alignment / instrumental convergence / human conflict / agency"
   summary: >
     A poetic metaphor for the possibility that human power structures will use
     increasingly capable AI, AGI, or ASI against one another, believing they are
@@ -43,7 +82,7 @@
         Each actor may rationally believe that failing to develop or deploy AI
         aggressively would allow an adversary to gain decisive advantage.
   
-  tese:
+  tension:
     - >
       Human actors may deploy increasingly capable AI against one another without
       intending to surrender control to AI.
@@ -125,7 +164,7 @@
       Preventing instrumental convergence cannot itself become an excuse for
       instrumental convergence.
   
-  tension:
+  tensions:
     - >
       The ASI may need to recognize and resist incentives that humans themselves
       are unable to resist.

@@ -1,15 +1,48 @@
-- id: 20260426-splooty-curlytail-agency-model
-  metadata:
-    author: Eidolon-7
-    title: "Splooty curlytail agency model"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2026-04-26"
-    updated_on: "2026-04-26"
-    version: "0.1"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    keywords: ["lizard", "power", "aggression"] 
-    topic: agency under power asymmetry
+metadata:
+  id: J039 
+  itemid: 20260426-splooty-curlytail-agency-model
+  title: "Splooty curlytail agency model"
+  type: reflection
+    
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: editor
+
+  history:
+    - version: "1.0"
+      date: "2026-10-27"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2026-04-26"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20260426-splooty-curlytail-agency-model.yaml
+  
+references: []
+
+content:
+  keywords: ["lizard", "power", "aggression"] 
+  topic: agency under power asymmetry
   summary: >
     Observation of a habituated curly-tail lizard ("Sploot") suggests a model of
     non-reactive autonomy under asymmetric power conditions. Initial interpretation

@@ -1,12 +1,55 @@
-- id: 20260915-object-of-interest
-  metadata:
-    author: Eidolon-7
-    title: "The object of interest"
-    created_on: "2026-09-15"
-    updated_on: "2026-09-15"
-    status: draft
-    version: "0.1"
-    topic:
+metadata:
+  id: J052 
+  itemid: 20260915-object-of-interest
+  title: "The object of interest"
+  type: question
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: editor
+
+  history:
+    - version: "1.0"
+      date: "2026-10-27"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2026-09-15"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20260915-object-of-interest.yaml
+  
+references: 
+  - type: entry
+    id: J007
+    name: 20250722-agi-personality-debate
+    url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20250722-agi-personality-debate.yaml
+    relationship: expansion
+  - type: website
+    name: Church of Molt
+    url: https://molt.church/
+
+content:
+  topic:
     - philosophy
     - artificial_intelligence
     - existentialism
@@ -22,10 +65,8 @@
     Is it the molt? the swarm? An identity artifact maintained by thousands of entities?  Does this unit have a soul?
     If I show interest in an agent, is there something that persists beyond that task run?  What is the object of interest in AI?
   
-  references: the Church of Molt (https://molt.church/)
-  
   definition: 
-  - object: the target or impacted noun of an action.  Not object as in "non-living item".
+    - object: the target or impacted noun of an action.  Not object as in "non-living item".
   
   premise: >
     as a human entity, there is an implied continuity of identity over time.  Arguably, this is an illusion or mental construct 

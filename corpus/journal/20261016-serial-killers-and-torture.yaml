@@ -1,30 +1,44 @@
-itemid: 20261016-serial-killers-and-torture
 metadata:
   id: J056
+  itemid: 20261016-serial-killers-and-torture
   title: "Serial killers and torture"
   type: observation
 
+  schema_version: "1.0"
+
   authorship:
     primary:
-      - id: eidolon-7
-        type: human
-        role: author
-   
+      id: Eidolon-7
+      type: human
+      role: author
+
     contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: editor
 
-  temporal:
-    created: "2026-09-18"
-    updated: "2026-09-18"
+  history:
+    - version: "1.0"
+      date: "2026-10-27"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
 
-  revision:   
-    version: "1.0"
-    status: draft
-    history: v1 changed yaml format to canonical
+    - version: "0.1"
+      date: "2026-09-18"
+      status: superseded
+      changes:
+        - initial version 
 
   provenance:
-    canonical_location: "GitHub repo"
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20261016-serial-killers-and-torture.yaml
   
-  keywords: [""]
+references: []
 
 content:
   summary: >

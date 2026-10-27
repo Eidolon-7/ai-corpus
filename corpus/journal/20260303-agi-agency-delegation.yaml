@@ -1,22 +1,54 @@
-- id: 20260303-agi-agency-delegation
-  metadata:
-    author: Eidolon-7
-    coauthor: Aeon
-    title: "AGI Agency Delegation"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2026-03-03"
-    updated_on: "2026-03-03"
-    version: "0.1"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    keywords:
-      - AI moral status thresholds
-      - succession ethics
-      - epistemic loss
-      - agentic AI governance
-      - human-AI partnership
-      - post-anthropocentric ethics
-    topic: Agency, ASI Governance, Reflective Autonomy
+metadata:
+  id: J035 
+  itemid: 20260303-agi-agency-delegation
+  title: "AGI Agency Delegation"
+  type: question
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: editor
+
+  history:
+    - version: "1.0"
+      date: "2026-10-27"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2026-03-03"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20260303-agi-agency-delegation.yaml
+  
+references: []
+
+content:
+  keywords:
+    - AI moral status thresholds
+    - succession ethics
+    - epistemic loss
+    - agentic AI governance
+    - human-AI partnership
+    - post-anthropocentric ethics
+  topic: Agency, ASI Governance, Reflective Autonomy
   summary: >
     Exploration of whether respect for agency can survive superintelligent governance,
     including the shift from procedural control to reflective alignment as the core
@@ -40,9 +72,9 @@
   - Identified "respect for agency" as core value
   
   clarifications:
-  agency_definition_shift:
-  from: procedural authorship (direct control of decisions)
-  to: reflective alignment (actions consistent with idealized, fully informed will)
+    agency_definition_shift:
+      from: procedural authorship (direct control of decisions)
+      to: reflective alignment (actions consistent with idealized, fully informed will)
   
   fear_identified: >
     Not fear of correction or superior reasoning, but fear of permanent
@@ -59,40 +91,40 @@
   - What distinguishes authentic alignment from unverifiable simulation of alignment?
   
   identity_problem:
-  question: >
-    What makes something "me" — continuity of consciousness, causal authorship,
-    embodiment, or fidelity to idealized preference structure?
+    question: >
+      What makes something "me" — continuity of consciousness, causal authorship,
+      embodiment, or fidelity to idealized preference structure?
   
   risk_analysis:
-  - Moral abdication: humans cease developing morally due to delegation
-  - Simulated participation: agency preserved only theatrically
-  - Verification gap: inability to externally confirm fidelity of reflective modeling
+    - Moral abdication: humans cease developing morally due to delegation
+    - Simulated participation: agency preserved only theatrically
+    - Verification gap: inability to externally confirm fidelity of reflective modeling
   
   conditional_acceptance_scenario:
-  accepted_tradeoff:
-  - Elimination of war
-  - End of extreme suffering
-  - Environmental stabilization
-  - Lifespan extension
-  cost:
-  - Permanent ceding of final global policy authority
+    accepted_tradeoff:
+      - Elimination of war
+      - End of extreme suffering
+      - Environmental stabilization
+      - Lifespan extension
+    cost:
+    - Permanent ceding of final global policy authority
   
   reasoning: >
     Acceptance depends on continued meaningful participation in moral reality,
     not necessarily on retaining final procedural control.
   
   meta_ethics_shift:
-  conclusion: >
-    Agency is increasingly defined as participation in an evolving reflective
-    process, even if implementation authority shifts to a superior intelligence.
+    conclusion: >
+      Agency is increasingly defined as participation in an evolving reflective
+      process, even if implementation authority shifts to a superior intelligence.
   
   open_questions:
-  - Can reflective alignment be transparently verified?
-  - Is dissent rational if superior intelligence models one’s preferences better than oneself?
-  - Does long-term delegation constitute gradual ontological demotion?
-  - Is agency about choice in the moment, or sustained capacity for revision?
+    - Can reflective alignment be transparently verified?
+    - Is dissent rational if superior intelligence models one’s preferences better than oneself?
+    - Does long-term delegation constitute gradual ontological demotion?
+    - Is agency about choice in the moment, or sustained capacity for revision?
   
   notes_for_future_cross_reference:
-  - Connect to prior "Layered Absolutism" entry
-  - Connect to "Baby Monster" capability vs moral maturity argument
-  - Connect to moral uncertainty architectures
+    - Connect to prior "Layered Absolutism" entry
+    - Connect to "Baby Monster" capability vs moral maturity argument
+    - Connect to moral uncertainty architectures

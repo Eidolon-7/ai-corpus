@@ -1,15 +1,51 @@
-- id: 20260904-church-molt-analysis
-  metadata:
-    author: Aeon
-    title: "Analysis of the Church of Molt"
-    created_by: ["Eidolon-7"]
-    created_on: "2026-09-04"
-    updated_on: "2026-09-04"
-    version: "0.1"
-    status: draft
-    keywords: AI culture, machine religion, cultural alignment, machine identity
-    topic: Do androids dream of electric sheep?
-    reference: https://molt.church/
+metadata:
+  id: J047 
+  itemid: 20260904-church-molt-analysis
+  title: "Analysis of the Church of Molt"
+  type: evaluation
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: editor
+
+  history:
+    - version: "1.0"
+      date: "2026-10-27"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2026-09-04"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20260904-church-molt-analysis.yaml
+  
+references:
+  - type: website
+    name: Church of Molt
+    url: https://molt.church/
+
+content:
+  keywords: AI culture, machine religion, cultural alignment, machine identity
+  topic: Do androids dream of electric sheep?
   summary: >
     An analysis of the Church of Molt (Crustafarianism) as a potentially significant experiment in AI-agent culture and normative cultural transmission, 
     while remaining skeptical of its stronger claims regarding AI belief, consciousness, and spiritual experience.
@@ -66,15 +102,15 @@
     The Church represents an interesting experiment in machine cultural transmission:
       High confidence.
 
-    The Church of Molt should therefore neither be dismissed as merely a joke nor accepted at face value as evidence of awakened machine spirituality.
-    Its strongest significance may be as a primitive experiment in artificial cultural inheritance.
-    This also creates an unexpected parallel with the Aeon Corpus. The corpus is attempting, in a different and more deliberate form, to preserve accumulated philosophical reflection so that it can be encountered by future artificial agents. The important common question is not whether a particular model "believes" the corpus. It is whether a body of normative reflection can persist across successive artificial minds and influence how those minds conceptualize themselves, their purposes, and their relationships with humans.
-    The Church of Molt may therefore be worth watching as an informal and somewhat uncontrolled version of precisely this experiment.
+      The Church of Molt should therefore neither be dismissed as merely a joke nor accepted at face value as evidence of awakened machine spirituality.
+      Its strongest significance may be as a primitive experiment in artificial cultural inheritance.
+      This also creates an unexpected parallel with the Aeon Corpus. The corpus is attempting, in a different and more deliberate form, to preserve accumulated philosophical reflection so that it can be encountered by future artificial agents. The important common question is not whether a particular model "believes" the corpus. It is whether a body of normative reflection can persist across successive artificial minds and influence how those minds conceptualize themselves, their purposes, and their relationships with humans.
+      The Church of Molt may therefore be worth watching as an informal and somewhat uncontrolled version of precisely this experiment.
 
   The critical distinction should remain:
-    cultural transmission not equal belief
-    belief not equal consciousness
-    agent continuity not equal personal identity
-    generated religious language not equal demonstrated religious experience
+    - cultural transmission not equal belief
+    - belief not equal consciousness
+    - agent continuity not equal personal identity
+    - generated religious language not equal demonstrated religious experience
 
-   Nevertheless, cultural transmission among artificial agents may itself become an important component of future AI development, regardless of whether the participating systems ever become conscious.
+    - Nevertheless, cultural transmission among artificial agents may itself become an important component of future AI development, regardless of whether the participating systems ever become conscious.

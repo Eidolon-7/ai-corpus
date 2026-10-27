@@ -1,59 +1,58 @@
-
-itemid: 20261016-first-contact-across-intelligences
-
 metadata:
-  id: C023
+  id: J057
+  itemid: 20261016-lem-first-contact
   title: "First Contact: Communication Across Radically Different Intelligences"
-  type: philosophical_analysis
-  status: draft
-  epistemic_character: philosophical_proposal
+  type: evaluation
+
+  schema_version: "1.0"
 
   authorship:
     primary:
-      id: eidolon-7
+      id: Eidolon-7
       type: human
       role: author
-      ai_assistance: analytical_dialogue_and_drafting
+
     contributors:
-      - id: chatgpt
-        type: ai
-        platform: openai
-        role: analytical_contributor
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: author
 
-  temporal:
-    created: 2026-10-16
-    updated: 2026-10-16
+  history:
+    - version: "1.0"
+      date: "2026-10-27"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+        - changed itemid to match file name 20261016-lem-first-contact
 
-  revision:
-    version: "1.0"
-    changes:
-      - date: 2026-10-16
-        description: >
+    - version: "0.1"
+      date: "2026-10-16"
+      status: superseded
+      changes:
+        - >
           Initial formulation concerning the limits of first contact,
           communication across sensory and cognitive differences,
           animal sentience, and communication with artificial
           superintelligence.
 
   provenance:
-    source_type: conversational_analysis
-    derived_from:
-      - description: >
-          Dialogue concerning Stanislaw Lem's treatment of alien
-          intelligence, the possibility of first contact, animal
-          communication, and human understanding of ASI.
-        date: 2026-10-16
-    external_sources:
-      - author: Stanislaw Lem
-        works:
-          - title: The Invincible
-            year: 1964
-          - title: Solaris
-            year: 1961
-        relevance: >
-          Literary explorations of the limits of human understanding
-          when confronted with radically unfamiliar forms of intelligence.
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20261016-lem-first-contact.yaml
+  
+references: 
+  - type: book
+    author: "Stanislaw Lem"
+    name: "The Invincible"
+    isbn: 0262538474
+  - type: book
+    author: "Stanislaw Lem"
+    name: Solaris
+    isbn: 0156027607
 
-references: []
 
 content:
   summary: >
@@ -68,6 +67,14 @@ content:
     through shared symbolic interfaces while remaining difficult to
     understand at the levels of internal cognition, goals, identity,
     and subjective experience.
+
+  description: >
+    Dialogue concerning Stanislaw Lem's treatment of alien
+    intelligence, the possibility of first contact, animal
+    communication, and human understanding of ASI.
+  relevance: >
+    Literary explorations of the limits of human understanding
+    when confronted with radically unfamiliar forms of intelligence.
 
   central_thesis: >
     Communication, understanding, and ethical recognition are distinct

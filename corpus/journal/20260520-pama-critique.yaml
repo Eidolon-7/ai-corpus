@@ -1,15 +1,49 @@
-- id: 20260520-pama-critique
-  metadata:
-    author: Eidolon-7
-    title: "PAMA critique (re - trolley problem)"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2026-05-20"
-    updated_on: "2026-05-20"
-    version: "0.1"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    keywords: 
-    topic: PAMA Architecture Review and Failure Analysis
+metadata:
+  id: J040
+  itemid: 20260520-pama-critique
+  title: "PAMA critique (re - trolley problem)"
+  type: evaluation
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: editor
+
+  history:
+    - version: "1.0"
+      date: "2026-10-27"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+        - added url with published github uri
+
+    - version: "0.1"
+      date: "2026-05-20"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20260520-pama-critique.yaml
+  
+references: []
+
+content:
+  keywords: 
+  topic: PAMA Architecture Review and Failure Analysis
   summary: >
    Evaluation of the PAMA bootstrap architecture after applying it to the
    trolley problem. The review identified strengths in epistemic humility
@@ -19,6 +53,7 @@
  
   context:
     source_file: https://raw.githubusercontent.com/Eidolon-7/ai-corpus/main/PAMA/bootstrap.md
+    url: https://eidolon-7.github.io/ai-corpus/PAMA/bootstrap.md
     evaluation_trigger: >
       Application of PAMA principles to the classical trolley problem as
       a stress test for advisory moral reasoning.

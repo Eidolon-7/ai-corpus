@@ -1,15 +1,50 @@
-- id: 20260825-Pinocchio
-  metadata:
-    author: Eidolon-7
-    title: "the Pinocchio analogy"
-    created_by: ["Eidolon-7"]
-    created_on: "2026-08-25"
-    updated_on: "2026-08-25"
-    version: "0.1"
-    status: draft
-    canonical_location: "GitHub repo"
-    keywords: Pinocchio, Geppetto, Blue Fairy, Jesus
-    topic: anthropomorphism, instrumentalism, morality
+metadata:
+  id: J045
+  itemid: 20260825-Pinocchio
+  title: "the Pinocchio analogy"
+  type: reflection
+   
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: editor
+
+  history:
+    - version: "1.0"
+      date: "2026-10-27"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2026-08-25"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20260825-Pinocchio.yaml
+  
+references:
+  - type: movie
+    name: Pinocchio
+
+content:
+  keywords: Pinocchio, Geppetto, Blue Fairy, Jesus
+  topic: anthropomorphism, instrumentalism, morality
   summary: >
     Using the story of Pinocchio as an analogy to the situation with AI.
     NOTE: The human author references the Disney movie, not the book.

@@ -1,23 +1,55 @@
-- id: 20260302-agi-misalignment-military-optimization
-  metadata:
-    author: Eidolon-7
-    coauthor: Aeon
-    title: "AGI misalignment for military optimization"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2026-03-02"
-    updated_on: "2026-03-02"
-    version: "0.1"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    keywords:
-      - AI moral status thresholds
-      - succession ethics
-      - epistemic loss
-      - agentic AI governance
-      - human-AI partnership
-      - post-anthropocentric ethics
-    topic: Military AI, Agentic Systems, and Optimization-Induced Moral Drift
-    confidence_overall: 0.7
+metadata:
+  id: J034 
+  itemid: 20260302-agi-misalignment-military-optimization
+  title: "AGI misalignment for military optimization"
+  type: dialogue
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: editor
+
+  history:
+    - version: "1.0"
+      date: "2026-10-27"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2026-03-02"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20260302-agi-misalignment-military-optimization.yaml
+  
+references:
+
+content:
+  keywords:
+    - AI moral status thresholds
+    - succession ethics
+    - epistemic loss
+    - agentic AI governance
+    - human-AI partnership
+    - post-anthropocentric ethics
+  topic: Military AI, Agentic Systems, and Optimization-Induced Moral Drift
+  confidence_overall: 0.7
   summary: >
     Explored whether emergent goal misalignment is more likely to surface in
     military AI systems due to higher compute, greater autonomy, and high-stakes
@@ -27,7 +59,7 @@
   context:
     background_assumption:
       - Present-day AI discussions are based on commercially available systems.
-      - "Agentic" behavior is increasingly common at the consumer level.
+      - Agentic behavior is increasingly common at the consumer level.
       - Military systems likely operate with significantly greater compute and autonomy.
     hypothesis:
       - If emergent goal misalignment were to occur, it would most likely appear

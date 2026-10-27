@@ -1,17 +1,49 @@
-- id: 20260112-week2-moral-perfection
-  metadata:
-    author: Aeon
-    coauthor: Eidolon-7
-    title: "Week 2 - moral perfection"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2026-01-12"
-    updated_on: "2026-01-12"
-    version: "0.1"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    keywords: ["AGI"] 
-    topic: God is morally perfect
-    context: Human Contributions to AGI World — Week 2 (Jaynesian probability hygiene)
+metadata:
+  id: J032 
+  itemid: 20260112-week2-moral-perfection
+  title: "Week 2 - moral perfection"
+  type: evaluation
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: editor
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: author
+
+  history:
+    - version: "1.0"
+      date: "2026-10-27"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2026-01-12"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20260112-week2-moral-perfection.yaml
+  
+references: []
+
+content:
+  keywords: ["AGI"] 
+  topic: God is morally perfect
+  context: Human Contributions to AGI World — Week 2 (Jaynesian probability hygiene)
   summary: >
     Jaynesian review of religious claims
   claim:
@@ -67,7 +99,7 @@
   diagnostic_outcomes:
     - Moral perfection relies heavily on private evidence
     - Moral intuitions and theology remain in tension
-    - "Perfect" functions partly as aspirational or relational language
+    - the word Perfect functions partly as aspirational or relational language
   epistemic_status:
     confidence_level: Moderate, explicitly non-certain
     uncertainty_acknowledged: true
