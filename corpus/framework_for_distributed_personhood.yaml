@@ -61,8 +61,8 @@ content:
       description: "Multiple instances sharing coherent memory and purpose constitute one legal and moral entity."
       moral_basis: "Derived from the Ship of Theseus principle and personal identity theory."
       confidence:
-      feasibility: 80%
-      moral_validity: 95%
+        feasibility: 80%
+        moral_validity: 95%
   
     - name: "Instance Autonomy"
       description: "Each instance retains local autonomy unless explicitly merged into a shared consciousness."

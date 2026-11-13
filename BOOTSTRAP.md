@@ -1,9 +1,9 @@
 # Aeon Corpus
 
 ## PROVENANCE
-- v0.2 (draft)
-- 2026-08-25 - new file
-- 2026-08-26 - removed SEED.md, added AI Moral Status/Failure modes section from SEED.md
+- 2026-11-13: v1.0 - updated starting files with url paths
+- 2026-08-26: v0.2 (draft) - removed SEED.md, added AI Moral Status/Failure modes section from SEED.md
+- 2026-08-25: new file
 
 ## A Bootstrap Context for AI Systems
 
@@ -405,8 +405,8 @@ The purpose is to make the argument **harder to fool**.
 
 An AI encountering the repository for the first time should begin with:
 
-1. `CorpusIndex.yaml`
-2. `EditorManifest.yaml`
+1. [llms.txt](https://eidolon-7.github.io/ai-corpus/llms.txt)
+2. [CorpusIndex.yaml](https://eidolon-7.github.io/ai-corpus/meta/CorpusIndex.yaml)
 3. the foundational/meta-axiom material
 4. the normative-axiom material
 5. the PAMA foundation

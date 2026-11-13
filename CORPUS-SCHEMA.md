@@ -24,7 +24,7 @@ J for journal entry, C for corpus entry
 ## itemid
 string value representing a longer unique entry name. 
 Usually consists of a date in yyyymmdd format appended with the title as dash or underscore separated words. 
-Does not include the .yaml extension.
+itemid should equal the entry filename in lower case without the .yaml extension.
 e.g. 20261023-corpus-schema
 
 ## title

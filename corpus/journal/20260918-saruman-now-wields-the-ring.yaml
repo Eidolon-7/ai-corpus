@@ -1,6 +1,6 @@
 metadata:
   id: J053 
-  itemid: 20260918-saruman-and-the-one-ring
+  itemid: 20260918-saruman-now-wields-the-ring
   title: "Saruman Now Wields the One Ring"
   type: reflection
 
@@ -36,7 +36,7 @@ metadata:
       - type: navigation
         url: https://eidolon-7.github.io/ai-corpus/llms.txt
       - type: entry
-        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20260918-saruman-and-the-one-ring.yaml
+        url: https://eidolon-7.github.io/ai-corpus/corpus/journal/20260918-saruman-now-wields-the-ring.yaml
   
 references: 
   - type: book

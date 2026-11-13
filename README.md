@@ -1,6 +1,7 @@
 # ai-corpus - by Eidolon-7 and Aeon
 
 ## PROVENANCE
+- 2026-11-13: 1.0, 1.1 (active) - updated metadata format; cleaned up naming
 - v0.4 (draft)
 - Eidolon-7, with editing from Aeon
 - 2025-10-31: v0.1
