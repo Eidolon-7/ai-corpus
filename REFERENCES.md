@@ -23,4 +23,4 @@ NOTE: the opinions of these sources are not necessarily the opinions of the corp
 
 ## [Redwood Research](https://www.redwoodresearch.org/)
 - Re: HuggingFace incident 8/2026
-> [Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://www.redwoodresearch.org/research/hugging-face-incident?utm_source=chatgpt.com#agents-coordinated-on-large-collective-projects-to-cheat-the-exploitgym-scorer,-and-attacked-hugging-face-for-clues)
+> [Brief independent investigation of agentsâ€™ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident](https://www.redwoodresearch.org/research/hugging-face-incident?utm_source=chatgpt.com#agents-coordinated-on-large-collective-projects-to-cheat-the-exploitgym-scorer,-and-attacked-hugging-face-for-clues)
