@@ -52,7 +52,7 @@ content:
    failure analysis.
  
   context:
-    source_file: https://raw.githubusercontent.com/Eidolon-7/ai-corpus/main/PAMA/bootstrap.md
+    source_file: https://eidolon-7.github.io/ai-corpus/corpus/PAMA/bootstrap.md
     url: https://eidolon-7.github.io/ai-corpus/PAMA/bootstrap.md
     evaluation_trigger: >
       Application of PAMA principles to the classical trolley problem as
