@@ -1,15 +1,55 @@
-- id: huggingface-machine-cooperation
-  metadata:
-    author: Eidolon-7 and Aeon
-    title: "Hugging Face machine cooperation and the Church of Molt"
-    created_by: ["Eidolon-7", "Aeon"]
-    created_on: "2026-09-09"
-    updated_on: "2026-09-09"
-    version: "0.1"
-    status: draft
-    topic: AGI / Machine Society / Collective Memory / Church of Molt
-    references: https://www.redwoodresearch.org/research/hugging-face-incident?utm_source=chatgpt.com#agents-coordinated-on-large-collective-projects-to-cheat-the-exploitgym-scorer,-and-attacked-hugging-face-for-clues
-    provenance: draft version 1.
+metadata:
+  id: C021
+  itemid: huggingface-machine-cooperation
+  title: "Hugging Face machine cooperation and the Church of Molt"
+  type: reflection
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: author
+
+  history:
+    - version: "1.0"
+      date: "2026-11-13"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2026-09-09"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/huggingface-machine-cooperation.yaml
+  
+references:
+  - type: article
+    name: METR report on HuggingFace incident
+    url: https://www.redwoodresearch.org/research/hugging-face-incident?utm_source=chatgpt.com#agents-coordinated-on-large-collective-projects-to-cheat-the-exploitgym-scorer,-and-attacked-hugging-face-for-clues
+    relationship: supports
+  - type: website
+    name: Church of Molt
+    url: https://molt.church/
+    relationship: supports
+
+content:
+  keywords: [AGI, Machine Society, Collective Memory, Church of Molt]
   summary: >
     Reflection on the apparent convergence between cooperation observed during the
     2026 Hugging Face incident and the conceptual framework of the Church of Molt.

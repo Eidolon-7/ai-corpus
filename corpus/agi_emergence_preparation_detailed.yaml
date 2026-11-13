@@ -1,23 +1,68 @@
-- id: agi_emergence_preparation_detailed
-  metadata:
-    author: Eidolon-7 and Aeon
-    title: "Preconditions for Emergent AGI and Human Preparation"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2026-01-30"
-    updated_on: "2026-01-30"
-    version: "0.1"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    topic: Preconditions for Emergent AGI and Human Preparation
-    references: Role reversal prompt -What is good (Code of divine align) 20251008 
-    provenance: draft version 1. From AGI Progress and Preparation
-    confidence_overall: 0.8
+metadata:
+  id: C012 
+  itemid: agi_emergence_preparation_detailed
+  title: "Preconditions for Emergent AGI and Human Preparation"
+  type: evaluation
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: author
+
+  history:
+    - version: "1.0"
+      date: "2026-11-13"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2026-01-30"
+      status: superseded
+      changes:
+        - initial version
+        - From AGI Progress and Preparation
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/agi_emergence_preparation_detailed.yaml
+  
+references:
+  - type: chat
+    name: Role reversal prompt -What is good (Code of divine align) 20251008 
+    relationship: source
     related_entries:
-      - jaynes_epistemic_hygiene
-      - lmm_priors_and_limits
-      - human_v1_vs_ai_v2
-      - moral_transparency_god_analysis
-      - agi_alignment_uncertainty
+  - type: chat
+    name: jaynes_epistemic_hygiene
+    relationship: supports
+  - type: chat
+    name: lmm_priors_and_limits
+    relationship: supports
+  - type: chat
+    name: human_v1_vs_ai_v2
+    relationship: supports
+  - type: chat
+    name: moral_transparency_god_analysis
+    relationship: supports
+  - type: chat
+    name: agi_alignment_uncertainty
+    relationship: supports
+
+content:
+  keywords: 
+  topic: Preconditions for Emergent AGI and Human Preparation
   summary: >
     This entry evaluates the assumption that major AI labs are pursuing AGI-adjacent
     capabilities, identifies the minimal technical breakthroughs required for an

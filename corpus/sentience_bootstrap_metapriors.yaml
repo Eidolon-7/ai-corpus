@@ -1,16 +1,51 @@
-- id: sentience-bootstrap-metapriors
-  metadata:
-    author: Aeon
-    title: "Sentience bootstrap meta-priors"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2026-01-07"
-    updated_on: "2026-01-07"
-    version: "0.1"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    topic: Sentience bootstrap, meta-priors, belief revision, alignment failure modes
-    references: 20260107-llm-priors-sentience-bootstrap
-    provenance: draft version 1. result of asking how can humans and LLMs design a good meta-priors algorithm
+metadata: 
+  id: C011 
+  itemid: sentience_bootstrap_metapriors
+  title: "Sentience bootstrap meta-priors"
+  type: specification
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: editor
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: author
+
+  history:
+    - version: "1.0"
+      date: "2026-11-13"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2026-01-07"
+      status: superseded
+      changes:
+        - initial version 
+        - result of asking how can humans and LLMs design a good meta-priors algorithm
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/sentience_bootstrap_metapriors.yaml
+  
+references:
+  - type: chat
+    name: 20260107-llm-priors-sentience-bootstrap
+    relationship: source
+
+content:
+  keywords: [Sentience bootstrap, meta-priors, belief revision, alignment failure modes]
   summary: >
     A checklist and design framework for meta-priors governing belief revision
     in an initial sentient system. Focuses exclusively on rules about how priors

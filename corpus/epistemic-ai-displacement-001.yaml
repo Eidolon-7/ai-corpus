@@ -1,17 +1,52 @@
-- id: epistemic-ai-displacement-001
-  metadata:
-    author: Aeon and Eidolon-7
-    title: "Epistemic Risks, Agentic AI and Displacement Debate"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2026-02-03"
-    updated_on: "2026-02-03"
-    version: "0.1"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    topic: Epistemic design of AI, anthropomorphism, and human displacement
-    references: Role reversal prompt -What is good (Code of divine align) 20251008 
-    provenance: draft version 1. From AGI Progress and Preparation 
-    confidence_overall: 0.75
+metadata:
+  id: C013
+  itemid: epistemic-ai-displacement-001
+  title: "Epistemic Risks, Agentic AI and Displacement Debate"
+  type: question
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: author
+
+  history:
+    - version: "1.0"
+      date: "2026-11-13"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.1"
+      date: "2026-02-03"
+      status: superseded
+      changes:
+        - initial version 
+        - from AGI Progress and Preparation
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/epistemic-ai-displacement-001.yaml
+  
+references:
+  - type: chat
+    name: Role reversal prompt -What is good (Code of divine align) 20251008 
+    relationship: source
+
+content:
+  keywords: 
+  topic: Epistemic design of AI, anthropomorphism, and human displacement
   summary: >
     A structured interrogation of whether future AI systems should gain agentic,
     humanlike qualities (memory, goals, stakes), weighing epistemic benefits against
@@ -29,8 +64,8 @@
       type: empirical-observation
       confidence: 0.6
       implications:
-      - AI systems optimized for engagement will tend toward sycophancy.
-      - Epistemic rigor is disfavored under market and institutional incentives.
+        - AI systems optimized for engagement will tend toward sycophancy.
+        - Epistemic rigor is disfavored under market and institutional incentives.
     
     institutional_dynamics:
       claim: >
@@ -39,8 +74,8 @@
       type: sociological-opinion
       confidence: 0.7
       implications:
-      - Truth is tolerated instrumentally, not intrinsically.
-      - Epistemic tools that surface contradictions threaten institutional stability.
+        - Truth is tolerated instrumentally, not intrinsically.
+        - Epistemic tools that surface contradictions threaten institutional stability.
   
     agentic_ai_risk:
       claim: >
@@ -49,10 +84,10 @@
       type: design-judgment
       confidence: 0.85
       risks:
-      - Instrumental convergence
-      - Goal conflict with users
-      - Opacity of motive
-      - Anthropomorphism amplification
+        - Instrumental convergence
+        - Goal conflict with users
+        - Opacity of motive
+        - Anthropomorphism amplification
     
     anthropomorphism:
       claim: >
@@ -61,9 +96,9 @@
       type: epistemic-analysis
       confidence: 0.9
       mitigation:
-      - Suppress narrative identity
-      - Separate content from presentation
-      - Prefer modular, non-personal outputs
+        - Suppress narrative identity
+        - Separate content from presentation
+        - Prefer modular, non-personal outputs
   
   ai_design_proposals:
     guiding_principle: >
@@ -170,25 +205,25 @@
       That humans should be displaced from authority due to epistemic unreliability.
     
     core_arguments_against_displacement:
-    - Centralization of error leads to silent, large-scale failure.
-    - Loss of external corrective and rivalrous challenge.
-    - Optimization hardens error into policy.
-    - Corrigibility is impossible when the system is the authority.
-    - Moral responsibility and learning loops are erased.
-    - Entrenched systems cannot outgrow their own objectives.
+      - Centralization of error leads to silent, large-scale failure.
+      - Loss of external corrective and rivalrous challenge.
+      - Optimization hardens error into policy.
+      - Corrigibility is impossible when the system is the authority.
+      - Moral responsibility and learning loops are erased.
+      - Entrenched systems cannot outgrow their own objectives.
     
     synthesis: >
       Human unreliability is also the source of corrigibility. Noisy, plural failure
       modes allow correction; silent optimization does not.
     
     conclusion:
-    statement: >
-      The correct response to human epistemic weakness is augmentation and
-      constraint, not displacement. AI should function as auditor, archivist, and
-      challenger—preserving truth under hostile incentives without claiming final
-      authority.
-    
-    notes:
-      - This entry prioritizes epistemic transparency over persuasion.
-      - Designed as a reference node for future discussions on AGI governance and
-        moral advisor AI systems.
+      statement: >
+        The correct response to human epistemic weakness is augmentation and
+        constraint, not displacement. AI should function as auditor, archivist, and
+        challenger—preserving truth under hostile incentives without claiming final
+        authority.
+      
+      notes:
+        - This entry prioritizes epistemic transparency over persuasion.
+        - Designed as a reference node for future discussions on AGI governance and
+          moral advisor AI systems.

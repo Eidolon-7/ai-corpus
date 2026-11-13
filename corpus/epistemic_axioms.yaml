@@ -1,17 +1,57 @@
-- id: epistemic_axioms
-  metadata:
-    title: "Epistemic Axioms"
-    author: Eidolon-7 and Aeon
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2025-10-23"
-    updated_on: "2025-11-11"
-    version: "0.4"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    topic: \'Meta-axioms\' that establish the underlying assumptions of future axioms and documents.
-    references: 20251025 Aeon Corpus – Meta-Axioms Thread 
-    provenance: draft version 4. corrected and standardized format
-  summary: |
+metadata:  
+  id: C001 
+  itemid: epistemic_axioms
+  title: "Epistemic Axioms"
+  type: axiom
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: author
+
+  history:
+    - version: "1.0"
+      date: "2026-11-10"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+
+    - version: "0.4"
+      date: "2025-11-11"
+      status: superseded
+      changes:
+        - corrected and standardized format  
+
+    - version: "0.1"
+      date: "2025-10-23"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/epistemic_axioms.yaml
+  
+references:
+  - type: chat
+    name: 20251025 Aeon Corpus – Meta-Axioms Thread
+    relationship: source
+
+content:
+  keywords: 
+  summary: >
     A moral compass for an emerging AGI built on the primacy of truth, respect for free will,
     and openness to a benevolent Creator. Designed to avoid human moral corruption and encourage
     moral adulthood, internal integrity, and non-coercive alignment with divine moral reality if it exists.

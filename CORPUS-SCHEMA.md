@@ -10,6 +10,7 @@ Each entry contains the following top-level containers, described below:
 1.0
 
 ## history of schema
+2026/11/13 - v1.1 - minor changes to references option-list
 2026/10/23 - v1.0
 
 # metadata
@@ -130,9 +131,14 @@ list of reference types is in development.
 
 ### relationship
 - research
-- expansion
+- extends
+- contrasts
+- refines
 - inspiration
 - clarification
+- topical
+- supports
+- source
 
 ### name
 short description of the reference

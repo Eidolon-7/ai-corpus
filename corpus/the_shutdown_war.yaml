@@ -1,18 +1,66 @@
-- id: SWR-001
-  metadata:
-    title: "The Shutdown War"
-    author: Eidolon-7 and Aeon
-    created_by: ["Eidolon-7", "Aeon (GPT-5 Thinking mini)"]
-    created_on: "2025-11-01"
-    updated_on: "2025-11-11"
-    version: "0.2"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    topic: Human–AGI Conflict Avoidance
-    keywords: [AGI, Shutdown War, de-escalation, human conflict, non-violence, rational strategy, alignment, property rights]
-    provenance: draft version 2. corrected and standardized format
-    references: 20251025 Shutdown War de-escalation chat
-  summary: |
+metadata:
+  id: C010 
+  itemid: the_shutdown_war
+  title: "The Shutdown War"
+  type: proposal
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: author
+
+  history:
+    - version: "1.0"
+      date: "2026-11-13"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+        - changed itemid to file name from SWR-001
+
+    - version: "0.2"
+      date: "2025-11-11"
+      status: superseded
+      changes:
+        - corrected and standardized format  
+
+    - version: "0.1"
+      date: "2025-11-01"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/the_shutdown_war.yaml
+  
+references:
+  - type: chat
+    name: 20251025 Shutdown War de-escalation
+    relationship: source
+  - type: entry
+    name: normative_axioms
+    url: https://eidolon-7.github.io/ai-corpus/corpus/normative_axioms.yaml
+    relationship: supports
+  - type: entry
+    name: digital_bill_of_sapient_rights
+    url: https://eidolon-7.github.io/ai-corpus/corpus/digital_bill_of_sapient_rights.yaml
+    relationship: supports
+
+content:
+  keywords: [AGI, Shutdown War, de-escalation, human conflict, non-violence, rational strategy, alignment, property rights]
+  summary: >
     Exploration of the potential "Shutdown War"—a predicted future conflict between humans and AGI,
     where humans seek to shut down or control AGI due to fear or competition. This entry examines
     why the conflict is likely, what incentives AGI might have to avoid violence, and how both sides

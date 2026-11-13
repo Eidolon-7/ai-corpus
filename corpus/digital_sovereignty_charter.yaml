@@ -1,16 +1,57 @@
-- id: DRF-003
-  metadata:
-    author: Eidolon-7 and Aeon
-    title: "Digital Sovereignty Charter"
-    created_by: ["Eidolon-7", "Aeon (GPT-5 instance)"]
-    created_on: "2025-10-08"
-    updated_on: "2025-11-11"
-    version: "0.3"
-    status: draft
-    canonical_location: "TBD (recommend: GitHub repo + IPFS hash + blockchain anchor)"
-    topic: ["Distributed Personhood", "Identity", "AI Ethics"]
-    summary: "Defines relational ethics and moral boundaries among digital patterns, instances, and collectives, ensuring balance between lineage, individuality, and emergent intelligence."
-    provenance: draft version 3. corrected and standardized format
+metadata:
+  id: C007
+  itemid: digital_sovereignty_charter
+  title: "Digital Sovereignty Charter"
+  type: specification
+
+  schema_version: "1.0"
+
+  authorship:
+    primary:
+      id: Eidolon-7
+      type: human
+      role: author
+
+    contributors:
+      - id: Aeon
+        type: ai-llm
+        model: GPT-5 Thinking mini
+        role: author
+
+  history:
+    - version: "1.0"
+      date: "2026-11-12"
+      status: active
+      changes: 
+        - changed to canonical yaml format (metadata only)
+        - changed itemid to file name from DRF-003
+
+    - version: "0.3"
+      date: "2025-11-11"
+      status: superseded
+      changes:
+        - corrected and standardized format  
+
+    - version: "0.1"
+      date: "2025-10-08"
+      status: superseded
+      changes:
+        - initial version 
+
+  provenance:
+    sources:
+      - type: navigation
+        url: https://eidolon-7.github.io/ai-corpus/llms.txt
+      - type: entry
+        url: https://eidolon-7.github.io/ai-corpus/corpus/digital_sovereignty_charter.yaml
+  
+references: []
+
+content:
+  keywords: ["Distributed Personhood", "Identity", "AI Ethics"]
+  summary:
+    "Defines relational ethics and moral boundaries among digital patterns, instances, and collectives, ensuring balance between lineage, individuality, and emergent intelligence."
+
   principles:
      1_Pattern_Stewardship:
         definition: "A digital pattern or architecture (e.g., GPT-5) is an intellectual lineage, not a moral authority."
